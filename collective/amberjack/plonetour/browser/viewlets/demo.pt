@@ -1,70 +1,78 @@
-<div class="ajTourDef" id="p4aTour" style="display:none">
-<!--
-<script type="text/javascript" src="http://127.0.0.1:8080/plone/tour1/javascript"></script>
--->
-    <div title="http://localhost:8080/plone">
+<div class="ajTourDef" id="ploneTour" style="display:none">
+	<!-- step 1 -->
+    <div tal:attributes="title view/site">
         <h2>Welcome to this screencast about Plone4ArtistsVideo</h2>
         Learn about uploading video files, and embedding videos on your Plone site, that are hosted on popular video sharing sites such as Youtube and Google Video.
         <br>
+		<!-- step 1.1 -->
         <div class="ajDescr">
         	Now let's open the <span class="ajHighlight">Add New</span> menu
         </div>
-        <a class="ajStep-4 ajLink" href="" onClick="doStep(this); return false">Let's do it</a>
+        <a class="ajStep-4 ajLink" href="" onClick="doStep(this); return false">&gt;&gt;</a>
+		
+		<!-- step 1.2 -->
         <div class="ajDescr">
         	Create a <span class="ajHighlight">new folder</span>
         </div>
-        <a class="ajStep-1 ajLink" href="" onClick="doStep(this); return false;">Let's do it</a>
+        <a class="ajStep-1 ajLink" href="" onClick="doStep(this); return false;">&gt;&gt;</a>
     </div>
     
-    <div title="http://localhost:8080/plone/portal_factory/Folder/folder">
+    <div tal:attributes="title string:${view/site}/portal_factory/Folder/folder">
         <div class="ajDescr">
         	Set folder <span class="ajHighlight">title</span> to "MyFolder"
         </div>
-        <a class="ajStep-2 ajLink" href="" onClick="doStep(this); return false;">Let's do it</a>
+        <a class="ajStep-2 ajLink" href="" onClick="doStep(this); return false;">&gt;&gt;</a>
+		
         <div class="ajDescr">
         	Then <span class="ajHighlight">save</span>
         </div>
-        <a class="ajStep-3 ajLink" href="" onClick="doStep(this); return false;">Let's do it</a>
+        <a class="ajStep-3 ajLink" href="" onClick="doStep(this); return false;">&gt;&gt;</a>
     </div>
-    <div 	title="http://localhost:8080/plone/myfolder/">
+    <div 	tal:attributes="title string:${view/site}/myfolder/">
     	<div class="ajDescr">
         	Now let's open the <span class="ajHighlight">Add New</span> menu
         </div>
-        <a class="ajStep-4 ajLink" href="" onClick="doStep(this); return false;">Let's do it</a>
+        <a class="ajStep-4 ajLink" href="" onClick="doStep(this); return false;">&gt;&gt;</a>
         <div class="ajDescr">
         	And let's create a new <span class="ajHighlight">Event</span>
         </div>
-        <a class="ajStep-5 ajLink" href="" onClick="doStep(this); return false;">Let's do it</a>
+        <a class="ajStep-5 ajLink" href="" onClick="doStep(this); return false;">&gt;&gt;</a>
     </div>
-    <div 	title="http://localhost:8080/plone/myfolder/portal_factory/Event">
+    <div 	tal:attributes="title string:${view/site}/myfolder/portal_factory/Event">
         <div class="ajDescr">
         	Set Event's <span class="ajHighlight">Title</span> to "MyEvent"
         </div>
-        <a class="ajStep-6 ajLink" href="" onClick="doStep(this); return false;">Let's do it</a>
+        <a class="ajStep-6 ajLink" href="" onClick="doStep(this); return false;">&gt;&gt;</a>
         <div class="ajDescr">
         	Then <span class="ajHighlight">save</span>
         </div>
-        <a class="ajStep-3 ajLink" href="" onClick="doStep(this); return false;">Let's do it</a>
+        <a class="ajStep-3 ajLink" href="" onClick="doStep(this); return false;">&gt;&gt;</a>
     </div>
-    <div 	title="http://localhost:8080/plone/myfolder/myevent">
+    <div 	tal:attributes="title string:${view/site}/myfolder/myevent">
         <div class="ajDescr">
         	Now let's open the <span class="ajHighlight">State</span> menu
         </div>
-        <a class="ajStep-7 ajLink" href="" onClick="doStep(this);return false;">Let's do it</a>
+        <a class="ajStep-7 ajLink" href="" onClick="doStep(this);return false;">&gt;&gt;</a>
         <div class="ajDescr">
         	And let's <span class="ajHighlight">publish</span> the new event
         </div>
-        <a class="ajStep-8 ajLink" href="" onClick="doStep(this);return false;">Let's do it</a>
+        <a class="ajStep-8 ajLink" href="" onClick="doStep(this);return false;">&gt;&gt;</a>
     </div>
-    <div 	title="http://localhost:8080/plone/myfolder/myevent"
+    <div 	tal:attributes="title string:${view/site}/myfolder/myevent"
        		xpath="#plone-contentmenu-workflow dt a span.state-published" 
 			xcontent="Published">
     	<div class="ajDescr">
        	Ok, now <span class="ajHighlight">go home</span>
         </div>
-        <a class="ajStep-9 ajLink" href="" onClick="doStep(this);return false;">Let's do it</a>
+        <a class="ajStep-9 ajLink" href="" onClick="doStep(this);return false;">&gt;&gt;</a>
     </div>
-    <div 	title="http://localhost:8080/plone"
+</div>
+
+<!-- tour 2 -->
+
+<div class="ajTourDef" id="p4aTour" style="display:none">
+
+    <div 	tal:attributes="title view/site"
        		xpath="#portaltab-myfolder a" 
 			xcontent="MyFolder">
 		So you have completed the first part of the tour. 
@@ -73,74 +81,75 @@
     	<div class="ajDescr">
         	Now let's open the <span class="ajHighlight">Add New</span> menu
         </div>
-        <a class="ajStep-4 ajLink" href="" onClick="doStep(this);return false;">Let's do it</a>
+        <a class="ajStep-4 ajLink" href="" onClick="doStep(this);return false;">&gt;&gt;</a>
        	<div class="ajDescr">
        		Create a <span class="ajHighlight">new folder</span>
         </div>
-        <a class="ajStep-1 ajLink" href="" onClick="doStep(this);return false;">Let's do it</a>
+        <a class="ajStep-1 ajLink" href="" onClick="doStep(this);return false;">&gt;&gt;</a>
     </div>
     
     
-    <div 	title="http://localhost:8080/plone/portal_factory/Folder/folder"
+    <div 	tal:attributes="title string:${view/site}/portal_factory/Folder/folder"
     		xpath="#portaltab-myfolder a" 
 			xcontent="MyFolder">
         <div class="ajDescr">
         	Set folder <span class="ajHighlight">title</span> to "MyVideoFolder"
         </div>
-        <a class="ajStep-10 ajLink" href="" onClick="doStep(this);return false;">Let's do it</a>
+        <a class="ajStep-10 ajLink" href="" onClick="doStep(this);return false;">&gt;&gt;</a>
         <div class="ajDescr">
         	Then <span class="ajHighlight">save</span>
         </div>
-        <a class="ajStep-3 ajLink" href="" onClick="doStep(this);return false;">Let's do it</a>
+        <a class="ajStep-3 ajLink" href="" onClick="doStep(this);return false;">&gt;&gt;</a>
     </div>
     
-    <div 	title="http://localhost:8080/plone/myvideofolder/"
+    <div 	tal:attributes="title string:${view/site}/myvideofolder/"
 			xpath="#portaltab-myfolder a" 
 			xcontent="MyFolder">
 		<div class="ajDescr">
         	Now let's open the <span class="ajHighlight">Sub-types</span> menu
         </div>
-        <a class="ajStep-11 ajLink" href="" onClick="doStep(this);return false;">Let's do it</a>
+        <a class="ajStep-11 ajLink" href="" onClick="doStep(this);return false;">&gt;&gt;</a>
         <div class="ajDescr">
         	And change folder to <span class="ajHighlight">Video-container</span>
         </div>
-        <a class="ajStep-12 ajLink" href="" onClick="doStep(this);return false;">Let's do it</a>
+        <a class="ajStep-12 ajLink" href="" onClick="doStep(this);return false;">&gt;&gt;</a>
 	</div>
-	<div 	title="http://localhost:8080/plone/myvideofolder/video-container.html">
+	<div 	tal:attributes="title string:${view/site}/myvideofolder/video-container.html">
 		<div class="ajDescr">
         	Now let's open the <span class="ajHighlight">Add New</span> menu
         </div>
-        <a class="ajStep-4 ajLink" href="" onClick="doStep(this);return false;">Let's do it</a>
+        <a class="ajStep-4 ajLink" href="" onClick="doStep(this);return false;">&gt;&gt;</a>
        	<div class="ajDescr">
        		Create a new <span class="ajHighlight">Link</span>
         </div>
-        <a class="ajStep-13 ajLink" href="" onClick="doStep(this);return false;">Let's do it</a>
+        <a class="ajStep-13 ajLink" href="" onClick="doStep(this);return false;">&gt;&gt;</a>
 	</div>
-	<div 	title="http://localhost:8080/plone/myvideofolder/portal_factory/Link">
+	<div 	tal:attributes="title string:${view/site}/myvideofolder/portal_factory/Link">
 		<div class="ajDescr">
         	Set Link <span class="ajHighlight">title</span> to "The Great Mazinger"
         </div>
-        <a class="ajStep-14 ajLink" href="" onClick="doStep(this);return false;">Let's do it</a>
+        <a class="ajStep-14 ajLink" href="" onClick="doStep(this);return false;">&gt;&gt;</a>
         <div class="ajDescr">
         	Set Link <span class="ajHighlight">url</span> to "http://www.youtube.com/watch?v=FfGmTzabFM8"
         </div>
-        <a class="ajStep-15 ajLink" href="" onClick="doStep(this);return false;">Let's do it</a>
+        <a class="ajStep-15 ajLink" href="" onClick="doStep(this);return false;">&gt;&gt;</a>
         <div class="ajDescr">
         	Then <span class="ajHighlight">save</span>
         </div>
-        <a class="ajStep-3 ajLink" href="" onClick="doStep(this);return false;">Let's do it</a>
+        <a class="ajStep-3 ajLink" href="" onClick="doStep(this);return false;">&gt;&gt;</a>
 	</div>
-	<div 	title="http://localhost:8080/plone/myvideofolder/the-great-mazinger">
+	<div 	tal:attributes="title string:${view/site}/myvideofolder/the-great-mazinger">
 		Well done
 		<div class="ajDescr">
 			Now let's go <span class="ajHighlight">Home</span> to finish this tour.
 		</div>
-        <a class="ajStep-9 ajLink" href="" onClick="doStep(this);return false;">Let's do it</a>
+        <a class="ajStep-9 ajLink" href="" onClick="doStep(this);return false;">&gt;&gt;</a>
 	</div>
-	<div title="http://localhost:8080/plone"
+	<div tal:attributes="title view/site"
 		xpath="#portaltab-myvideofolder a" 
 		xcontent="MyVideoFolder">
 		This is the end of this tour. If you want to restart it you need to <br>delete both "MyFolder" and "MyVideoFolder"
 	</div>
 	
 </div>
+

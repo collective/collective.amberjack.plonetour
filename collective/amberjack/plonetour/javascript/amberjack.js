@@ -220,6 +220,14 @@ function doStep(step){
 			jq("option[value="+tmp[i]+"]").attr("selected","selected");
 		}
 	}
+	else if(type_obj=="form_save_new" || type_obj=="form_save"){
+		var form = obj.parents("form")
+		form.submit(function(){
+			Amberjack.createCookie('ajcookie_tourId', Amberjack.tourId, 1);
+			Amberjack.createCookie('ajcookie_skinId', Amberjack.skinId, 1);
+		});
+		form.submit()
+	}
 	// STANDARD STEPS
 	else if(type_obj.match("menu")){
 		if(value=='deactivate') switchClass(obj, 'activated', 'deactivated');
@@ -232,7 +240,7 @@ function doStep(step){
 		obj.click(function(){
 			Amberjack.createCookie('ajcookie_tourId', Amberjack.tourId, 1);
 			Amberjack.createCookie('ajcookie_skinId', Amberjack.skinId, 1);
-		});
+		});	
 		obj.click();
 		if(obj.attr("href"))
 			location.href = obj.attr("href");
