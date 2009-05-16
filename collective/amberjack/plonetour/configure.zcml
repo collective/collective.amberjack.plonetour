@@ -1,0 +1,22 @@
+<configure
+   xmlns:zope="http://namespaces.zope.org/zope"
+   xmlns:browser="http://namespaces.zope.org/browser"
+   xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+   xmlns:five="http://namespaces.zope.org/five"
+   i18n_domain="collective.amberjackplonetour">
+
+ <genericsetup:registerProfile
+	     name="default"
+	     title="Amberjack Plone Tour"
+	     directory="profiles/default"
+	     description="Adds a demo tour to a Plone site"
+	     provides="Products.GenericSetup.interfaces.EXTENSION"
+	     />
+
+  <include package=".browser" />
+
+ <browser:resourceDirectory
+                name='collective_amberjackplonetour'
+                directory="javascript" />
+
+</configure>
