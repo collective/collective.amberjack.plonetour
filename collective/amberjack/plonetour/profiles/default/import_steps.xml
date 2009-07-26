@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<import-steps>
-  <import-step id="collective.amberjackplonetour" version="1"
-               handler="collective.amberjackplonetour.setupOutOfTheBox_ploneTour"
-               title="Out of the box plone Tour - basic">
-  </import-step>
-</import-steps>

@@ -3,6 +3,7 @@
    xmlns:browser="http://namespaces.zope.org/browser"
    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
    xmlns:five="http://namespaces.zope.org/five"
+   xmlns:collective.amberjack="http://namespaces.plone.org/collective.amberjack.core"
    i18n_domain="collective.amberjackplonetour">
 
  <genericsetup:registerProfile
@@ -13,10 +14,8 @@
 	     provides="Products.GenericSetup.interfaces.EXTENSION"
 	     />
 
-  <include package=".browser" />
-
- <browser:resourceDirectory
-                name='collective_amberjackplonetour'
-                directory="javascript" />
+  <collective.amberjack:tour
+		tourdescriptor="collective.amberjack.plonetour.tour.ajTour"
+		/>
 
 </configure>
