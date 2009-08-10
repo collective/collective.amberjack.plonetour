@@ -78,7 +78,7 @@ add_folder = {
                    },
                    {
                     'description': '''Then [save]''',
-                    'idStep' : 'form_save_new',
+                    'idStep' : 'form_save',
                     'selector' : '',
                     'text' : ''
                    },) 
@@ -127,7 +127,7 @@ fill_event = {
                        },
                        {
                         'description': '''Then [save]''',
-                        'idStep' : 'form_save_new',
+                        'idStep' : 'form_save',
                         'selector' : '',
                         'text' : ''
                        },
@@ -162,7 +162,7 @@ publish_event = {
 see_the_event = {
               'url':'/myfolder/myevent',
               'xpath':"#plone-contentmenu-workflow dt a span.state-published",
-              'xcontent':"Published",
+              'xcontent':"",
               'title': 'Done',
               'text': """Great job dude!<br> close the tour now""",
               'steps': ()
