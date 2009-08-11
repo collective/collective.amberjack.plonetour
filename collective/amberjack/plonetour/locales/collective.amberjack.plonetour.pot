@@ -1,0 +1,83 @@
+# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+# SOME DESCRIPTIVE TITLE.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2009-08-11 07:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: collective.amberjack.plonetour\n"
+
+#: ../tour.py:110
+msgid "And let's [publish] the new event"
+msgstr ""
+
+#: ../tour.py:80
+msgid "And let's create a new [Event]"
+msgstr ""
+
+#: ../tour.py:48
+msgid "Create a new [Folder]"
+msgstr ""
+
+#: ../tour.py:118
+msgid "Done"
+msgstr ""
+
+#: ../tour.py:119
+msgid "Great job dude! Close the tour now"
+msgstr ""
+
+#: ../tour.py:43
+msgid "Learn about uploading video files, and embedding videos on your Plone site, that are hosted on popular video sharing sites such as Youtube and Google Video."
+msgstr ""
+
+#: ../tour.py:44
+msgid "Now let's open the [Add new...] menu"
+msgstr ""
+
+#: ../tour.py:106
+msgid "Now let's open the [State] menu"
+msgstr ""
+
+#: ../tour.py:92
+msgid "Set Event's [Title] to 'MyEvent'"
+msgstr ""
+
+#: ../tour.py:60
+msgid "Set folder [Title] to 'MyFolder'"
+msgstr ""
+
+#: ../tour.py:64
+msgid "Then [save]"
+msgstr ""
+
+#: ../tour.py:42
+msgid "Welcome to this screencast about Plone4ArtistsVideo"
+msgstr ""
+
+#: ../tour.py:72
+msgid "add an Event"
+msgstr ""
+
+#: ../tour.py:88
+msgid "complete the fields and save it"
+msgstr ""
+
+#: ../tour.py:56
+msgid "create the folder"
+msgstr ""
+
+#: ../tour.py:104
+msgid "ok, let's publish it"
+msgstr ""
+

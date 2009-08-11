@@ -1,0 +1,83 @@
+# French translations for collective.amberjack.plonetour package
+# Traductions françaises du paquet collective.amberjack.plonetour.
+# Vincent Fretin <vincent.fretin@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: collective.amberjack.plonetour\n"
+"POT-Creation-Date: 2009-08-11 07:55+0000\n"
+"PO-Revision-Date: 2009-08-11 10:00+0100\n"
+"Last-Translator: Vincent Fretin <vincent.fretin@gmail.com>\n"
+"Language-Team: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: collective.amberjack.plonetour\n"
+
+#: ../tour.py:110
+msgid "And let's [publish] the new event"
+msgstr "Et [publiez] le nouvel événement"
+
+#: ../tour.py:80
+msgid "And let's create a new [Event]"
+msgstr "Et créez un nouvel [Événement]"
+
+#: ../tour.py:48
+msgid "Create a new [Folder]"
+msgstr "Créez un nouveau [Dossier]"
+
+#: ../tour.py:118
+msgid "Done"
+msgstr "Terminé"
+
+#: ../tour.py:119
+msgid "Great job dude! Close the tour now"
+msgstr "Bon travail ! Fermez la visite maintenant."
+
+#: ../tour.py:43
+msgid "Learn about uploading video files, and embedding videos on your Plone site, that are hosted on popular video sharing sites such as Youtube and Google Video."
+msgstr "Apprenez à télécharger vers le serveur des fichiers vidéos, et inclure dans votre site Plone des vidéos hébergées sur les sites de partage de vidéo populaire comme Youtube ou Google Video."
+
+#: ../tour.py:44
+msgid "Now let's open the [Add new...] menu"
+msgstr "Ouvrez maintenant le menu [Ajout d'un élément]"
+
+#: ../tour.py:106
+msgid "Now let's open the [State] menu"
+msgstr "Maintenant ouvez le menu [État]"
+
+#: ../tour.py:92
+msgid "Set Event's [Title] to 'MyEvent'"
+msgstr "Remplissez le [Titre] de l'évènement par 'MyEvent'"
+
+#: ../tour.py:60
+msgid "Set folder [Title] to 'MyFolder'"
+msgstr "Remplissez le champ [Titre] par 'MyFolder'"
+
+#: ../tour.py:64
+msgid "Then [save]"
+msgstr "Ensuite [enregistrez]"
+
+#: ../tour.py:42
+msgid "Welcome to this screencast about Plone4ArtistsVideo"
+msgstr "Bienvenue à ce screencast Plone4ArtistsVideo"
+
+#: ../tour.py:72
+msgid "add an Event"
+msgstr "ajoutez un événement"
+
+#: ../tour.py:88
+msgid "complete the fields and save it"
+msgstr "Remplissez les champs et sauvez"
+
+#: ../tour.py:56
+msgid "create the folder"
+msgstr "créer un dossier"
+
+#: ../tour.py:104
+msgid "ok, let's publish it"
+msgstr "ok, publiez le"
+
