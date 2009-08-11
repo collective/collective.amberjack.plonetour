@@ -3,10 +3,9 @@ A tour has this shape:
 
     {'tourId': 'example_tour',
      'title': _(u"Example tour"),
-     'skinId': 'safari',
-     'ajsteps': <ajsteps>}
+     'steps': <steps>}
 
-<ajsteps> has this shape:
+<steps> has this shape:
 
     ({'url': '/',
       'xpath': '',
@@ -122,12 +121,11 @@ see_the_event = {'url': '/myfolder/myevent',
 
 ajTour = {'tourId': 'example_tour',
           'title': 'Example tour',
-          'skinId': 'safari',
-          'ajsteps': (welcome,
-                      add_folder,
-                      create_event,
-                      fill_event,
-                      publish_event,
-                      see_the_event,
-                     )}
+          'steps': (welcome,
+                    add_folder,
+                    create_event,
+                    fill_event,
+                    publish_event,
+                    see_the_event,
+                   )}
 
