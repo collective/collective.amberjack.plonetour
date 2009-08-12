@@ -1,5 +1,7 @@
 <?xml version="1.0"?>
 <metadata>
-  <description>Adds a demo tour to a Plone site</description>
   <version>1</version>
+  <dependencies>
+    <dependency>profile-collective.amberjack.core:default</dependency>
+  </dependencies>
 </metadata>
