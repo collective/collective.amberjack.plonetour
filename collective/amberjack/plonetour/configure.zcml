@@ -1,21 +1,11 @@
 <configure
     xmlns:zope="http://namespaces.zope.org/zope"
     xmlns:browser="http://namespaces.zope.org/browser"
-    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
-    xmlns:five="http://namespaces.zope.org/five"
     xmlns:i18n="http://namespaces.zope.org/i18n"
     xmlns:collective.amberjack="http://namespaces.plone.org/collective.amberjack.core"
     i18n_domain="collective.amberjackplonetour">
 
     <i18n:registerTranslations directory="locales" />
-
-    <genericsetup:registerProfile
-        name="default"
-        title="Amberjack Plone Tour"
-        directory="profiles/default"
-        description="Adds a demo tour to a Plone site"
-        provides="Products.GenericSetup.interfaces.EXTENSION"
-        />
 
     <collective.amberjack:tour
         tourdescriptor="collective.amberjack.plonetour.tour.ajTour"
