@@ -48,7 +48,7 @@ now_fill_out_the_page_fields = {
                'idStep': '',
                'selector': '',
                'text': ''},
-              {'description': _(u"Save the page"),
+              {'description': _(u"[Save] the page"),
                'idStep': 'form_save',
                'selector': '',
                'text': ''},
