@@ -5,10 +5,12 @@
     xmlns:collective.amberjack="http://namespaces.plone.org/collective.amberjack.core"
     i18n_domain="collective.amberjackplonetour">
 
-    <i18n:registerTranslations directory="locales" />
+  <i18n:registerTranslations directory="locales" />
 
-    <collective.amberjack:tour
-        tourdescriptor="collective.amberjack.plonetour.tour.ajTour"
-        />
+  <collective.amberjack:tour
+      tourdescriptor="collective.amberjack.plonetour.tour.ajTour"
+      />
+
+  <include package=".basic" />
 
 </configure>
