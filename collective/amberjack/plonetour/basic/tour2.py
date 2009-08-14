@@ -34,7 +34,7 @@ now_fill_out_the_page_fields = {
     'url': '/myfolder/portal_factory/Document',
     'xpath': '',
     'xcontent': '',
-    'title': _(u"Now that you’ve select the Page content type, you’ll need to supply some information about the page"),
+    'title': _(u"Now that you've select the Page content type, you'll need to supply some information about the page"),
     'text': _(u""),
     'steps': ({'description': _(u"Provide a [Title] (My Page)"),
                'idStep': 'form_title',
