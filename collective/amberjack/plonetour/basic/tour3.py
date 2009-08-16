@@ -42,7 +42,7 @@ fill_out_the_fields = {
                'idStep': '',
                'selector': '',
                'text': ''},
-              {'description': _(u"Click Save to finish."),
+              {'description': _(u"Click [Save] to finish."),
                'idStep': 'form_save',
                'selector': '',
                'text': ''},
