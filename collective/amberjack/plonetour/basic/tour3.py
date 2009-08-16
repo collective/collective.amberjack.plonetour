@@ -5,7 +5,7 @@ PMF = MessageFactory('plone')
 
 
 welcome = go_to_folder.copy()
-welcome['title'] = _(u"Add and Publish a News Item")
+welcome['title'] = _(u"Add and publish a News Item")
 welcome['text'] = _(u"In this tutorial, you'll create a new News Item and publish it on your Plone-powered website.")
 
 
@@ -35,7 +35,7 @@ fill_out_the_fields = {
                'idStep': 'form_title',
                'selector': '',
                'text': 'My News'},
-              {'description': _(u"Provide a [Description] for your News Item. <br>The description will appear in site searches and in summary listings of news on your site."),
+              {'description': _(u"Provide a [Description] for your News Item. <br />The description will appear in site searches and in summary listings of news on your site."),
                'idStep': 'form_description',
                'selector': '',
                'text': ''},
