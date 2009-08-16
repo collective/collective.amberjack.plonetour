@@ -14,4 +14,12 @@
         tourdescriptor=".tour3.ajTour"
         />
 
+    <collective.amberjack:tour
+        tourdescriptor=".tour4.ajTour"
+        />
+
+    <collective.amberjack:tour
+        tourdescriptor=".tour11.ajTour"
+        />
+
 </configure>

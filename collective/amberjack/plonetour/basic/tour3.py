@@ -1,8 +1,13 @@
+from tour2 import go_to_folder
 from zope.i18nmessageid import MessageFactory
 _ = MessageFactory('collective.amberjack.plonetour')
 PMF = MessageFactory('plone')
 
-from tour2 import go_to_folder
+
+welcome = go_to_folder.copy()
+welcome['title'] = _(u"Add and Publish a News Item")
+welcome['text'] = _(u"In this tutorial, you'll create a new News Item and publish it on your Plone-powered website.")
+
 
 create_it = {
     'url': '/myfolder',
@@ -30,7 +35,7 @@ fill_out_the_fields = {
                'idStep': 'form_title',
                'selector': '',
                'text': 'My News'},
-              {'description': _(u"Provide a [Description] for your News Item. The description will appear in site searches and in summary listings of news on your site."),
+              {'description': _(u"Provide a [Description] for your News Item. <br>The description will appear in site searches and in summary listings of news on your site."),
                'idStep': 'form_description',
                'selector': '',
                'text': ''},
@@ -74,7 +79,7 @@ all_done = {
 
 ajTour = {'tourId': 'basic03_add_and_publish_a_news_item',
           'title': _(u"Add and publish a News Item"),
-          'steps': (go_to_folder,
+          'steps': (welcome,
                     create_it,
                     fill_out_the_fields,
                     publish_it,

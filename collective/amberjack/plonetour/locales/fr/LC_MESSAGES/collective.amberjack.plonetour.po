@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: collective.amberjack.plonetour\n"
-"POT-Creation-Date: 2009-08-16 12:53+0000\n"
+"POT-Creation-Date: 2009-08-16 15:28+0000\n"
 "PO-Revision-Date: 2009-08-16 14:34+0100\n"
 "Last-Translator: Vincent Fretin <vincent.fretin@gmail.com>\n"
 "Language-Team: French\n"
@@ -17,21 +17,37 @@ msgstr ""
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: collective.amberjack.plonetour\n"
 
+#: ../basic/tour11.py:14
+msgid "A folder is a special content type in Plone because it can contain other content items. The way that those contained items will appear on the screen can be changed using the Display drop-down menu."
+msgstr ""
+
 #: ../basic/tour2.py:21
 msgid "Add a Page"
 msgstr "Ajouter un Document"
+
+#: ../basic/tour3.py:8
+msgid "Add and Publish a News Item"
+msgstr ""
+
+#: ../basic/tour4.py:8
+msgid "Add and Publish an Event"
+msgstr ""
 
 #: ../basic/tour1.py:59
 msgid "Add and publish a Folder"
 msgstr "Ajouter et publier un Dossier"
 
-#: ../basic/tour3.py:76
+#: ../basic/tour3.py:81
 msgid "Add and publish a News Item"
 msgstr "Ajouter et publier une Actualité"
 
 #: ../basic/tour2.py:82
 msgid "Add and publish a Page"
 msgstr "Ajouter et publier un Document"
+
+#: ../basic/tour4.py:93
+msgid "Add and publish an Event"
+msgstr ""
 
 #: ../basic/tour2.py:47
 msgid "Add some page content (you can come back and edit this later)."
@@ -41,25 +57,57 @@ msgstr "Ajoutez un peu de contenu (vous pouvez revenir et modifier ça plus tard
 msgid "All done!"
 msgstr "Terminé !"
 
-#: ../basic/tour3.py:45
+#: ../basic/tour11.py:13
+msgid "Change the Folder Display"
+msgstr ""
+
+#: ../basic/tour11.py:53
+msgid "Choose a Default Content Item"
+msgstr ""
+
+#: ../basic/tour4.py:62
+msgid "Click Save to finish."
+msgstr ""
+
+#: ../basic/tour3.py:50
 msgid "Click [Save] to finish."
 msgstr "Cliquez sur [Enregistrer] pour terminer."
+
+#: ../basic/tour4.py:18
+msgid "Click the [Add New...] drop-down menu."
+msgstr ""
 
 #: ../basic/tour1.py:10
 msgid "Click the [Add new...] drop-down menu."
 msgstr "Cliquez sur le menu [Ajout d'un élément]."
 
+#: ../basic/tour11.py:7
+msgid "Click the [Display] drop-down menu"
+msgstr ""
+
+#: ../basic/tour11.py:59
+msgid "Click the [Save] button to finish."
+msgstr ""
+
 #: ../basic/tour1.py:42
 msgid "Click the [State] drop-down menu."
 msgstr "Cliquez sur le menu [État]."
 
-#: ../basic/tour3.py:11
+#: ../basic/tour4.py:16
+msgid "Create a Event"
+msgstr ""
+
+#: ../basic/tour3.py:16
 msgid "Create a News Item"
 msgstr "Créer une Actualité"
 
 #: ../basic/tour1.py:8
 msgid "Create a new folder"
 msgstr "Créer un nouveau Dossier"
+
+#: ../basic/tour4.py:17
+msgid "Events are useful for posting announcements about upcoming events that your company is hosting. Events function much like a page, with additional fields for adding information about an event."
+msgstr ""
 
 #: ../basic/tour1.py:22
 msgid "Fill out the fields"
@@ -73,7 +121,11 @@ msgstr "Un dossier est l'un des plus fondamentals types de contenu dans Plone. V
 msgid "Go to your folder"
 msgstr "Naviguer vers un dossier"
 
-#: ../basic/tour3.py:56
+#: ../basic/tour4.py:73
+msgid "In order for anonymous site visitors to see your event you must publish it first. Publishing also makes your event available in the event portlet and event collection."
+msgstr ""
+
+#: ../basic/tour3.py:61
 msgid "In order for anonymous site visitors to see your news item you must publish it first. Publishing also makes your news item available in the news portlet and news collection."
 msgstr "Pour que les visiteurs anonymes voient votre actualité, vous devez la publier. Publier permet également de rendre disponible votre actualité dans le portlet Actualités and dans la collection Actualités."
 
@@ -85,6 +137,18 @@ msgstr ""
 msgid "In the [Title] field, type 'MyFolder'."
 msgstr ""
 
+#: ../basic/tour11.py:70
+msgid "In this tutorial you have explored some of the ways that a folder can display its contents. On your own, try out the Thumbnail View by uploading several images to a folder. This view is used to create a simple photo gallery."
+msgstr ""
+
+#: ../basic/tour4.py:9
+msgid "In this tutorial, you'll create a new Event and publish it on your Plone-powered website."
+msgstr ""
+
+#: ../basic/tour3.py:9
+msgid "In this tutorial, you'll create a new News Item and publish it on your Plone-powered website."
+msgstr ""
+
 #: ../basic/tour2.py:10
 msgid "In this tutorial, you'll create a new Page and publish it on your Plone-powered website."
 msgstr ""
@@ -93,7 +157,7 @@ msgstr ""
 msgid "Navigate to the folder called [MyFolder] that you created in a previous tutorial."
 msgstr ""
 
-#: ../basic/tour3.py:41
+#: ../basic/tour3.py:46
 msgid "Notice the Upload Image field at the bottom of the page. You can attach an image to a News Item which will appear in summary listings of News Items. You can also caption the image."
 msgstr ""
 
@@ -101,7 +165,11 @@ msgstr ""
 msgid "Now click the [Save] button at the bottom of the page to save your new folder."
 msgstr ""
 
-#: ../basic/tour3.py:28
+#: ../basic/tour4.py:33
+msgid "Now that you selected the Event content type, you need to supply some information about it."
+msgstr ""
+
+#: ../basic/tour3.py:33
 msgid "Now that you selected the News Item content type, you need to supply some information about it."
 msgstr ""
 
@@ -113,11 +181,19 @@ msgstr ""
 msgid "Provide a [Description] (This is my first Plone page.)."
 msgstr ""
 
-#: ../basic/tour3.py:33
-msgid "Provide a [Description] for your News Item. The description will appear in site searches and in summary listings of news on your site."
+#: ../basic/tour4.py:38
+msgid "Provide a [Description] for your Event. <br>The description will appear in site searches and in summary listings of events on your site."
 msgstr ""
 
-#: ../basic/tour3.py:29
+#: ../basic/tour3.py:38
+msgid "Provide a [Description] for your News Item. <br>The description will appear in site searches and in summary listings of news on your site."
+msgstr ""
+
+#: ../basic/tour4.py:34
+msgid "Provide a [Title] (My Event)"
+msgstr ""
+
+#: ../basic/tour3.py:34
 msgid "Provide a [Title] (My News)."
 msgstr ""
 
@@ -125,11 +201,31 @@ msgstr ""
 msgid "Provide a [Title] (My Page)."
 msgstr ""
 
+#: ../basic/tour4.py:54
+msgid "Provide an Event Type by typing in the New Categories field. Typical event types include: Fundraiser, Auction, Sale, Concert, Performance, etc. Once you have added a new event type, it will appear for selection in the Existing Categories field the next time you create an event."
+msgstr ""
+
+#: ../basic/tour4.py:42
+msgid "Provide an [Event Location]. The location is the physical location of the event. You can describe the address or provide directions in the Body Text field."
+msgstr ""
+
+#: ../basic/tour4.py:58
+msgid "Provide contact information in the remaining fields."
+msgstr ""
+
+#: ../basic/tour4.py:46
+msgid "Provide the event Start and End dates."
+msgstr ""
+
+#: ../basic/tour4.py:72
+msgid "Publish the event"
+msgstr ""
+
 #: ../basic/tour1.py:40
 msgid "Publish the folder"
 msgstr ""
 
-#: ../basic/tour3.py:55
+#: ../basic/tour3.py:60
 msgid "Publish the news item"
 msgstr ""
 
@@ -137,15 +233,31 @@ msgstr ""
 msgid "Publish the page"
 msgstr ""
 
-#: ../basic/tour3.py:37
+#: ../basic/tour3.py:42
 msgid "Put some content in the Body Text field."
+msgstr ""
+
+#: ../basic/tour4.py:50
+msgid "Put some content in the [Body] Text field.This is the best place to add directions to your event, information about what to expect, images, etc."
+msgstr ""
+
+#: ../basic/tour11.py:45
+msgid "Select [Content Item as Default] View"
+msgstr ""
+
+#: ../basic/tour4.py:22
+msgid "Select [Event] from the menu."
 msgstr ""
 
 #: ../basic/tour1.py:14
 msgid "Select [Folder] from the choices there."
 msgstr ""
 
-#: ../basic/tour3.py:17
+#: ../basic/tour11.py:55
+msgid "Select [My Page] as the default page for MyFolder."
+msgstr ""
+
+#: ../basic/tour3.py:22
 msgid "Select [News Item] from the menu."
 msgstr ""
 
@@ -157,12 +269,40 @@ msgstr ""
 msgid "Select [Publish] from the menu."
 msgstr ""
 
+#: ../basic/tour11.py:22
+msgid "Select [Summary] View"
+msgstr ""
+
+#: ../basic/tour11.py:34
+msgid "Select [Tabular] View"
+msgstr ""
+
+#: ../basic/tour11.py:54
+msgid "So far you have seen the various ways that a folder in Plone can display its contents. However, in many cases you may wish to choose a single item such as a Page to act as the 'landing page' for the folder. This is common in cases where the folder is intended to be a subsection of the site."
+msgstr ""
+
+#: ../basic/tour11.py:31
+msgid "Summary View"
+msgstr ""
+
+#: ../basic/tour11.py:42
+msgid "Tabular View"
+msgstr ""
+
 #: ../basic/tour1.py:31
 msgid "This folder will be used to contain sample content as I work through each tutorial."
 msgstr ""
 
 #: ../basic/tour2.py:46
 msgid "This is my first Plone page."
+msgstr ""
+
+#: ../basic/tour11.py:19
+msgid "Use summary view"
+msgstr ""
+
+#: ../basic/tour11.py:74
+msgid "Using the Display Menu"
 msgstr ""
 
 #: ../basic/tour2.py:62
@@ -173,7 +313,11 @@ msgstr ""
 msgid "You now have a folder on your Plone website. You will use this folder in the remaining tutorials as a place to put sample content. <strong>Do not delete or rename it</strong> until you are finished with all the tutorials!"
 msgstr ""
 
-#: ../basic/tour3.py:72
+#: ../basic/tour4.py:89
+msgid "You now have a published event in your folder."
+msgstr ""
+
+#: ../basic/tour3.py:77
 msgid "You now have a published news item in your folder."
 msgstr ""
 
