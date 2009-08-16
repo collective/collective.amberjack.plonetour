@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2009-08-16 12:17+0000\n"
+"POT-Creation-Date: 2009-08-16 12:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,7 +78,7 @@ msgid "In order for anonymous site visitors to see your news item you must publi
 msgstr ""
 
 #: ../basic/tour1.py:28
-msgid "In the [Description] field, type 'This folder will be used to contain sample content as I work through each tutorial'."
+msgid "In the [Description] field, type 'This folder will be used to contain sample content as I work through each tutorial.'."
 msgstr ""
 
 #: ../basic/tour1.py:24
@@ -155,6 +155,10 @@ msgstr ""
 
 #: ../basic/tour1.py:46
 msgid "Select [Publish] from the menu."
+msgstr ""
+
+#: ../basic/tour1.py:31
+msgid "This folder will be used to contain sample content as I work through each tutorial."
 msgstr ""
 
 #: ../basic/tour2.py:46

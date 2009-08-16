@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: collective.amberjack.plonetour\n"
-"POT-Creation-Date: 2009-08-16 11:39+0000\n"
-"PO-Revision-Date: 2009-08-11 10:00+0100\n"
+"POT-Creation-Date: 2009-08-16 12:53+0000\n"
+"PO-Revision-Date: 2009-08-16 14:34+0100\n"
 "Last-Translator: Vincent Fretin <vincent.fretin@gmail.com>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -19,66 +19,66 @@ msgstr ""
 
 #: ../basic/tour2.py:21
 msgid "Add a Page"
-msgstr ""
+msgstr "Ajouter un Document"
 
 #: ../basic/tour1.py:59
 msgid "Add and publish a Folder"
-msgstr ""
+msgstr "Ajouter et publier un Dossier"
 
 #: ../basic/tour3.py:76
 msgid "Add and publish a News Item"
-msgstr ""
+msgstr "Ajouter et publier une Actualité"
 
 #: ../basic/tour2.py:82
 msgid "Add and publish a Page"
-msgstr ""
+msgstr "Ajouter et publier un Document"
 
 #: ../basic/tour2.py:47
 msgid "Add some page content (you can come back and edit this later)."
-msgstr ""
+msgstr "Ajoutez un peu de contenu (vous pouvez revenir et modifier ça plus tard)"
 
 #: ../basic/tour1.py:54
 msgid "All done!"
-msgstr ""
+msgstr "Terminé !"
 
 #: ../basic/tour3.py:45
-msgid "Click Save to finish."
-msgstr ""
+msgid "Click [Save] to finish."
+msgstr "Cliquez sur [Enregistrer] pour terminer."
 
 #: ../basic/tour1.py:10
 msgid "Click the [Add new...] drop-down menu."
-msgstr ""
+msgstr "Cliquez sur le menu [Ajout d'un élément]."
 
 #: ../basic/tour1.py:42
 msgid "Click the [State] drop-down menu."
-msgstr ""
+msgstr "Cliquez sur le menu [État]."
 
 #: ../basic/tour3.py:11
 msgid "Create a News Item"
-msgstr ""
+msgstr "Créer une Actualité"
 
 #: ../basic/tour1.py:8
 msgid "Create a new folder"
-msgstr ""
+msgstr "Créer un nouveau Dossier"
 
 #: ../basic/tour1.py:22
 msgid "Fill out the fields"
-msgstr ""
+msgstr "Remplir les champs"
 
 #: ../basic/tour1.py:9
 msgid "Folders are one of the most fundamental content types in Plone. You can use a folder to organize your documents much like you already do on your desktop computer. You can also use folders to create new sections of your website."
-msgstr ""
+msgstr "Un dossier est l'un des plus fondamentals types de contenu dans Plone. Vous pouvez utiliser un dossier pour organiser vos documents comme vous le faites sur votre bureau. Vous pouvez également utiliser les dossiers pour créer de nouvelles sections sur votre site."
 
 #: ../basic/tour2.py:9
 msgid "Go to your folder"
-msgstr ""
+msgstr "Naviguer vers un dossier"
 
 #: ../basic/tour3.py:56
 msgid "In order for anonymous site visitors to see your news item you must publish it first. Publishing also makes your news item available in the news portlet and news collection."
-msgstr ""
+msgstr "Pour que les visiteurs anonymes voient votre actualité, vous devez la publier. Publier permet également de rendre disponible votre actualité dans le portlet Actualités and dans la collection Actualités."
 
 #: ../basic/tour1.py:28
-msgid "In the [Description] field, type 'This folder will be used to contain sample content as I work through each tutorial'."
+msgid "In the [Description] field, type 'This folder will be used to contain sample content as I work through each tutorial.'."
 msgstr ""
 
 #: ../basic/tour1.py:24
@@ -157,6 +157,10 @@ msgstr ""
 msgid "Select [Publish] from the menu."
 msgstr ""
 
+#: ../basic/tour1.py:31
+msgid "This folder will be used to contain sample content as I work through each tutorial."
+msgstr ""
+
 #: ../basic/tour2.py:46
 msgid "This is my first Plone page."
 msgstr ""
@@ -179,5 +183,5 @@ msgstr ""
 
 #: ../basic/tour2.py:51
 msgid "[Save] the page."
-msgstr ""
+msgstr "[Enregistrez] le document."
 
