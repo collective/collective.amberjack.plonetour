@@ -6,7 +6,7 @@ go_to_folder = {
     'url': '/',
     'xpath': '',
     'xcontent': '',
-    'title': _(u"Add and Publish a Page"),
+    'title': _(u"Go to your folder"),
     'text': _(u"In this tutorial, you'll create a new Page and publish it on your Plone-powered website."),
     'steps': ({'description': _(u"Navigate to the folder called [MyFolder] that you created in a previous tutorial."),
                'idStep': 'link',
@@ -14,13 +14,13 @@ go_to_folder = {
                'text': ''},
              )}
 
-add_and_publish_a_page = {
+create_it = {
     'url': '/myfolder',
     'xpath': '',
     'xcontent': '',
-    'title': _(u"Add and Publish a Page"),
+    'title': _(u"Add a Page"),
     'text': "",
-    'steps': ({'description': _(u"First, click the [Add New...] drop-down menu"),
+    'steps': ({'description': _(u"Click the [Add New...] drop-down menu"),
                'idStep': 'menu_add-new',
                'selector': '',
                'text': ''},
@@ -30,41 +30,41 @@ add_and_publish_a_page = {
                'text': ''},
              )}
 
-now_fill_out_the_page_fields = {
+fill_out_the_page_fields = {
     'url': '/myfolder/portal_factory/Document',
     'xpath': '',
     'xcontent': '',
-    'title': _(u"Now that you've select the Page content type, you'll need to supply some information about the page"),
-    'text': _(u""),
-    'steps': ({'description': _(u"Provide a [Title] (My Page)"),
+    'title': _(u"Fill out the fields"),
+    'text': _(u"Now that you selected the Page content type, you need to supply some information about it."),
+    'steps': ({'description': _(u"Provide a [Title] (My Page)."),
                'idStep': 'form_title',
                'selector': '',
                'text': 'My Page'},
-              {'description': _(u"Provide a [Description] (This is my first Plone page)"),
+              {'description': _(u"Provide a [Description] (This is my first Plone page.)."),
                'idStep': 'form_description',
                'selector': '',
-               'text': ''},
-              {'description': _(u"Add some page content (you can come back and edit this later)"),
+               'text': _(u"This is my first Plone page.")},
+              {'description': _(u"Add some page content (you can come back and edit this later)."),
                'idStep': '',
                'selector': '',
                'text': ''},
-              {'description': _(u"[Save] the page"),
+              {'description': _(u"[Save] the page."),
                'idStep': 'form_save',
                'selector': '',
                'text': ''},
              )}
 
-publish_the_page = {
+publish_it = {
     'url': '/myfolder/my-page',
     'xpath': '',
     'xcontent': '',
     'title': _(u"Publish the page"),
     'text': _(u"You have now created a Page for your Plone website. Before this page can be viewed by anonymous site visitors, you must publish it. Publishing also makes your page available in the Navigation portlet."),
-    'steps': ({'description': _(u"Click the [State] drop-down menu"),
+    'steps': ({'description': _(u"Click the [State] drop-down menu."),
                'idStep': 'menu_state',
                'selector': '',
                'text': ''},
-              {'description': _(u"Select [Publish] from the menu"),
+              {'description': _(u"Select [Publish] from the menu."),
                'idStep': 'content_publish',
                'selector': '',
                'text': ''},
@@ -75,15 +75,15 @@ all_done = {
     'xpath': '#plone-contentmenu-workflow dt a span.state-published',
     'xcontent': PMF(u"Published"),
     'title': _(u"All done!"),
-    'text': _(u"All done!"),
+    'text': _(u"You now have a published page in your folder."),
     'steps': ()}
 
-ajTour = {'tourId': 'add_and_publish_a_page',
-          'title': _(u"Add and publish a page"),
+ajTour = {'tourId': 'basic02_add_and_publish_a_page',
+          'title': _(u"Add and publish a Page"),
           'steps': (go_to_folder,
-                    add_and_publish_a_page,
-                    now_fill_out_the_page_fields,
-                    publish_the_page,
+                    create_it,
+                    fill_out_the_page_fields,
+                    publish_it,
                     all_done,
                    )}
 

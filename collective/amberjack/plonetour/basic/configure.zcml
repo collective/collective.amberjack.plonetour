@@ -2,7 +2,7 @@
     xmlns:collective.amberjack="http://namespaces.plone.org/collective.amberjack.core"
     i18n_domain="collective.amberjackplonetour">
 
-	<collective.amberjack:tour
+    <collective.amberjack:tour
         tourdescriptor=".tour1.ajTour"
         />
 
@@ -10,7 +10,7 @@
         tourdescriptor=".tour2.ajTour"
         />
 
-	<collective.amberjack:tour
+    <collective.amberjack:tour
         tourdescriptor=".tour3.ajTour"
         />
 

@@ -7,10 +7,6 @@
 
   <i18n:registerTranslations directory="locales" />
 
-  <collective.amberjack:tour
-      tourdescriptor="collective.amberjack.plonetour.tour.ajTour"
-      />
-
   <include package=".basic" />
 
 </configure>

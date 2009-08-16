@@ -2,69 +2,63 @@ from zope.i18nmessageid import MessageFactory
 _ = MessageFactory('collective.amberjack.plonetour')
 PMF = MessageFactory('plone')
 
-go_to_folder = {
-    'url': '/',
-    'xpath': '',
-    'xcontent': '',
-    'title': _(u"Add and Publish a News Item"),
-    'text': _(u"In this tutorial, you'll create a new News Item and publish it on your Plone-powered website."),
-    'steps': ({'description': _(u"Navigate to the folder called [MyFolder] that you created in a previous tutorial."),
-               'idStep': 'link',
-               'selector': '#portaltab-myfolder a',
-               'text': ''},
-             )}
+from tour2 import go_to_folder
 
-add_and_publish_a_page = {
+create_it = {
     'url': '/myfolder',
     'xpath': '',
     'xcontent': '',
-    'title': _(u"Add and Publish a News Item"),
+    'title': _(u"Create a News Item"),
     'text': "",
-    'steps': ({'description': _(u"First, click the [Add New...] drop-down menu"),
+    'steps': ({'description': _(u"Click the [Add New...] drop-down menu."),
                'idStep': 'menu_add-new',
                'selector': '',
                'text': ''},
-              {'description': _(u"Select [News Item] from the menu"),
+              {'description': _(u"Select [News Item] from the menu."),
                'idStep': 'new_news',
                'selector': '',
                'text': ''},
              )}
 
-now_fill_out_the_page_fields = {
+fill_out_the_fields = {
     'url': '/myfolder/portal_factory/News Item',
     'xpath': '',
     'xcontent': '',
-    'title': _(u"Now that you've select the News Item content type, you'll need to supply some information about the it"),
-    'text': _(u""),
+    'title': _(u"Fill out the fields"),
+    'text': _(u"Now that you selected the News Item content type, you need to supply some information about it."),
     'steps': ({'description': _(u"Provide a [Title] (My News)"),
                'idStep': 'form_title',
                'selector': '',
                'text': 'My News'},
-              {'description': _(u"Provide a [Description] (This is my first Plone News Item)"),
+              {'description': _(u"Provide a [Description] for your News Item. The description will appear in site searches and in summary listings of news on your site."),
                'idStep': 'form_description',
                'selector': '',
-               'text': 'This is my first Plone News Item'},
-              {'description': _(u"Add some page content (you can come back and edit this later)"),
+               'text': ''},
+              {'description': _(u"Put some content in the Body Text field."),
                'idStep': '',
                'selector': '',
                'text': ''},
-              {'description': _(u"[Save] the page"),
+              {'description': _(u"Notice the Upload Image field at the bottom of the page. You can attach an image to a News Item which will appear in summary listings of News Items. You can also caption the image."),
+               'idStep': '',
+               'selector': '',
+               'text': ''},
+              {'description': _(u"Click Save to finish."),
                'idStep': 'form_save',
                'selector': '',
                'text': ''},
              )}
 
-publish_the_page = {
+publish_it = {
     'url': '/myfolder/my-news',
     'xpath': '',
     'xcontent': '',
-    'title': _(u"Publish the news"),
-    'text': _(u"You have now created a News Item for your Plone website. Before this news can be viewed by anonymous site visitors, you must publish it. Publishing also makes your news available in the Navigation portlet."),
-    'steps': ({'description': _(u"Click the [State] drop-down menu"),
+    'title': _(u"Publish the news item"),
+    'text': _(u"In order for anonymous site visitors to see your news item you must publish it first. Publishing also makes your news item available in the news portlet and news collection."),
+    'steps': ({'description': _(u"Click the [State] drop-down menu."),
                'idStep': 'menu_state',
                'selector': '',
                'text': ''},
-              {'description': _(u"Select [Publish] from the menu"),
+              {'description': _(u"Select [Publish] from the menu."),
                'idStep': 'content_publish',
                'selector': '',
                'text': ''},
@@ -75,15 +69,15 @@ all_done = {
     'xpath': '#plone-contentmenu-workflow dt a span.state-published',
     'xcontent': PMF(u"Published"),
     'title': _(u"All done!"),
-    'text': _(u"All done!"),
+    'text': _(u"You now have a published news item in your folder."),
     'steps': ()}
 
-ajTour = {'tourId': 'add_and_publish_a_news',
-          'title': _(u"Add and publish a news item"),
+ajTour = {'tourId': 'basic03_add_and_publish_a_news_item',
+          'title': _(u"Add and publish a News Item"),
           'steps': (go_to_folder,
-                    add_and_publish_a_page,
-                    now_fill_out_the_page_fields,
-                    publish_the_page,
+                    create_it,
+                    fill_out_the_fields,
+                    publish_it,
                     all_done,
                    )}
 

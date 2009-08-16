@@ -2,12 +2,12 @@ from zope.i18nmessageid import MessageFactory
 _ = MessageFactory('collective.amberjack.plonetour')
 PMF = MessageFactory('plone')
 
-welcome = {'url': '/',
+add_folder = {'url': '/',
            'xpath': '',
            'xcontent': '',
            'title': _(u"Create a new folder"),
            'text': _(u"Folders are one of the most fundamental content types in Plone. You can use a folder to organize your documents much like you already do on your desktop computer. You can also use folders to create new sections of your website."),
-           'steps': ({'description': _(u"click the [Add new...] drop-down menu."),
+           'steps': ({'description': _(u"Click the [Add new...] drop-down menu."),
                       'idStep': 'menu_add-new',
                       'selector': '',
                       'text': ''},
@@ -16,7 +16,7 @@ welcome = {'url': '/',
                       'selector': '',
                       'text': ''})}
 
-add_folder = {'url': '/portal_factory/Folder/folder',
+fill_out_the_fields = {'url': '/portal_factory/Folder/folder',
               'xpath': '',
               'xcontent': '',
               'title': _(u"Fill out the fields"),
@@ -33,12 +33,13 @@ add_folder = {'url': '/portal_factory/Folder/folder',
                          'idStep': 'form_save',
                          'selector': '',
                          'text': ''})}
+
 publish_folder = {'url': '/myfolder',
                  'xpath': '',
                  'xcontent': '',
-                 'title': _(u"Publish your folder"),
+                 'title': _(u"Publish the folder"),
                  'text' : (u"You have now created a Folder for your Plone website. You should publish your folder so that site visitors can see it."),
-                 'steps': ({'description': _(u"Click the [State] drop-down menu "),
+                 'steps': ({'description': _(u"Click the [State] drop-down menu."),
                             'idStep': 'menu_state',
                             'selector': '',
                             'text': ''},
@@ -54,10 +55,10 @@ all_done = {'url': '/myfolder',
                  'text': _(u"You now have a folder on your Plone website. You will use this folder in the remaining tutorials as a place to put sample content. <strong>Do not delete or rename it</strong> until you are finished with all the tutorials!"),
                  'steps': ()}
 
-ajTour = {'tourId': 'new_folder',
-          'title': _(u'Add and Publish a Folder'),
-          'steps': (welcome,
-                    add_folder,
+ajTour = {'tourId': 'basic01_add_and_publish_a_folder',
+          'title': _(u'Add and publish a Folder'),
+          'steps': (add_folder,
+                    fill_out_the_fields,
                     publish_folder,
                     all_done,
                    )}
