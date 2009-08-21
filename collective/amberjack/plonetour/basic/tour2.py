@@ -8,7 +8,7 @@ go_to_folder = {
     'xcontent': '',
     'title': _(u"Add and publish a Page"),
     'text': _(u"In this tutorial, you'll create a new Page and publish it on your Plone-powered website."),
-    'steps': ({'description': _(u"Navigate to the folder called [MyFolder] that you created in a previous tutorial."),
+    'steps': ({'description': _(u"Navigate to the folder called [MyFolder] that you created in a previous tutorial. If you didn't create it already, please close this tour and start the first tour."),
                'idStep': 'link',
                'selector': '#portaltab-myfolder a',
                'text': ''},
