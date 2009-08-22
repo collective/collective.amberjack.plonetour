@@ -1,21 +1,21 @@
 """
 A tour has this shape:
 
-    {'tourId': 'example_tour',
+    {'tourId': u'example_tour',
      'title': _(u"Example tour"),
      'steps': <steps>}
 
 <steps> has this shape:
 
-    ({'url': '/',
-      'xpath': '',
-      'xcontent': '',
+    ({'url': u'/',
+      'xpath': u'',
+      'xcontent': u'',
       'title': _(u"Some title"),
       'text': _(u"Some text"),
       'steps': ({'description': _(u"Some description"),
-                 'idStep': '',
-                 'selector': '',
-                 'text': ''},
+                 'idStep': u'',
+                 'selector': u'',
+                 'text': u''},
                 ...
                )       
      },
