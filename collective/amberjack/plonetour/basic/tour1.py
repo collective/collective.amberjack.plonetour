@@ -1,8 +1,15 @@
 from zope.i18nmessageid import MessageFactory
+
+from collective.amberjack.core.validators import isAuthenticated
+from collective.amberjack.plonetour.basic.common import isNotFolderCreated
+
 _ = MessageFactory('collective.amberjack.plonetour')
 PMF = MessageFactory('plone')
 
-add_folder = {'url': u'/',
+
+add_folder = {
+    'validators': (isAuthenticated, isNotFolderCreated,),
+    'url': u'/',
            'xpath': u'',
            'xcontent': u'',
            'title': _(u"Create a new folder"),

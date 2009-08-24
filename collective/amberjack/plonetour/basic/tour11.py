@@ -1,8 +1,10 @@
-from tour2 import go_to_folder
 from zope.i18nmessageid import MessageFactory
+
+from collective.amberjack.plonetour.basic.tour2 import go_to_folder
 
 _ = MessageFactory('collective.amberjack.plonetour')
 PMF = MessageFactory('plone')
+
 
 step_open_display_menu = {'description': _(u"Click the [Display] drop-down menu."),
                       'idStep': u'menu_display',

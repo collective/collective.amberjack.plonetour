@@ -1,35 +1,26 @@
-from copy import deepcopy
-
 from zope.i18nmessageid import MessageFactory
 
-from collective.amberjack.plonetour.basic.common import isFolderCreated, \
-    isNotFolderCreated
-
+from collective.amberjack.core.validators import isAuthenticated
+from collective.amberjack.plonetour.basic.common import isFolderCreated
 
 _ = MessageFactory('collective.amberjack.plonetour')
 PMF = MessageFactory('plone')
 
 
 go_to_folder = {
+    'validators': (isAuthenticated, isFolderCreated,),
     'url': u'/',
     'xpath': u'',
     'xcontent': u'',
     'title': _(u"Add and publish a Page"),
     'text': _(u"In this tutorial, you'll create a new Page and publish it on your Plone-powered website."),
-    'steps': ({'description': _(u"Navigate to the folder called [MyFolder] that you created in a previous tutorial. If you didn't create it already, please close this tour and start the first tour."),
+    'steps': ({'description': _(u"Navigate to the folder called [MyFolder] that you created in a previous tutorial."),
                'idStep': u'link',
                'selector': u'#portaltab-myfolder a',
                'text': u''},
              )}
 
-welcome = deepcopy(go_to_folder)
-welcome['steps'][0]['description'] = _(u"Navigate to the folder called [MyFolder] that you created in a previous tutorial.")
-
-please_create_folder = deepcopy(go_to_folder)
-please_create_folder['steps'][0]['description'] = _(u"The [MyFolder] folder doesn't exist yet. Please close this tour and start the first tour.")
-
-welcome['validation'] = isFolderCreated
-please_create_folder['validation'] = isNotFolderCreated
+welcome = go_to_folder.copy()
 
 create_it = {
     'url': u'/myfolder',
@@ -97,8 +88,7 @@ all_done = {
 
 ajTour = {'tourId': u'basic02_add_and_publish_a_page',
           'title': _(u"Add and publish a Page"),
-          'steps': (welcome,  # if folder is created
-                    please_create_folder, # if folder is not created yet
+          'steps': (welcome,
                     create_it,
                     fill_out_the_page_fields,
                     publish_it,

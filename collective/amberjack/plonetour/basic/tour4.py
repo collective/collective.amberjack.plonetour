@@ -1,5 +1,7 @@
-from tour2 import go_to_folder
 from zope.i18nmessageid import MessageFactory
+
+from collective.amberjack.plonetour.basic.tour2 import go_to_folder
+
 _ = MessageFactory('collective.amberjack.plonetour')
 PMF = MessageFactory('plone')
 
@@ -7,7 +9,6 @@ PMF = MessageFactory('plone')
 welcome = go_to_folder.copy()
 welcome['title'] = _(u"Add and publish an Event")
 welcome['text'] = _(u"In this tutorial, you'll create a new Event and publish it on your Plone-powered website.")
-
 
 create_it = {
     'url': u'/myfolder',
