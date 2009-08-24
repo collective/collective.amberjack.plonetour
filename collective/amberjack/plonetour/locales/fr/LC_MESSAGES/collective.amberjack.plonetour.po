@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collective.amberjack.plonetour\n"
 "POT-Creation-Date: 2009-08-24 21:27+0000\n"
-"PO-Revision-Date: 2009-08-24 23:28+0100\n"
+"PO-Revision-Date: 2009-08-25 00:11+0100\n"
 "Last-Translator: Vincent Fretin <vincent.fretin@gmail.com>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -163,7 +163,7 @@ msgstr "Indiquez une Description pour votre Actualité. <br />La description app
 
 #: ../basic/tour4.py:39
 msgid "Provide a [Description] for your Event. <br />The description will appear in site searches and in summary listings of events on your site."
-msgstr "Indiquez une Description pour votre Événement. <br />La description apparaitra dans les résultats de recherches et dans la vue sommaire du dossier Événements."
+msgstr "Indiquez une [Description] pour votre Événement. <br />La description apparaitra dans les résultats de recherches et dans la vue sommaire du dossier Événements."
 
 #: ../basic/tour2.py:51
 msgid "Provide a [Description]: [This is my first Plone page.]."
