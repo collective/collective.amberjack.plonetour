@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: collective.amberjack.plonetour\n"
-"POT-Creation-Date: 2009-08-16 17:36+0000\n"
-"PO-Revision-Date: 2009-08-16 14:34+0100\n"
+"POT-Creation-Date: 2009-08-24 17:28+0000\n"
+"PO-Revision-Date: 2009-08-24 19:42+0100\n"
 "Last-Translator: Vincent Fretin <vincent.fretin@gmail.com>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -19,13 +19,13 @@ msgstr ""
 
 #: ../basic/tour11.py:14
 msgid "A folder is a special content type in Plone because it can contain other content items. The way that those contained items will appear on the screen can be changed using the Display drop-down menu."
-msgstr ""
+msgstr "Un dossier est un type de contenu spécial dans Plone car il peut contenir d'autres contenus. La façon dont ces contenus seront affichés à l'écran peut être changée via le menu Affichage."
 
-#: ../basic/tour2.py:21
+#: ../basic/tour2.py:38
 msgid "Add a Page"
 msgstr "Ajouter un Document"
 
-#: ../basic/tour1.py:59
+#: ../basic/tour1.py:63
 msgid "Add and publish a Folder"
 msgstr "Ajouter et publier un Dossier"
 
@@ -33,49 +33,45 @@ msgstr "Ajouter et publier un Dossier"
 msgid "Add and publish a News Item"
 msgstr "Ajouter et publier une Actualité"
 
-#: ../basic/tour2.py:9
+#: ../basic/tour2.py:17
 msgid "Add and publish a Page"
 msgstr "Ajouter et publier un Document"
 
 #: ../basic/tour4.py:8
 msgid "Add and publish an Event"
-msgstr ""
+msgstr "Ajouter et publier un Événement"
 
-#: ../basic/tour2.py:47
+#: ../basic/tour2.py:64
 msgid "Add some page content (you can come back and edit this later)."
 msgstr "Ajoutez un peu de contenu (vous pouvez revenir et modifier ça plus tard)"
 
-#: ../basic/tour1.py:54
+#: ../basic/tour1.py:58
 msgid "All done!"
 msgstr "Terminé !"
-
-#: ../basic/tour11.py:53
-msgid "Choose a default content item"
-msgstr ""
 
 #: ../basic/tour3.py:50
 msgid "Click [Save] to finish."
 msgstr "Cliquez sur [Enregistrer] pour terminer."
 
-#: ../basic/tour1.py:10
+#: ../basic/tour1.py:14
 msgid "Click the [Add new...] drop-down menu."
 msgstr "Cliquez sur le menu [Ajout d'un élément]."
 
 #: ../basic/tour11.py:7
 msgid "Click the [Display] drop-down menu."
-msgstr ""
+msgstr "Cliquez sur le menu [Affichage]."
 
 #: ../basic/tour11.py:59
 msgid "Click the [Save] button to finish."
-msgstr ""
+msgstr "Cliquez sur le bouton [Enregistrer] pour terminer."
 
-#: ../basic/tour1.py:42
+#: ../basic/tour1.py:46
 msgid "Click the [State] drop-down menu."
 msgstr "Cliquez sur le menu [État]."
 
 #: ../basic/tour4.py:16
 msgid "Create a Event"
-msgstr ""
+msgstr "Créer un Événement"
 
 #: ../basic/tour3.py:16
 msgid "Create a News Item"
@@ -86,218 +82,250 @@ msgid "Create a new folder"
 msgstr "Créer un nouveau Dossier"
 
 #: ../basic/tour4.py:17
-msgid "Events are useful for posting announcements about upcoming events that your company is hosting. Events function much like a page, with additional fields for adding information about an event."
-msgstr ""
+msgid "Events are useful for posting announcements about upcoming events. Events function much like a page, with additional fields for adding information about an event."
+msgstr "Les événements sont utiles pour poster des annoncements d'événements à venir. Un événement fonctionne de la même manière qu'un document mais avec des champs additionnels pour spécifier des informations sur l'évènement."
 
-#: ../basic/tour1.py:22
+#: ../basic/tour1.py:26
 msgid "Fill out the fields"
 msgstr "Remplir les champs"
 
 #: ../basic/tour1.py:9
 msgid "Folders are one of the most fundamental content types in Plone. You can use a folder to organize your documents much like you already do on your desktop computer. You can also use folders to create new sections of your website."
-msgstr "Un dossier est l'un des plus fondamentals types de contenu dans Plone. Vous pouvez utiliser un dossier pour organiser vos documents comme vous le faites sur votre bureau. Vous pouvez également utiliser les dossiers pour créer de nouvelles sections sur votre site."
+msgstr "Un dossier est l'un des types de contenu de base de Plone. Vous pouvez utiliser un dossier pour organiser vos documents comme vous le faites sur votre bureau. Vous pouvez également utiliser les dossiers pour créer de nouvelles sections sur votre site."
+
+#: ../basic/tour1.py:10
+msgid "If you don't want to perform the indicated step yourself, just click the '>>' link and it will be automatically done by your browser."
+msgstr "Si vous ne voulez pas réaliser vous-même l'étape indiquée, cliquez simplement sur le lien '>>' et elle sera réalisée automatiquement par votre navigateur."
 
 #: ../basic/tour4.py:73
-msgid "In order for anonymous site visitors to see your event you must publish it first. Publishing also makes your event available in the event portlet and event collection."
-msgstr ""
+msgid "In order for anonymous site visitors to see your event you must publish it first. Publishing also makes your event available in the Upcoming Events portlet and Events folder."
+msgstr "Vous devez publier votre événement si vous voulez que les visiteurs anonymes de votre site le voit. La publication permet également de rendre disponible votre événement dans le portlet Événements à venir et dans le dossier Événements."
 
 #: ../basic/tour3.py:61
-msgid "In order for anonymous site visitors to see your news item you must publish it first. Publishing also makes your news item available in the news portlet and news collection."
-msgstr "Pour que les visiteurs anonymes voient votre actualité, vous devez la publier. Publier permet également de rendre disponible votre actualité dans le portlet Actualités and dans la collection Actualités."
+msgid "In order for anonymous site visitors to see your news item you must publish it first. Publishing also makes your news item available in the News portlet and News folder."
+msgstr "Pour que les visiteurs anonymes voient votre actualité, vous devez la publier. La publication permet également de rendre disponible votre actualité dans le portlet Actualités et dans le dossier Actualités."
+
+#: ../basic/tour1.py:32
+msgid "In the [Description] field, type 'This folder will be used to contain sample content as I work through each tutorial.'."
+msgstr "Dans le champ [Description], indiquez « Ce dossier sera utilisé pour contenir des contenus d'exemple pendant que je suis les tutoriels. »."
 
 #: ../basic/tour1.py:28
-msgid "In the [Description] field, type 'This folder will be used to contain sample content as I work through each tutorial.'."
-msgstr ""
-
-#: ../basic/tour1.py:24
 msgid "In the [Title] field, type 'MyFolder'."
-msgstr ""
+msgstr "Dans le champ [Titre], indiquez « MyFolder »."
 
 #: ../basic/tour11.py:70
 msgid "In this tutorial you have explored some of the ways that a folder can display its contents. On your own, try out the Thumbnail view by uploading several images to a folder. This view is used to create a simple photo gallery."
-msgstr ""
+msgstr "Dans ce tutoriel vous avez exploré certains types d'affichage que peut avoir un dossier. Essayez par vous même la vue en vignette en téléchargeant vers le serveur plusieurs images dans un dossier. Cette vue est utilisée pour créer une simple galerie de photos."
 
 #: ../basic/tour4.py:9
 msgid "In this tutorial, you'll create a new Event and publish it on your Plone-powered website."
-msgstr ""
+msgstr "Dans ce tutoriel, vous allez créer un nouvel Événement et le publier sur votre site Plone."
 
 #: ../basic/tour3.py:9
 msgid "In this tutorial, you'll create a new News Item and publish it on your Plone-powered website."
-msgstr ""
+msgstr "Dans ce tutoriel, vous allez créer une nouvelle Actualité et la publier sur votre site Plone."
 
-#: ../basic/tour2.py:10
+#: ../basic/tour2.py:18
 msgid "In this tutorial, you'll create a new Page and publish it on your Plone-powered website."
-msgstr ""
+msgstr "Dans ce tutoriel, vous allez créer un nouveau Document et le publier sur votre site Plone."
 
-#: ../basic/tour2.py:11
+#: ../basic/tour2.py:26
 msgid "Navigate to the folder called [MyFolder] that you created in a previous tutorial."
-msgstr ""
+msgstr "Naviguez vers le dossier appelé [MyFolder] que vous avez créé dans le tutoriel précédent."
+
+#: ../basic/tour2.py:19
+msgid "Navigate to the folder called [MyFolder] that you created in a previous tutorial. If you didn't create it already, please close this tour and start the first tour."
+msgstr "Naviguez vers le dossier appelé [MyFolder] que vous avez créé dans le tutoriel précédent. Si vous ne l'avez pas encore créé, veuillez fermer cette visite guidée et démarrer la première."
 
 #: ../basic/tour3.py:46
-msgid "Notice the Upload Image field at the bottom of the page. You can attach an image to a News Item which will appear in summary listings of News Items. You can also caption the image."
-msgstr ""
+msgid "Notice the Image field at the bottom of the page. You can attach an image to a News Item which will appear in summary listings of News Items. You can also caption the image."
+msgstr "Notez le champ Image en bas de la page. Vous pouvez associer une image à une actualité. Elle apparaitra dans la vue sommaire du dossier Actualités. Vous pouvez également donner un titre à l'image."
 
-#: ../basic/tour1.py:32
+#: ../basic/tour1.py:36
 msgid "Now click the [Save] button at the bottom of the page to save your new folder."
-msgstr ""
+msgstr "Cliquez maintenant sur le bouton [Enregistrer] en bas de la page pour enregistrer votre nouveau dossier."
 
 #: ../basic/tour4.py:33
 msgid "Now that you selected the Event content type, you need to supply some information about it."
-msgstr ""
+msgstr "Maintenant que vous avez sélectionné le type de contenu Événement, vous devez renseigner quelques informations sur ce dernier."
 
 #: ../basic/tour3.py:33
 msgid "Now that you selected the News Item content type, you need to supply some information about it."
-msgstr ""
+msgstr "Maintenant que vous avez sélectionné le type de contenu Actualité, vous devez renseigner quelques informations sur ce dernier."
 
-#: ../basic/tour2.py:38
+#: ../basic/tour2.py:55
 msgid "Now that you selected the Page content type, you need to supply some information about it."
-msgstr ""
+msgstr "Maintenant que vous avez sélectionné le type de contenu Document, vous devez renseigner quelques informations sur ce dernier."
 
-#: ../basic/tour2.py:43
-msgid "Provide a [Description] (This is my first Plone page.)."
-msgstr ""
+#: ../basic/tour3.py:38
+msgid "Provide a Description for your News Item. <br />The description will appear in site searches and in summary listings of news on your site."
+msgstr "Indiquez une Description pour votre Actualité. <br />La description apparaitra dans les résultats de recherches et dans la vue sommaire du dossier Actualités."
 
 #: ../basic/tour4.py:38
 msgid "Provide a [Description] for your Event. <br />The description will appear in site searches and in summary listings of events on your site."
-msgstr ""
+msgstr "Indiquez une Description pour votre Événement. <br />La description apparaitra dans les résultats de recherches et dans la vue sommaire du dossier Événements."
 
-#: ../basic/tour3.py:38
-msgid "Provide a [Description] for your News Item. <br />The description will appear in site searches and in summary listings of news on your site."
-msgstr ""
+#: ../basic/tour2.py:60
+msgid "Provide a [Description]: [This is my first Plone page.]."
+msgstr "Indiquez une [Description] [Ceci est mon premier document Plone.]."
 
 #: ../basic/tour4.py:34
-msgid "Provide a [Title] (My Event)"
-msgstr ""
+msgid "Provide a [Title]: [My Event]."
+msgstr "Indiquez un [Titre] : [My Event]."
 
 #: ../basic/tour3.py:34
-msgid "Provide a [Title] (My News)."
-msgstr ""
+msgid "Provide a [Title]: [My News]."
+msgstr "Indiquez un [Titre] : [My News]."
 
-#: ../basic/tour2.py:39
-msgid "Provide a [Title] (My Page)."
-msgstr ""
+#: ../basic/tour2.py:56
+msgid "Provide a [Title]: [My Page]."
+msgstr "Indiquez un [Titre] : [My Page]."
 
 #: ../basic/tour4.py:42
 msgid "Provide an [Event Location]. The location is the physical location of the event. You can describe the address or provide directions in the Body Text field."
-msgstr ""
+msgstr "Indiquez le [Lieu de l'événement]. Le lieu est le lieu physique de l'événement. Vous pouvez indiquer l'adresse ou fournir plus d'informations dans le champ Corps de texte de l'événement."
 
 #: ../basic/tour4.py:54
 msgid "Provide an [Event Type] by typing in the New Categories field. Typical event types include: Fundraiser, Auction, Sale, Concert, Performance, etc. Once you have added a new event type, it will appear for selection in the Existing Categories field the next time you create an event."
-msgstr ""
+msgstr "Indiquez le [type d'événement] en écrivant dans le champ nouveaux mots-clés. Des types d'événement typiques inclus : Collecte de fonds, Vente aux enchères, Vente, Concert, Performance, etc. Lorsque vous ajoutez un nouveau type d'événement, ce nouveau type est disponible dans les mots-clés existants pour les prochains événements que vous créerez."
 
 #: ../basic/tour4.py:58
 msgid "Provide contact information in the remaining fields."
-msgstr ""
+msgstr "Iniquez les informations de contact dans les champs restants."
 
 #: ../basic/tour4.py:46
 msgid "Provide the event [Start and End] dates."
-msgstr ""
+msgstr "Indiquez la [date de début] et la [date de fin] de l'événement."
 
 #: ../basic/tour4.py:72
 msgid "Publish the event"
-msgstr ""
+msgstr "Publier l'événement"
 
-#: ../basic/tour1.py:40
+#: ../basic/tour1.py:44
 msgid "Publish the folder"
-msgstr ""
+msgstr "Publier le dossier"
 
 #: ../basic/tour3.py:60
 msgid "Publish the news item"
-msgstr ""
+msgstr "Publier l'actualité"
 
-#: ../basic/tour2.py:61
+#: ../basic/tour2.py:78
 msgid "Publish the page"
-msgstr ""
+msgstr "Publier le document"
 
 #: ../basic/tour3.py:42
 msgid "Put some content in the Body Text field."
-msgstr ""
+msgstr "Entrez quelque chose dans champ Corps de texte."
 
 #: ../basic/tour4.py:50
 msgid "Put some content in the [Body Text] field. This is the best place to add directions to your event, information about what to expect, images, etc."
-msgstr ""
+msgstr "Entrez quelque chose dans le champ [Corps de texte]. C'est le meilleur endroit pour ajouter des informations sur votre événement, sur ce qu'on peut y attendre, des images etc."
 
 #: ../basic/tour4.py:22
 msgid "Select [Event] from the menu."
-msgstr ""
+msgstr "Sélectionnez [Événement] à partir du menu."
 
-#: ../basic/tour1.py:14
-msgid "Select [Folder] from the choices there."
-msgstr ""
+#: ../basic/tour1.py:18
+msgid "Select [Folder] from the menu."
+msgstr "Sélectionnez [Dossier] à partir du menu."
 
 #: ../basic/tour11.py:55
 msgid "Select [My Page] as the default page for MyFolder."
-msgstr ""
+msgstr "Sélectionnez [My Page] comme vue par défaut pour MyFolder."
 
 #: ../basic/tour3.py:22
 msgid "Select [News Item] from the menu."
-msgstr ""
+msgstr "Sélectionnez [Actualité] à partir du menu."
 
-#: ../basic/tour2.py:27
+#: ../basic/tour2.py:44
 msgid "Select [Page] from the menu."
-msgstr ""
+msgstr "Sélectionnez [Document] à partir du menu."
 
-#: ../basic/tour1.py:46
+#: ../basic/tour1.py:50
 msgid "Select [Publish] from the menu."
-msgstr ""
+msgstr "Sélectionnez [Publier] à partir du menu."
 
 #: ../basic/tour11.py:22
 msgid "Select [Summary view]."
-msgstr ""
+msgstr "Sélectionnez [Vue sommaire]."
 
 #: ../basic/tour11.py:34
 msgid "Select [Tabular view]."
-msgstr ""
+msgstr "Sélectionnez [Vue tabulaire]."
 
 #: ../basic/tour11.py:45
 msgid "Select [content item as default view]."
-msgstr ""
+msgstr "Sélectionnez [Choisir un élément comme vue par défaut]."
+
+#: ../basic/tour11.py:53
+msgid "Select default page"
+msgstr "Choisir la vue par défaut"
 
 #: ../basic/tour11.py:54
 msgid "So far you have seen the various ways that a folder in Plone can display its contents. However, in many cases you may wish to choose a single item such as a Page to act as the 'landing page' for the folder. This is common in cases where the folder is intended to be a subsection of the site."
-msgstr ""
+msgstr "Jusqu'à maintenant vous avez vu les diverses façons d'afficher le contenu d'un dossier. Toutefois, dans de nombreux cas vous souhaitez choisir un seul élément tel qu'un document pour agir comme « page d'accueil » du dossier. Cette situation est commune dans les cas où le dossier est destiné à être une sous-section du site."
 
 #: ../basic/tour11.py:31
 msgid "Summary view"
-msgstr ""
+msgstr "Vue sommaire"
 
 #: ../basic/tour11.py:42
 msgid "Tabular View"
-msgstr ""
+msgstr "Vue tabulaire"
 
-#: ../basic/tour1.py:31
+#: ../basic/tour11.py:43
+msgid "The Tabular view is similar to what you see in the Contents tab, except that you cannot perform administrative tasks such copy, cut, delete or reorder. The tabular view only displays the Title and Item Type to anonymous site visitors."
+msgstr "La vue tabulaire est similaire à ce que vous voyez dans l'onglet Contenus, à part que vous ne pouvez pas réaliser de tâches administratives comme copier, couper, supprimer ou réordonner. La vue tabulaire affiche seulement le titre et le type de l'item aux visiteurs anonymes."
+
+#: ../basic/tour2.py:29
+msgid "The [MyFolder] folder doesn't exist yet. Please close this tour and start the first tour."
+msgstr "Le dossier [MyFolder] n'existe pas. Veuillez fermer cette visite guidée et démarrer la première."
+
+#: ../basic/tour1.py:35
 msgid "This folder will be used to contain sample content as I work through each tutorial."
-msgstr ""
+msgstr "Ce dossier sera utilisé pour contenir des contenus d'exemple pendant que je suis les tutoriels."
+
+#: ../basic/tour2.py:63
+msgid "This is my first Plone page."
+msgstr "Ceci est mon premier document Plone."
+
+#: ../basic/tour11.py:32
+msgid "Up to this point MyFolder has been using the Standard view. Standard view lists each item in the order it happens to be in the folder. Summary view is similar except that each entry is separated by a horizontal line and a Read More... link is automatically generated. If an item has an attached thumbnail image (such as a News Item) the image will also appear in the Summary view."
+msgstr "Jusqu'à maintenant MyFolder utilisait la vue standard. La vue standard liste chaque item dans l'ordre où il est dans le dossier. La vue sommaire est similaire à part que chaque entrée est séparée par une ligne horizontale et un lien Lire la suite... est automatiquement généré. Si un item (comme une Actualité) a une image associée, elle apparaitra dans la vue sommaire."
 
 #: ../basic/tour11.py:19
 msgid "Use summary view"
-msgstr ""
+msgstr "Utiliser la vue sommaire"
 
 #: ../basic/tour11.py:13
 msgid "Using the Display menu"
-msgstr ""
+msgstr "Utiliser le menu Affichage"
 
-#: ../basic/tour2.py:62
+#: ../basic/tour1.py:45
+msgid "You have now created a Folder for your Plone website. Before this folder can be viewed by anonymous site visitors, you must publish it."
+msgstr "Vous avez maintenant créé un Dossier dans votre site Plone. Vous devez le publier pour que les visiteurs anonymes de votre site puisse le voir. "
+
+#: ../basic/tour2.py:79
 msgid "You have now created a Page for your Plone website. Before this page can be viewed by anonymous site visitors, you must publish it. Publishing also makes your page available in the Navigation portlet."
-msgstr ""
+msgstr "Vous avez maintenant créé un Document dans votre site Plone. Vous devez le publier pour que les visiteurs anonymes de votre site puisse le voir. La publication permet également de rendre disponible votre document via le portlet de navigation."
 
-#: ../basic/tour1.py:55
+#: ../basic/tour1.py:59
 msgid "You now have a folder on your Plone website. You will use this folder in the remaining tutorials as a place to put sample content. <strong>Do not delete or rename it</strong> until you are finished with all the tutorials!"
-msgstr ""
+msgstr "Vous avez maintenant un dossier dans votre site Plone. Vous utiliserez ce dossier dans les tutoriels suivants pour stocker des contenus d'exemple. <strong>Ne supprimez pas et ne renommez pas ce dossier</strong> jusqu'à ce que vous ayez terminé tous les tutoriels !"
 
 #: ../basic/tour4.py:89
 msgid "You now have a published event in your folder."
-msgstr ""
+msgstr "Vous avez maintenant un événement publié dans votre dossier."
 
 #: ../basic/tour3.py:77
 msgid "You now have a published news item in your folder."
-msgstr ""
+msgstr "Vous avez maintenant une actualité publiée dans votre dossier."
 
-#: ../basic/tour2.py:78
+#: ../basic/tour2.py:95
 msgid "You now have a published page in your folder."
-msgstr ""
+msgstr "Vous avez maintenant un document publié dans votre dossier."
 
-#: ../basic/tour2.py:51
+#: ../basic/tour2.py:68
 msgid "[Save] the page."
 msgstr "[Enregistrez] le document."
 
