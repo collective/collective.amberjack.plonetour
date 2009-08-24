@@ -1,6 +1,14 @@
+from copy import deepcopy
+
 from zope.i18nmessageid import MessageFactory
+
+from collective.amberjack.plonetour.basic.common import isFolderCreated, \
+    isNotFolderCreated
+
+
 _ = MessageFactory('collective.amberjack.plonetour')
 PMF = MessageFactory('plone')
+
 
 go_to_folder = {
     'url': u'/',
@@ -13,6 +21,15 @@ go_to_folder = {
                'selector': u'#portaltab-myfolder a',
                'text': u''},
              )}
+
+welcome = deepcopy(go_to_folder)
+welcome['steps'][0]['description'] = _(u"Navigate to the folder called [MyFolder] that you created in a previous tutorial.")
+
+please_create_folder = deepcopy(go_to_folder)
+please_create_folder['steps'][0]['description'] = _(u"The [MyFolder] folder doesn't exist yet. Please close this tour and start the first tour.")
+
+welcome['validation'] = isFolderCreated
+please_create_folder['validation'] = isNotFolderCreated
 
 create_it = {
     'url': u'/myfolder',
@@ -80,7 +97,8 @@ all_done = {
 
 ajTour = {'tourId': u'basic02_add_and_publish_a_page',
           'title': _(u"Add and publish a Page"),
-          'steps': (go_to_folder,
+          'steps': (welcome,  # if folder is created
+                    please_create_folder, # if folder is not created yet
                     create_it,
                     fill_out_the_page_fields,
                     publish_it,
