@@ -1,6 +1,6 @@
 from zope.i18nmessageid import MessageFactory
 
-from collective.amberjack.core.validators import isAuthenticated
+from collective.amberjack.core.validators import isManager
 from collective.amberjack.plonetour.basic.common import isFolderCreated
 
 _ = MessageFactory('collective.amberjack.plonetour')
@@ -8,7 +8,7 @@ PMF = MessageFactory('plone')
 
 
 go_to_folder = {
-    'validators': (isAuthenticated, isFolderCreated,),
+    'validators': (isManager, isFolderCreated,),
     'url': u'/',
     'xpath': u'',
     'xcontent': u'',

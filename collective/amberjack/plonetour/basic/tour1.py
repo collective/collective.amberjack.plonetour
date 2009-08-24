@@ -1,6 +1,6 @@
 from zope.i18nmessageid import MessageFactory
 
-from collective.amberjack.core.validators import isAuthenticated
+from collective.amberjack.core.validators import isManager
 from collective.amberjack.plonetour.basic.common import isNotFolderCreated
 
 _ = MessageFactory('collective.amberjack.plonetour')
@@ -8,7 +8,7 @@ PMF = MessageFactory('plone')
 
 
 add_folder = {
-    'validators': (isAuthenticated, isNotFolderCreated,),
+    'validators': (isManager, isNotFolderCreated,),
     'url': u'/',
            'xpath': u'',
            'xcontent': u'',
