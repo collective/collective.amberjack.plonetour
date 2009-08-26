@@ -39,7 +39,7 @@ fill_out_the_fields = {
               {'description': _(u"Provide a Description for your News Item. <br />The description will appear in site searches and in summary listings of news on your site."),
                'idStep': u'',
                'selector': u'',
-               'text': u''},
+               'text': _(u'a description')},
               {'description': _(u"Put some content in the Body Text field."),
                'idStep': u'',
                'selector': u'',
