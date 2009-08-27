@@ -27,7 +27,7 @@ add_folder = {
                       'selector': u'',
                       'text': u''})}
 
-fill_out_the_fields = {'url': u'/portal_factory/Folder/folder',
+fill_out_the_fields = {'url': u'aj_any_url', #'url': u'/portal_factory/Folder/folder',
               'xpath': u'',
               'xcontent': u'',
               'title': _(u"Fill out the fields"),

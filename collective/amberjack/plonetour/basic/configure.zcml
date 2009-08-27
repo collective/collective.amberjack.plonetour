@@ -18,14 +18,18 @@
         tourdescriptor=".tour4.ajTour"
         />
         
-    <!-- collective.amberjack:tour
+    <collective.amberjack:tour
     	tourdescriptor=".tour5.ajTour"
     	/>
     	
-    <ollective.amberjack:tour
-    	tourdescriptor=".tour6.ajTour"
+    <collective.amberjack:tour
+    	tourdescriptor=".tour6_1.ajTour"
     	/>
-    	
+    
+    <collective.amberjack:tour
+        tourdescriptor=".tour6_2.ajTour"
+        />
+    
     <collective.amberjack:tour
     	tourdescriptor=".tour7.ajTour"
     	/>
@@ -34,20 +38,20 @@
     	tourdescriptor=".tour8.ajTour"
     	/>
     	
-    <collective.amberjack:tour
+    <!--collective.amberjack:tour
     	tourdescriptor=".tour9.ajTour"
-    	/>
+    	/-->
     	
-    <collective.amberjack:tour
+    <!--collective.amberjack:tour
     	tourdescriptor=".tour10.ajTour"
-    	/>
+    	/-->
 
     <collective.amberjack:tour
         tourdescriptor=".tour11.ajTour"
         />
         
-    <collective.amberjack:tour
+    <!--collective.amberjack:tour
         tourdescriptor=".tour12.ajTour"
-        / -->
+        /-->
 
 </configure>
