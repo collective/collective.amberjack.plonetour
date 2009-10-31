@@ -69,7 +69,7 @@ format_page = {
              )}
 
 all_done = {
-    'url': u'/myfolder/my-page/',
+    'url': u'/myfolder/my-page',
     'xpath': u'#parent-fieldname-text h3',
     'xcontent': u'aj_xpath_exists',
     'title': _(u"All done!"),
