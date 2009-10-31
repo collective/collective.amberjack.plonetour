@@ -63,8 +63,8 @@ format_page = {
                'selector': u'',
                'text': u''},
                {'description': _(u"When you are all done, click the [Save] button at the bottom of the page."),
-               'idStep': u'',
-               'selector': u'input[name=form\\.button\\.save]',
+               'idStep': u'form_save',
+               'selector': u'',
                'text': u''},     
              )}
 
