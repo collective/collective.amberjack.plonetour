@@ -11,9 +11,9 @@ add_file = {
     'url': u'/myfolder',
     'xpath': u'',
     'xcontent': u'',
-    'title': _(u"Add a new Image to MyFolder"),
+    'title': _(u"Add a new File to MyFolder"),
     'text': _(u""),
-    'steps': ({'description': _(u"Click the [Add New...] drop-down menu and select Image from the menu."),
+    'steps': ({'description': _(u"Click the [Add New...] drop-down menu and select File from the menu."),
                'idStep': u'menu_add-new',
                'selector': u'',
                'text': u''},
@@ -22,6 +22,7 @@ add_file = {
                'selector': u'',
                'text': u''},
              )}
+
 
 
 choose_file = {
@@ -40,20 +41,20 @@ choose_file = {
                'text': _(u'A description for this file')},
                {'description': _(u"Click the [Browse] button."),
                'idStep': u'',
-               'selector': u'#file_file',
+               'selector': u'',
                'text': u''},
                {'description': _(u"Select a file from your desktop computer."),
                'idStep': u'',
                'selector': u'',
                'text': u''},
                {'description': _(u"Click [Save] to complete the upload."),
-               'idStep': u'',
-               'selector': u'input[name=form\\.button\\.save]',
+               'idStep': u'form_save',
+               'selector': u'',
                'text': u''},     
              )}
 
 link_to_file = {
-    'url': u'/myfolder/test.htlm/view',
+    'url': u'aj_any_url',
     'xpath': u'',
     'xcontent': u'',
     'title': _(u"Link to the File"),
@@ -103,8 +104,8 @@ insert_internal_link = {
                'selector': u'',
                'text': u''},
                {'description': _(u"Click [Save] to finish."),
-               'idStep': u'',
-               'selector': u'input[name=form\\.button\\.save]',
+               'idStep': u'form_save',
+               'selector': u'',
                'text': u''},
              )}
 
