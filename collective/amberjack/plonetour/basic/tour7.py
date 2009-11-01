@@ -43,8 +43,8 @@ fill_out_fields = {
                'selector': u'input#image_file',
                'text': u''},
                {'description': _(u"Click [Save] to complete the upload."),
-               'idStep': u'',
-               'selector': u'input[name=form\\.button\\.save]',
+               'idStep': u'form_save',
+               'selector': u'',
                'text': u''},
              )}
 

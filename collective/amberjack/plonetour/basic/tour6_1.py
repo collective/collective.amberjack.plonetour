@@ -51,8 +51,8 @@ insert_internal_link = {
                'text': u''},
                 {'description': _(u"Find the page titled 'Welcome to Plone' and select the [radio button] next to it."),
                'idStep': u'',
-               'selector': u'div[title="Congratulations! You have successfully installed Plone."] input[name$="drawer-item-radio"]',
-               'text': u'checked'},
+               'selector': u'div[title="Congratulations! You have successfully installed Plone."] input[name="drawer-item-radio"]',
+               'text': u''},
                {'description': _(u"Ignore the [link to anchor] menu in the right-hand column. Anchors will be covered in a future tutorial."),
                'idStep': u'',
                'selector': u'',
@@ -62,8 +62,8 @@ insert_internal_link = {
                'selector': u'#kupu-librarydrawer div.kupu-dialogbuttons button.kupu-dialog-button',
                'text': u''},
                {'description': _(u"Click [Save] to finish."),
-               'idStep': u'',
-               'selector': u'input[name=form\\.button\\.save]',
+               'idStep': u'form_save',
+               'selector': u'',
                'text': u''},
              )}
 

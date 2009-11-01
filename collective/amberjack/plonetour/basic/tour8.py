@@ -63,8 +63,8 @@ insert_image = {
                'selector': u'',
                'text': u''},
                {'description': _(u"Click [Save] to finish."),
-               'idStep': u'',
-               'selector': u'input[name=form\\.button\\.save]',
+               'idStep': u'form_save',
+               'selector': u'',
                'text': u''},
               
              )}

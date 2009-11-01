@@ -20,9 +20,9 @@ go_to_page = {
              )}
 
 edit_page = {
-    'url': u'/myfolder/my-page',
-    'xpath': u'',
-    'xcontent': u'',
+    'url': u'aj_any_url',
+    'xpath': u'#contentview-edit a',
+    'xcontent': PMF(u'Edit'),
     'title': _(u"Edit My Page'"),
     'text': _(u""),
     'steps': ({'description': _(u"Click the [Edit] tab to begin editing."),
@@ -39,7 +39,7 @@ format_page = {
     'title': _(u"Add and format page content"),
     'text': u'Now that you are editing your page, you can add content and formatting to it. You will learn how to apply bold, italics, text alignment, and paragraph styles to the page.',
     'steps': ({'description': _(u"Type the following text into the [Body Text] field: 'The quick brown fox jumps over the lazy dog.'"),
-               'idStep': u'',
+               'idStep': u'form_text',
                'selector': u'#archetypes-fieldname-text iframe',
                'text': _(u'The quick brown fox jumps over the lazy dog.')},
                {'description': _(u"Now highlight the phrase 'brown fox' with your mouse pointer and select the [Bold icon] from the formatting toolbar."),
