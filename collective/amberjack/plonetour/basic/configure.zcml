@@ -50,8 +50,8 @@
         tourdescriptor=".tour11.ajTour"
         />
         
-    <!--collective.amberjack:tour
+    <collective.amberjack:tour
         tourdescriptor=".tour12.ajTour"
-        /-->
+        />
 
 </configure>

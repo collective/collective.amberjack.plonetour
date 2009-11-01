@@ -20,13 +20,13 @@ edit_page = {
                )}
 
 features_contents_tab = {
-    'url': u'/myfolder/folder_contents',
+    'url': u'/myfolder',
     'xpath': u'',
     'xcontent': u'',
     'title': _(u"Features of the Contents tab"),
     'text': _(u"All of the items you have been creating for these tutorials so far are listed now in the Contents view. You can see information about each item such as the Title, Size, Date Modified, and Publishing State."),
     'steps': ({'description': _(u"Also notice the buttons along the bottom of the Contents view: Copy, Cut, Rename, Delete, and Change State. By using the checkboxes next to each content item you can apply any of these changes to those checked items."),
-               'idStep': u'link',
+               'idStep': u'',
                'selector': u'',
                'text': u''},
              )}
@@ -39,10 +39,10 @@ reordering_content = {
     'text': _(u"You may wish to change the order of contents within a folder for various reasons. One of the most common reasons is to change the order that items list in the Navigation portlet or folder summary views."),
     'steps': ({'description': _(u"Position your mouse pointer over one of the items in the [Order column]. Notice that your pointer is now a four-way arrow or a little hand."),
                'idStep': u'',
-               'selector': u'#foldercontents-order-column',
+               'selector': u'.draggable a',
                'text': u''},
                {'description': _(u"Click-and-drag the item to the top of the Contents listing. The item is now moved - you do not need to save the change in any way."),
-               'idStep': u'',
+               'idStep': u'link',
                'selector': u'',
                'text': u''},
              )}

@@ -22,19 +22,20 @@ welcome_message = {
 
 
 add_portlet = {
-    'url': u'/@@manage-portlets',
+    'url': u'aj_any_url',
     'xpath': u'',
     'xcontent': u'',
     'title': _(u"Add a portlet"),
     'text': _(u"You are now looking at the Manage Portlets page. Notice that there are a set of menus and buttons on both the left and right side of the screen. Each set controls its corresponding column. Also note that if you have portlets already added to the site, you will see their names listed here."),
     'steps': ({'description': _(u"Click the Add [Portlet drop-down] menu for either the left or right column.<br />Then select [Static Text Portlet] from the menu."),
-               'idStep': u'select',
-               'selector': u'div[id*="portletmanager-plone-leftcolumn"] select[name*=":action"]',
+               'idStep': u'add_portlet',
+               'selector': u'',
                'text': u'/++contextportlets++plone.leftcolumn/+/plone.portlet.static.Static'},
              )}
-
 configure_portlet = {
-    'url': u'/', # also other http://localhost:8080/site/++contextportlets++plone.leftcolumn/+/plone.portlet.static.Static
+
+    'url': u'/@@manage-portlets',
+     #'url': u'/', # also other http://localhost:8080/site/++contextportlets++plone.leftcolumn/+/plone.portlet.static.Static
     'xpath': u'h1.documentFirstHeading',
     'xcontent': PMF(u'Add static text portlet'),
     'title': _(u"Configure the portlet"),
