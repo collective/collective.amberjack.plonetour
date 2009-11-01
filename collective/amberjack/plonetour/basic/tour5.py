@@ -70,8 +70,8 @@ format_page = {
 
 all_done = {
     'url': u'/myfolder/my-page',
-    'xpath': u'#parent-fieldname-text h3',
-    'xcontent': u'aj_xpath_exists',
+    'xpath': u'',
+    'xcontent': u'',
     'title': _(u"All done!"),
     'text': _(u"This tutorial has been a brief introduction into the various ways you can format a page. Subsequent tutorials will teach you how to insert hyperlinks and images."),
     'steps': ()}

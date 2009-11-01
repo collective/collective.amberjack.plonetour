@@ -46,6 +46,7 @@ reordering_content = {
                'selector': u'',
                'text': u''},
              )}
+
 copy_content = {
     'url': u'/myfolder/folder_contents',
     'xpath': u'dl.portalMessage dd',

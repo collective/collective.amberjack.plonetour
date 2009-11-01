@@ -42,9 +42,9 @@
     	tourdescriptor=".tour9.ajTour"
     	/>
     	
-    <!--collective.amberjack:tour
+    <collective.amberjack:tour
     	tourdescriptor=".tour10.ajTour"
-    	/-->
+    	/>
 
     <collective.amberjack:tour
         tourdescriptor=".tour11.ajTour"
