@@ -20,7 +20,7 @@ edit_page = {
                )}
 
 features_contents_tab = {
-    'url': u'/myfolder',
+    'url': u'/myfolder/folder_contents',
     'xpath': u'',
     'xcontent': u'',
     'title': _(u"Features of the Contents tab"),
@@ -42,21 +42,23 @@ reordering_content = {
                'selector': u'.draggable a',
                'text': u''},
                {'description': _(u"Click-and-drag the item to the top of the Contents listing. The item is now moved - you do not need to save the change in any way."),
-               'idStep': u'link',
+               'idStep': u'',
                'selector': u'',
                'text': u''},
              )}
 
 copy_content = {
     'url': u'/myfolder/folder_contents',
-    'xpath': u'dl.portalMessage dd',
-    'xcontent': PMF(u'1 item(s) copied.'),
+    #'xpath': u'dl.portalMessage dd',
+    'xpath': u'',
+   # 'xcontent': PMF(u'1 item(s) copied.'),
+    'xcontent': u'',
     'title': _(u"Copy content"),
     'text': _(u"You may wish to make copies of a content item for various reasons. You can paste a copied item into any location on the site."),
     'steps': ({'description': _(u"[Check the box] next to My Page in the contents listing."),
                'idStep': u'checkbox',
                'selector': u'#cb_my-page',
-               'text': u'checked'},
+               'text': u'true'},
                {'description': _(u"Click the [Copy] button at the bottom of the page."),
                'idStep': u'folder_copy',
                'selector': u'',
@@ -76,7 +78,7 @@ paste_content = {
                )}
 
 all_done = {
-    'url': u'/myfolder/folder_contents',
+    'url': u'/myfolder/@@folder_contents',
     'xpath': u'dl.portalMessage dd',
     'xcontent': PMF(u'Item(s) pasted.'),
     'title': _(u"All done!"),
