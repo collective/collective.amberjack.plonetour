@@ -31,7 +31,7 @@ choose_file = {
     'xcontent': u'',
     'title': _(u"Choose a file"),
     'text': u'Simply provide a title, description, and select the file you wish to upload.',
-    'steps': ({'description': _(u'Provide a [Title] (i.e. "My File.")'),
+    'steps': ({'description': _(u'Provide a [Title] (i.e. \\"My File.\\")'),
                'idStep': u'form_title',
                'selector': u'',
                'text': u'My File'},
