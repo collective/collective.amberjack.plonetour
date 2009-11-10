@@ -25,7 +25,7 @@ msgstr ""
 msgid "A File in Plone is any binary file such as a PDF, DOC, XLS, PPT, RTF, or other file type that you wish to upload to your site. You can also link to a file to allow your site visitors the chance to download the file."
 msgstr ""
 
-#: ../basic/tour9.py:40
+#: ../basic/tour9.py:41
 msgid "A description for this file"
 msgstr ""
 
@@ -39,6 +39,10 @@ msgstr ""
 
 #: ../basic/tour2.py:29
 msgid "Add a Page"
+msgstr ""
+
+#: ../basic/tour9.py:14
+msgid "Add a new File to MyFolder"
 msgstr ""
 
 #: ../basic/tour7.py:7
@@ -101,7 +105,7 @@ msgstr ""
 msgid "Choose [Left] alignment and a [Size] from the size menu. You can leave the [Text Equivalent] field as-is, or change the text if you wish. This is the 'alt' text for the image which aids in site accessibility, search, and indexing."
 msgstr ""
 
-#: ../basic/tour9.py:31
+#: ../basic/tour9.py:32
 msgid "Choose a file"
 msgstr ""
 
@@ -117,7 +121,7 @@ msgstr ""
 msgid "Click [Save] to complete the upload."
 msgstr ""
 
-#: ../basic/tour12.py:62
+#: ../basic/tour12.py:63
 msgid "Click [Save] to finish."
 msgstr ""
 
@@ -127,6 +131,10 @@ msgstr ""
 
 #: ../basic/tour12.py:30
 msgid "Click the Add [Portlet drop-down] menu for either the left or right column.<br />Then select [Static Text Portlet] from the menu."
+msgstr ""
+
+#: ../basic/tour9.py:16
+msgid "Click the [Add New...] drop-down menu and select File from the menu."
 msgstr ""
 
 #: ../basic/tour7.py:17
@@ -141,11 +149,11 @@ msgstr ""
 msgid "Click the [Browse] button and find the image file you want to upload on your computer's filesystem."
 msgstr ""
 
-#: ../basic/tour9.py:41
+#: ../basic/tour9.py:42
 msgid "Click the [Browse] button."
 msgstr ""
 
-#: ../basic/tour10.py:59
+#: ../basic/tour10.py:62
 msgid "Click the [Copy] button at the bottom of the page."
 msgstr ""
 
@@ -157,7 +165,7 @@ msgstr ""
 msgid "Click the [Edit] tab to begin editing."
 msgstr ""
 
-#: ../basic/tour9.py:73
+#: ../basic/tour9.py:74
 msgid "Click the [Edit] tab."
 msgstr ""
 
@@ -177,11 +185,11 @@ msgstr ""
 msgid "Click-and-drag the item to the top of the Contents listing. The item is now moved - you do not need to save the change in any way."
 msgstr ""
 
-#: ../basic/tour12.py:40
+#: ../basic/tour12.py:41
 msgid "Configure the portlet"
 msgstr ""
 
-#: ../basic/tour10.py:53
+#: ../basic/tour10.py:56
 msgid "Copy content"
 msgstr ""
 
@@ -269,7 +277,7 @@ msgstr ""
 msgid "In the [Description] field, type 'This folder will be used to contain sample content as I work through each tutorial.'."
 msgstr ""
 
-#: ../basic/tour12.py:42
+#: ../basic/tour12.py:43
 msgid "In the [Portlet Header] field type 'Sample Portlet'."
 msgstr ""
 
@@ -309,6 +317,10 @@ msgstr ""
 msgid "In this tutorial, you'll create a static text portlet on your Plone-powered website.<br/>Portlets are the boxes in the left and right side columns of your site. You probably already have a News, Events and Navigation portlets although depending on the type of content on your site, you may not see them currently. There are many portlets types available for you to use, however this tutorial will cover the Static Text portlets. <br />Navigate to the homepage of your site. It is important that you access portlet management from the homepage."
 msgstr ""
 
+#: ../basic/tour4.py:54
+msgid "Information about your event."
+msgstr ""
+
 #: ../basic/tour8.py:39
 msgid "Insert an Image"
 msgstr ""
@@ -325,15 +337,19 @@ msgstr ""
 msgid "Insert image on a page"
 msgstr ""
 
-#: ../basic/tour9.py:59
+#: ../basic/tour9.py:60
 msgid "Link to the File"
 msgstr ""
 
-#: ../basic/tour12.py:74
+#: ../basic/tour4.py:46
+msgid "Location of Event"
+msgstr ""
+
+#: ../basic/tour12.py:75
 msgid "Navigate back to the [homepage] of your site. Since you do not have your normal navigation tabs in the Manage Portlets page, try clicking on the site logo.'."
 msgstr ""
 
-#: ../basic/tour9.py:61
+#: ../basic/tour9.py:62
 msgid "Navigate to [My Page]"
 msgstr ""
 
@@ -353,16 +369,16 @@ msgstr ""
 msgid "Notice in the right-hand column of the pop-up window that a preview of the image you have selected appears."
 msgstr ""
 
-#: ../basic/tour10.py:71
+#: ../basic/tour10.py:74
 msgid "Notice that a Paste button now appears. Click [Paste] to create a copy of My Page."
 msgstr ""
 
-#: ../basic/tour3.py:47
-msgid "Notice the Image field at the bottom of the page. You can attach an image to a News Item which will appear in summary listings of News Items. You can also caption the image."
+#: ../basic/tour12.py:59
+msgid "Notice the [Hide Portlet] checkbox. You can use this checkbox to temporarily hide your portlet without losing the content. Leave this box unchecked for now."
 msgstr ""
 
-#: ../basic/tour12.py:58
-msgid "Notice the [Hide Portlet] checkbox. You can use this checkbox to temporarily hide your portlet without losing the content. Leave this box unchecked for now."
+#: ../basic/tour3.py:47
+msgid "Notice the [Image] field at the bottom of the page. You can attach an image to a News Item which will appear in summary listings of News Items. You can also caption the image."
 msgstr ""
 
 #: ../basic/tour6_2.py:48
@@ -389,7 +405,7 @@ msgstr ""
 msgid "Now highlight that text with your mouse pointer and click the [Internal Link icon] in the toolbar. A pop-up window should now appear."
 msgstr ""
 
-#: ../basic/tour9.py:89
+#: ../basic/tour9.py:90
 msgid "Now highlight the link text and click the [Internal Link] icon in the editor toolbar (it looks like a piece of chain link)."
 msgstr ""
 
@@ -401,7 +417,7 @@ msgstr ""
 msgid "Now that you have created the internal link and saved the page, try clicking on the link. You should arrive at the default 'Welcome to Plone' homepage."
 msgstr ""
 
-#: ../basic/tour12.py:73
+#: ../basic/tour12.py:74
 msgid "Now that you have created your first portlet, let's take a look at it."
 msgstr ""
 
@@ -421,7 +437,7 @@ msgstr ""
 msgid "Now that you selected the Page content type, you need to supply some information about it."
 msgstr ""
 
-#: ../basic/tour12.py:46
+#: ../basic/tour12.py:47
 msgid "Now type some text or insert an image if you wish into the [Body Text] field. Since a portlet is much smaller than a page, be sure to keep the content fairly short."
 msgstr ""
 
@@ -433,7 +449,7 @@ msgstr ""
 msgid "Open 'My Page'"
 msgstr ""
 
-#: ../basic/tour10.py:69
+#: ../basic/tour10.py:72
 msgid "Paste content"
 msgstr ""
 
@@ -445,10 +461,6 @@ msgstr ""
 msgid "Position your mouse pointer over one of the items in the [Order column]. Notice that your pointer is now a four-way arrow or a little hand."
 msgstr ""
 
-#: ../basic/tour3.py:39
-msgid "Provide a Description for your News Item. <br />The description will appear in site searches and in summary listings of news on your site."
-msgstr ""
-
 #: ../basic/tour4.py:39
 msgid "Provide a [Description] for your Event. <br />The description will appear in site searches and in summary listings of events on your site."
 msgstr ""
@@ -457,7 +469,11 @@ msgstr ""
 msgid "Provide a [Description] for your Image."
 msgstr ""
 
-#: ../basic/tour9.py:37
+#: ../basic/tour3.py:39
+msgid "Provide a [Description] for your News Item. <br />The description will appear in site searches and in summary listings of news on your site."
+msgstr ""
+
+#: ../basic/tour9.py:38
 msgid "Provide a [Description]. The description will appear in site searches and in summary listings of files on your site."
 msgstr ""
 
@@ -465,8 +481,8 @@ msgstr ""
 msgid "Provide a [Description]: [This is my first Plone page.]."
 msgstr ""
 
-#: ../basic/tour9.py:33
-msgid "Provide a [Title] (i.e. "My File.")"
+#: ../basic/tour9.py:34
+msgid "Provide a [Title] (i.e. \"My File.\")"
 msgstr ""
 
 #: ../basic/tour7.py:33
@@ -518,7 +534,7 @@ msgid "Publish the page"
 msgstr ""
 
 #: ../basic/tour3.py:43
-msgid "Put some content in the Body Text field."
+msgid "Put some content in the [Body Text] field."
 msgstr ""
 
 #: ../basic/tour4.py:51
@@ -573,7 +589,7 @@ msgstr ""
 msgid "Select [content item as default view]."
 msgstr ""
 
-#: ../basic/tour9.py:45
+#: ../basic/tour9.py:46
 msgid "Select a file from your desktop computer."
 msgstr ""
 
@@ -581,7 +597,7 @@ msgstr ""
 msgid "Select default page"
 msgstr ""
 
-#: ../basic/tour9.py:97
+#: ../basic/tour9.py:98
 msgid "Select the file by [clicking the radio button] next to it."
 msgstr ""
 
@@ -613,6 +629,10 @@ msgstr ""
 msgid "The Contents tab"
 msgstr ""
 
+#: ../basic/tour3.py:46
+msgid "The News item"
+msgstr ""
+
 #: ../basic/tour11.py:45
 msgid "The Tabular view is similar to what you see in the Contents tab, except that you cannot perform administrative tasks such copy, cut, delete or reorder. The tabular view only displays the Title and Item Type to anonymous site visitors."
 msgstr ""
@@ -621,8 +641,16 @@ msgstr ""
 msgid "The [MyFolder] folder doesn't exist yet. Please close this tour and start the first tour."
 msgstr ""
 
-#: ../basic/tour12.py:50
+#: ../basic/tour12.py:51
 msgid "The [Omit Portlet Border] checkbox can be checked if you wish to not display the Portlet Header or Footer. Leave this box unchecked for now."
+msgstr ""
+
+#: ../basic/tour4.py:42
+msgid "The description of My Event"
+msgstr ""
+
+#: ../basic/tour3.py:42
+msgid "The description of My News item"
 msgstr ""
 
 #: ../basic/tour5.py:44
@@ -635,6 +663,10 @@ msgstr ""
 
 #: ../basic/tour2.py:54
 msgid "This is my first Plone page."
+msgstr ""
+
+#: ../basic/tour2.py:58
+msgid "This is the text of My Page"
 msgstr ""
 
 #: ../basic/tour6_1.py:48
@@ -653,11 +685,11 @@ msgstr ""
 msgid "Type more text of your own choosing and experiment with the other text styles in the formatting menu."
 msgstr ""
 
-#: ../basic/tour9.py:85
+#: ../basic/tour9.py:86
 msgid "Type some link text in the [Body Text] field of the page (i.e. Download this report)."
 msgstr ""
 
-#: ../basic/tour12.py:54
+#: ../basic/tour12.py:55
 msgid "Type some text into the Portlet Footer field if you wish. You can make the [Portlet Footer] text clickable by typing or pasting a web address into the [Details Link] field."
 msgstr ""
 
@@ -681,7 +713,7 @@ msgstr ""
 msgid "Upload an image"
 msgstr ""
 
-#: ../basic/tour9.py:120
+#: ../basic/tour9.py:121
 msgid "Upload and link to a File"
 msgstr ""
 
@@ -689,11 +721,11 @@ msgstr ""
 msgid "Use summary view"
 msgstr ""
 
-#: ../basic/tour9.py:93
+#: ../basic/tour9.py:94
 msgid "Use the [pop-up window] to browse to the location of the file you just uploaded."
 msgstr ""
 
-#: ../basic/tour10.py:91
+#: ../basic/tour10.py:94
 msgid "Using the Contents tab"
 msgstr ""
 
@@ -701,11 +733,11 @@ msgstr ""
 msgid "Using the Display menu"
 msgstr ""
 
-#: ../basic/tour12.py:72
+#: ../basic/tour12.py:73
 msgid "View the portlet"
 msgstr ""
 
-#: ../basic/tour9.py:84
+#: ../basic/tour9.py:85
 msgid "When linking to a file, you should indicate that the link will begin the download of a file and you should indicate the file type and size in the link text as well. For example you might say: Download this report [PDF 1.2 Mb]."
 msgstr ""
 
@@ -717,7 +749,7 @@ msgstr ""
 msgid "You are now looking at the Manage Portlets page. Notice that there are a set of menus and buttons on both the left and right side of the screen. Each set controls its corresponding column. Also note that if you have portlets already added to the site, you will see their names listed here."
 msgstr ""
 
-#: ../basic/tour12.py:41
+#: ../basic/tour12.py:42
 msgid "You are now looking at the Static Text Portlet edit screen. This type of portlet allows you to use the same visual editor you have been using for other content types. A static text portlet can be used to insert a clickable image such as a donation button, a series of external links, or other content you wish to post."
 msgstr ""
 
@@ -741,11 +773,11 @@ msgstr ""
 msgid "You may wish to change the order of contents within a folder for various reasons. One of the most common reasons is to change the order that items list in the Navigation portlet or folder summary views."
 msgstr ""
 
-#: ../basic/tour10.py:54
+#: ../basic/tour10.py:57
 msgid "You may wish to make copies of a content item for various reasons. You can paste a copied item into any location on the site."
 msgstr ""
 
-#: ../basic/tour9.py:60
+#: ../basic/tour9.py:61
 msgid "You now have a file on your Plone website. You should now create a link to the file from a page to allow a site visitor to download the file. Otherwise, a site visitor would have to know the web address for the file or happen to search for it."
 msgstr ""
 
@@ -753,7 +785,7 @@ msgstr ""
 msgid "You now have a folder on your Plone website. You will use this folder in the remaining tutorials as a place to put sample content. <strong>Do not delete or rename it</strong> until you are finished with all the tutorials!"
 msgstr ""
 
-#: ../basic/tour9.py:116
+#: ../basic/tour9.py:117
 msgid "You now have a linked file on your Plone website. Try clicking the link to see what the download process looks like. Note that the browser settings of each site visitor will determine whether the file opens in an application or if the Save As dialog box appears. You cannot control this behavior from within Plone."
 msgstr ""
 
@@ -769,19 +801,19 @@ msgstr ""
 msgid "You now have a published page in your folder."
 msgstr ""
 
-#: ../basic/tour10.py:84
+#: ../basic/tour10.py:87
 msgid "You now have two copies of the same page in your folder."
 msgstr ""
 
-#: ../basic/tour10.py:82
+#: ../basic/tour10.py:85
 msgid "You now have two copies of the same page in your folder.<br />You can cut-and-paste and also delete items in a folder by checking the boxes next to the items you wish to alter."
 msgstr ""
 
-#: ../basic/tour12.py:85
+#: ../basic/tour12.py:86
 msgid "You should see the new portlet you added in the column you chose to add it to. This portlet will now appear on all pages on the site, including new ones that you might create. If you wish to rearrange the order of your portlets, or remove a portlet, return to the Manage Portlets page and use the directional arrows to move portlets or the red X delete a portlet."
 msgstr ""
 
-#: ../basic/tour10.py:55
+#: ../basic/tour10.py:58
 msgid "[Check the box] next to My Page in the contents listing."
 msgstr ""
 
@@ -793,19 +825,15 @@ msgstr ""
 msgid "[Save] the page."
 msgstr ""
 
-#: ../basic/tour3.py:42
-msgid "a description"
-msgstr ""
-
 #: ../basic/tour7.py:40
 msgid "image description"
 msgstr ""
 
-#: ../basic/tour12.py:49
+#: ../basic/tour12.py:50
 msgid "something"
 msgstr ""
 
-#: ../basic/tour12.py:57
+#: ../basic/tour12.py:58
 msgid "text in the footer"
 msgstr ""
 
