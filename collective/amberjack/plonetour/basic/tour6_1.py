@@ -38,7 +38,7 @@ insert_internal_link = {
     'title': _(u"Insert an internal link"),
     'text': _(u"An internal link is for linking to any page, news item, event, image, file or other content type within your Plone site. Look for the icon in the editing toolbar. It should look like a small piece of chain."),
     'steps': ({'description': _(u"Type the following text in the [Body Text] field 'Visit the Homepage'."),
-               'idStep': u'',
+               'idStep': u'form_text',
                'selector': u'#archetypes-fieldname-text iframe',
                'text': u'Visit the Homepage'},
                {'description': _(u"Now highlight that text with your mouse pointer and click the [Internal Link icon] in the toolbar. A pop-up window should now appear."),
