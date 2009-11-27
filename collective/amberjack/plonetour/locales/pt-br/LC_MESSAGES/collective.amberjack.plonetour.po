@@ -27,11 +27,11 @@ msgstr "Uma descrição para este arquivo"
 
 #: ../basic/tour11.py:16
 msgid "A folder is a special content type in Plone because it can contain other content items. The way that those contained items will appear on the screen can be changed using the Display drop-down menu."
-msgstr "Uma pasta e um tipo especial de conteúdo no Plone que pode conter outros ítens dentro. A maneira com a qual estes pitens aparecerão na tela pode ser mudada usado o menu Exibição."
+msgstr "Uma pasta e um tipo especial de conteúdo no Plone que pode conter outros itens dentro. A maneira com a qual estes itens aparecerão na tela pode ser alterada usando o menu Exibição."
 
 #: ../basic/tour8.py:45
 msgid "A pop-up window should appear. [Browse] to the location of an image you would like to insert. You should have at least one image already in MyFolder from a previous tutorial."
-msgstr "Uma janela popup deve aparecer [Navegue] até a localização da imafem que você queira inserir. Você deve ao menos ter salvo uma imagem em Minha Pasta em algum tutorial anterior."
+msgstr "Uma janela popup deve aparecer. [Navegue] até a localização da imagem que você gostaria de inserir. Você deve ter ao menos uma imagem já em Minha Pasta de algum tutorial anterior."
 
 #: ../basic/tour2.py:29
 msgid "Add a Page"
@@ -59,7 +59,7 @@ msgstr "Adicionar e publicar uma Notícia"
 
 #: ../basic/tour2.py:15
 msgid "Add and publish a Page"
-msgstr "Adicionat e publicar uma Página"
+msgstr "Adicionar e publicar uma Página"
 
 #: ../basic/tour4.py:10
 msgid "Add and publish an Event"
@@ -67,39 +67,39 @@ msgstr "Adicionar e publicar um Evento"
 
 #: ../basic/tour2.py:55
 msgid "Add some page content (you can come back and edit this later)."
-msgstr "Adicionar algum conteúdo a página (você pode voltar e editar mais tarde)"
+msgstr "Adicionar algum conteúdo à página (você pode editar mais tarde)"
 
 #: ../basic/tour1.py:65
 msgid "All done!"
-msgstr "Tudo feito!"
+msgstr "Feito!"
 
 #: ../basic/tour10.py:27
 msgid "All of the items you have been creating for these tutorials so far are listed now in the Contents view. You can see information about each item such as the Title, Size, Date Modified, and Publishing State."
-msgstr "Todos os ítens que você têm criado com estes tutoriais até agora são listados na visão de Conteúdo. Você pode ver a informaçãode cada um destes ítens como Título, Tamanho, Data de Modificação, e Estado de Publicação."
+msgstr "Todos os itens que você criou com estes tutoriais até agora são listados na visão de Conteúdo. Você pode ver informações sobre cada um destes itens, tais como Título, Tamanho, Data de Modificação e Estado de Publicação."
 
 #: ../basic/tour10.py:28
 msgid "Also notice the buttons along the bottom of the Contents view: Copy, Cut, Rename, Delete, and Change State. By using the checkboxes next to each content item you can apply any of these changes to those checked items."
-msgstr "Note também que os botões no final da visão de Conteúdo: Copiar, Cortar,  Renomear, Apagar, e Mudar Estado.  Usando os marcadores a esquerda de cada conteúdo você pode aplicar qualquer destas ações nos ítens selecionados."
+msgstr "Observe também os botões ao final da visão de Conteúdo: Copiar, Recortar, Renomear, Apagar e Alterar Estado. Usando os marcadores à esquerda de cada conteúdo, você pode aplicar qualquer destas ações aos itens selecionados."
 
 #: ../basic/tour6_2.py:39
 msgid "An external link is used to link to other webpages, documents or resources online. Find the external link icon in the toolbar before we continue (it looks like a tiny Earth)."
-msgstr "Um link externo é usado para linkar para outros sites, documentos ou recursos online. Encontre o ícone para links externos na barra de ferramentas antes de continuarmos ( ele parece com um pequeno planeta Terra)"
+msgstr "Um link externo é usado para referenciar outros sites, documentos ou demais recursos online. Encontre o ícone para links externos na barra de ferramentas antes de continuarmos (ele parece com um pequeno planeta Terra)."
 
 #: ../basic/tour6_1.py:39
 msgid "An internal link is for linking to any page, news item, event, image, file or other content type within your Plone site. Look for the icon in the editing toolbar. It should look like a small piece of chain."
-msgstr "Um link interno é usado para linkar para outras páginas, notícias, eventos, imagens e outros tipos de conteúdo de seu site Plone."
+msgstr "Um link interno é usado para referenciar outras páginas, notícias, eventos, imagens e outros tipos de conteúdo contidos em seu site Plone."
 
 #: ../basic/tour7.py:8
 msgid "Before you can place an image on a page in Plone, you must first upload your image to the site. Be sure that you have properly prepared your image for web publishing. In short, this means that you should compress your image file, use only GIF, JPG, or PNG file formats and crop your image to fit well on the page, and resize it to reduce the upload time if needed."
-msgstr ""
+msgstr "Antes de inserir uma imagem numa página do Plone, você precisa primeiro subir a imagem para o site. Tenha certeza de ter preparado corretamente a sua imagem para publicação web. Em suma, isso significa que você deve comprimir o tamanho do arquivo, usar somente os formatos GIF, JPG ou PNG e cortar a sua imagem para caber bem na página, além de redimensioná-la para reduzir o tempo de upload, caso necessário."
 
 #: ../basic/tour8.py:57
 msgid "Choose [Left] alignment and a [Size] from the size menu. You can leave the [Text Equivalent] field as-is, or change the text if you wish. This is the 'alt' text for the image which aids in site accessibility, search, and indexing."
-msgstr ""
+msgstr "Escolha o alinhamento à [Esquerda] e um [Tamanho] do menu de dimensões. Você pode deixar o campo [Equivalente Textual] como está, ou alterá-lo conforme o desejado. Este é o atributo 'alt' da imagem que aumentará a acessibilidade, busca e indexação do seu site."
 
 #: ../basic/tour9.py:31
 msgid "Choose a file"
-msgstr ""
+msgstr "Escolha um arquivo"
 
 #: ../basic/tour8.py:61
 msgid "Click [OK] to complete the image insert."
