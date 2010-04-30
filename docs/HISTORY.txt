@@ -5,6 +5,7 @@ Changelog
 ----------------
 
 - Add new step for 'basic04_add_and_publish_an_event' in dictionary fill_out_the_fields [mirco]
+- Change some steps in tour5 to use TinyMCE [mirco]
 
 1.0 (unreleased)
 ----------------
