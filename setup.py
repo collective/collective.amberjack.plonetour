@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.0dev'
+version = '0.9'
 
 setup(name='collective.amberjack.plonetour',
       version=version,
-      description="Plone first install tour",
+      description="Collective amberjack plone tours",
       long_description=open("README.txt").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
@@ -20,8 +20,8 @@ setup(name='collective.amberjack.plonetour',
         "Topic :: Software Development :: Libraries :: Python Modules",
         ],
       keywords='plone amberjack',
-      author='Massimo Azzolini',
-      author_email='massimo@redturtle.net',
+      author='Massimo Azzolini and contributors',
+      author_email='collective.amberjack.support@lists.coactivate.org',
       url='http://pypi.python.org/pypi/collective.amberjack.plonetour',
       license='GPL',
       packages=find_packages(exclude=['ez_setup']),
@@ -30,7 +30,7 @@ setup(name='collective.amberjack.plonetour',
       zip_safe=False,
       install_requires=[
           'setuptools',
-          'collective.amberjack.core',
+          'collective.amberjack.core<1.0',
           # -*- Extra requirements: -*-
       ],
       entry_points="""
