@@ -45,25 +45,25 @@ tabular_view = {'url': u'/myfolder',
                  'text' : _(u"The Tabular view is similar to what you see in the Contents tab, except that you cannot perform administrative tasks such copy, cut, delete or reorder. The tabular view only displays the Title and Item Type to anonymous site visitors."),
                  'steps': (step_open_display_menu,
                            {'description': _(u"Select [content item as default view]."),
-                          'idStep': u'default_page',
+                          'idStep': u'button',
+                          'selector': u'#contextSetDefaultPage',
+                          'text': u''},
+                          {'description': _(u"Select [My Page] as the default page for MyFolder."),
+                          'idStep': u'',
                           'selector': u'',
-                          'text': u''})}
+                          'text': u''},
+                          {'description':_(u"Click the [Save] button to finish."),
+                           'idStep':'form_save_default_page',
+                           'selector':u'',
+                           'text':u''
+                           })}
 
-content_item_view = {'url': u'/myfolder/select_default_page',
+content_item_view = {'url': u'/myfolder',
               'xpath': u'',
               'xcontent': u'',
-              'title': _(u"Select default page"),
+              'title': _(u"Default page"),
               'text': _(u"So far you have seen the various ways that a folder in Plone can display its contents. However, in many cases you may wish to choose a single item such as a Page to act as the 'landing page' for the folder. This is common in cases where the folder is intended to be a subsection of the site."),
-              'steps': ({'description': _(u"Select [My Page] as the default page for MyFolder."),
-                      'idStep': u'radio',
-                      'selector': u'#my-page',
-                      'text': u'checked'},
-                      {'description':_(u"Click the [Save] button to finish."),
-                       'idStep':'form_save_default_page',
-                       'selector':u'',
-                       'text':u''
-                       }
-                        )}
+              'steps': ()}
 
 all_done = {'url': u'/myfolder',
                  'xpath': u"body.template-document_view",

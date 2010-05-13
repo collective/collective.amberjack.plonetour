@@ -83,12 +83,7 @@ all_done = {
     'xcontent': PMF(u'Item(s) pasted.'),
     'title': _(u"All done!"),
     'text': _(u"You now have two copies of the same page in your folder.<br />You can cut-and-paste and also delete items in a folder by checking the boxes next to the items you wish to alter."),
-    'steps': (
-               {'description': _(u"You now have two copies of the same page in your folder."),
-               'idStep': u'',
-               'selector': u'',
-               'text': u''},
-             )}
+    'steps': ()}
 
 ajTour = {'tourId': u'basic10_using_the_contents_tab',
           'title': _(u"Using the Contents tab"),
