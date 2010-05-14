@@ -39,7 +39,7 @@ reordering_content = {
     'text': _(u"You may wish to change the order of contents within a folder for various reasons. One of the most common reasons is to change the order that items list in the Navigation portlet or folder summary views."),
     'steps': ({'description': _(u"Position your mouse pointer over one of the items in the [Order column]. Notice that your pointer is now a four-way arrow or a little hand."),
                'idStep': u'',
-               'selector': u'.draggable a',
+               'selector': u'',
                'text': u''},
                {'description': _(u"Click-and-drag the item to the top of the Contents listing. The item is now moved - you do not need to save the change in any way."),
                'idStep': u'',
