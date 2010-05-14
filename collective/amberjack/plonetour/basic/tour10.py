@@ -39,7 +39,7 @@ reordering_content = {
     'text': _(u"You may wish to change the order of contents within a folder for various reasons. One of the most common reasons is to change the order that items list in the Navigation portlet or folder summary views."),
     'steps': ({'description': _(u"Position your mouse pointer over one of the items in the [Order column]. Notice that your pointer is now a four-way arrow or a little hand."),
                'idStep': u'',
-               'selector': u'.draggable a',
+               'selector': u'',
                'text': u''},
                {'description': _(u"Click-and-drag the item to the top of the Contents listing. The item is now moved - you do not need to save the change in any way."),
                'idStep': u'',
@@ -83,12 +83,7 @@ all_done = {
     'xcontent': PMF(u'Item(s) pasted.'),
     'title': _(u"All done!"),
     'text': _(u"You now have two copies of the same page in your folder.<br />You can cut-and-paste and also delete items in a folder by checking the boxes next to the items you wish to alter."),
-    'steps': (
-               {'description': _(u"You now have two copies of the same page in your folder."),
-               'idStep': u'',
-               'selector': u'',
-               'text': u''},
-             )}
+    'steps': ()}
 
 ajTour = {'tourId': u'basic10_using_the_contents_tab',
           'title': _(u"Using the Contents tab"),
