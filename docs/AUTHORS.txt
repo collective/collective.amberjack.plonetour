@@ -1,7 +1,7 @@
 Contributors
-============
+------------
 
- * Massimo Azzolini [massimo]
+ * Massimo Azzolini [massimo_azzolini]
  * Vincent Fretin [vincentfretin]
  * Luca Fabbri [keul]
  * Federica D'Elia [fdelia]
@@ -9,13 +9,13 @@ Contributors
  * Andrew Mleczko [amleczko]
 
 Ferrara 2010 Sprint
--------------------
+===================
 
  * Jacopo Deyla - Regione Emilia-Romagna
  * Giacomo Spettoli - Regione Emilia-Romagna
 
 PloneConf 2009 Sprint
----------------------
+=====================
  
  * Aaron VanDerlip [aaronv]
  * Michael Davis [millie]
@@ -23,7 +23,7 @@ PloneConf 2009 Sprint
  * Giorgio Borelli [gborelli]
 
 Translations
-------------
+============
 
  * Slovenian translation started by Domen Kozar
  * Italian translation started by Stefano Marchetti [stemrc]
