@@ -46,7 +46,7 @@ fill_out_the_fields = {
                'text': _(u'Location of Event')},
               {'description': _(u"Provide the event [Start and End] dates."),
                'idStep': u'',
-               'selector': u'#fieldset-default .plone_jscalendar select',
+               'selector': u'#fieldset-default .plone_jscalendar select, #fieldset-default .plone_jscalendar a',
                'text': u''},
               {'description': _(u"Put some content in the [Body Text] field. This is the best place to add directions to your event, information about what to expect, images, etc."),
                'idStep': u'form_text',
