@@ -1,4 +1,5 @@
 from zope.i18nmessageid import MessageFactory
+from collective.amberjack.core.validators import isManager
 _ = MessageFactory('collective.amberjack.plonetour')
 PMF = MessageFactory('plone')
 
@@ -9,6 +10,7 @@ XXX things to be done:
 """
 
 welcome_message = {
+    'validators': (isManager,),
     'url': u'/',
     'xpath': u'',
     'xcontent': u'',
