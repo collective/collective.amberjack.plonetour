@@ -1,6 +1,12 @@
 Changelog
 =========
 
+1.0.1 (xxxxxxxx)
+----------------
+
+- Add validator isManager for tour 12
+  [fdelia]
+
 1.0 (2010-05-17)
 ----------------
 
