@@ -4,6 +4,8 @@ Changelog
 1.0.1 (xxxxxxxx)
 ----------------
 
+- Deal the link on the widget's calendar #572238
+  [fdelia]
 - Add validator isManager for tour 12
   [fdelia]
 
