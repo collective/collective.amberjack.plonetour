@@ -49,9 +49,11 @@
     <collective.amberjack:tour
         tourdescriptor=".tour11.ajTour"
         />
-        
+     
+	<!-- Disabled, this don't work properly    
     <collective.amberjack:tour
         tourdescriptor=".tour12.ajTour"
         />
+    -->
 
 </configure>

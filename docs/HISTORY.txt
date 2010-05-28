@@ -1,13 +1,15 @@
 Changelog
 =========
 
-1.0.1 (xxxxxxxx)
-----------------
+1.0.1 (xxxx-xx-xx)
+------------------
 
 - Deal the link on the widget's calendar #572238
   [fdelia]
 - Add validator isManager for tour 12
   [fdelia]
+- Disabled tour 12 (Static portlet) - see #572242
+  [keul]
 
 1.0 (2010-05-17)
 ----------------
