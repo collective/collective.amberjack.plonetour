@@ -51,7 +51,7 @@ insert_internal_link = {
                'text': u''},
                 {'description': _(u"Find the page titled 'Welcome to Plone' and select the [radio button] next to it."),
                'idStep': u'iframe_radio',
-               'selector': u'#internallinkcontainer div:contains("Welcome to Plone") input',
+               'selector': u'#internallinkcontainer input[value$=\/front\-page]',
                'text': u''},
                {'description': _(u"Click [Insert] to create the hyperlink."),
                'idStep': u'iframe_click',
