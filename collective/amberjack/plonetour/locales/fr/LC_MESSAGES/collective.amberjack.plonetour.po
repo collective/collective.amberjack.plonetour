@@ -462,7 +462,7 @@ msgid "Provide a [Description]: [This is my first Plone page.]."
 msgstr "Indiquez une [Description] [Ceci est mon premier document Plone.]."
 
 #: ../basic/tour9.py:33
-msgid "Provide a [Title] (i.e. "My File.")"
+msgid "Provide a [Title] (i.e. \"My File.\")"
 msgstr ""
 
 #: ../basic/tour7.py:33
