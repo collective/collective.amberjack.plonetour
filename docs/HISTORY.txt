@@ -1,9 +1,11 @@
 Changelog
 =========
 
-1.0.1 (xxxx-xx-xx)
-------------------
+1.1dev (2010-??-??)
+-------------------
 
+- Refactoring tours - we are now using configuration based tours
+  [amleczko]
 - Deal the link on the widget's calendar #572238
   [fdelia]
 - Add validator isManager for tour 12

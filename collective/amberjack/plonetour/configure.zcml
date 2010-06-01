@@ -6,8 +6,15 @@
     i18n_domain="collective.amberjackplonetour">
 
   <i18n:registerTranslations directory="locales" />
-
   <include package="collective.amberjack.core" file="meta.zcml" />
-  <include package=".basic" />
+
+  <!-- uncoment this to use old tour registration
+  <include package=".deprecated" />
+  -->
+
+  <collective.amberjack:tour
+      tourlocation="experimental.zip"
+  />
+
 
 </configure>
