@@ -13,7 +13,7 @@
   -->
 
   <collective.amberjack:tour
-      tourlocation="experimental.zip"
+      tourlocation="tours.zip"
   />
 
 
