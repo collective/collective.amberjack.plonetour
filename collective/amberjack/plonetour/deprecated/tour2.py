@@ -1,7 +1,6 @@
 from zope.i18nmessageid import MessageFactory
 
-from collective.amberjack.core.validators import isManager
-from collective.amberjack.plonetour.basic.common import isFolderCreated
+from collective.amberjack.core.validators import isManager, isFolderCreated
 
 _ = MessageFactory('collective.amberjack.plonetour')
 PMF = MessageFactory('plone')
