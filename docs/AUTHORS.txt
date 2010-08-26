@@ -7,12 +7,13 @@ Contributors
  * Federica D'Elia [fdelia]
  * Mirco Angelini [mirco]
  * Andrew Mleczko [amleczko]
+ * Giacomo Spettoli [giacomos]
 
 Ferrara 2010 Sprint
 ===================
 
- * Jacopo Deyla - Regione Emilia-Romagna
- * Giacomo Spettoli - Regione Emilia-Romagna
+* Jacopo Deyla
+* Regione Emilia-Romagna
 
 PloneConf 2009 Sprint
 =====================
