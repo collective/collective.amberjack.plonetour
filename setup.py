@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.1.0-unreleased'
+version = '1.1a-unreleased'
 
 setup(name='collective.amberjack.plonetour',
       version=version,

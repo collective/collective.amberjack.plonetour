@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.1.0 (2010-??-??) UNRELEASED
+1.1a (2010-??-??) UNRELEASED
 -----------------------------
 
 - Added windmill tours [mirco & andrea]
