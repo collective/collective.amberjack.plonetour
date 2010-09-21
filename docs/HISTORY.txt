@@ -6,6 +6,7 @@ Changelog
 
 - Added windmill tours [mirco & andrea]
 - Fix tours to work with new validators [amleczko]
+- remove depracted modules [amleczko]
 
 1.1dev (2010-??-??)
 -------------------

@@ -8,10 +8,6 @@
   <i18n:registerTranslations directory="locales" />
   <include package="collective.amberjack.core" file="meta.zcml" />
 
-  <!-- uncoment this to use old tour registration
-  <include package=".deprecated" />
-  -->
-
   <collective.amberjack:tour
       tourlocation="tours.zip"
   />
