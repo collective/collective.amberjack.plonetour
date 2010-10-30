@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2010-10-30 16:10+0000\n"
+"POT-Creation-Date: 2010-10-30 09:43+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,136 +18,83 @@ msgstr ""
 "Domain: 01_basic_add_and_publish_a_folder\n"
 
 #. Default: "If you don't want to perform the indicated step yourself, just click the '>>' link and it will be automatically done by your browser."
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "0_0_microstep_description"
 msgstr ""
 
-#. Default: "{'milliseconds' : \"0\"}"
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
-msgid "0_0_microstep_text"
-msgstr ""
-
 #. Default: "Click the [Add new...] drop-down menu."
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "0_1_microstep_description"
 msgstr ""
 
 #. Default: "Select [Folder] from the menu."
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "0_2_microstep_description"
 msgstr ""
 
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "0_3_microstep_description"
 msgstr ""
 
-#. Default: "{'timeout' : \"20000\"}"
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
-msgid "0_3_microstep_text"
-msgstr ""
-
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
-msgid "0_create-a-new-folder_text"
-msgstr ""
-
 #. Default: "Create a new folder"
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "0_create-a-new-folder_title"
 msgstr ""
 
 #. Default: "In the [Title] field, type 'MyFolder'."
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "1_0_microstep_description"
 msgstr ""
 
-#. Default: "{'text' : \"MyFolder\"}"
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
-msgid "1_0_microstep_text"
-msgstr ""
-
 #. Default: "In the [Description] field, type 'This folder will be used to contain sample content as I work through each tutorial.'."
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "1_1_microstep_description"
 msgstr ""
 
-#. Default: "{'text' : \"This folder will be used to contain sample content as I work through each tutorial.\"}"
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
-msgid "1_1_microstep_text"
-msgstr ""
-
 #. Default: "Now click the [Save] button at the bottom of the page to save your new folder."
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "1_2_microstep_description"
 msgstr ""
 
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "1_3_microstep_description"
 msgstr ""
 
-#. Default: "{'timeout' : \"20000\"}"
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
-msgid "1_3_microstep_text"
-msgstr ""
-
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
-msgid "1_fill-out-the-fields_text"
-msgstr ""
-
 #. Default: "Fill out the fields"
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "1_fill-out-the-fields_title"
 msgstr ""
 
 #. Default: "Click the [State] drop-down menu."
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "2_0_microstep_description"
 msgstr ""
 
 #. Default: "Select [Publish] from the menu."
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "2_1_microstep_description"
 msgstr ""
 
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "2_2_microstep_description"
 msgstr ""
 
-#. Default: "{'timeout' : \"20000\"}"
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
-msgid "2_2_microstep_text"
-msgstr ""
-
-#. Default: "<p>You have now created a Folder for your Plone website. Before this folder can be viewed by anonymous site visitors, you must publish it.</p>"
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
-msgid "2_publish-the-folder_text"
-msgstr ""
-
 #. Default: "Publish the folder"
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "2_publish-the-folder_title"
 msgstr ""
 
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "3_0_microstep_description"
 msgstr ""
 
-#. Default: "{'milliseconds' : \"0\"}"
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
-msgid "3_0_microstep_text"
-msgstr ""
-
-#. Default: "<p>You now have a folder on your Plone website. You will use this folder in the remaining tutorials as a place to put sample content. <strong>Do not delete or rename it</strong> until you are finished with all the tutorials!</p>"
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
-msgid "3_all-done_text"
-msgstr ""
-
 #. Default: "All done"
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "3_all-done_title"
 msgstr ""
 
 #. Default: "Add and publish a folder"
-#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "amberjack_title"
 msgstr ""
 
