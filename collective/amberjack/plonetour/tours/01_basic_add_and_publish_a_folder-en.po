@@ -20,67 +20,67 @@ msgstr ""
 #: ../basic/tour1.py:70
 msgid "amberjack_title"
 msgstr ""
---
+
 #: ../basic/tour1.py:65
 msgid "3_all-done_title"
 msgstr ""
---
+
 #: ../basic/tour1.py:21
 msgid "0_1_microstep_description"
 msgstr ""
---
+
 #: ../basic/tour1.py:53
 msgid "2_0_microstep_description"
 msgstr ""
---
+
 #: ../basic/tour1.py:15
 msgid "0_create-a-new-folder_title"
 msgstr ""
---
+
 #: ../basic/tour1.py:33
 msgid "1_fill-out-the-fields_title"
 msgstr ""
---
+
 #: ../basic/tour1.py:16
 msgid "Folders are one of the most fundamental content types in Plone. You can use a folder to organize your documents much like you already do on your desktop computer. You can also use folders to create new sections of your website."
 msgstr ""
---
+
 #: ../basic/tour1.py:17
 msgid "0_0_microstep_description"
 msgstr ""
---
+
 #: ../basic/tour1.py:39
 msgid "1_1_microstep_description"
 msgstr ""
---
+
 #: ../basic/tour1.py:35
 msgid "1_0_microstep_description"
 msgstr ""
---
+
 #: ../basic/tour1.py:43
 msgid "1_2_microstep_description"
 msgstr ""
---
+
 #: ../basic/tour1.py:51
 msgid "2_publish-the-folder_title"
 msgstr ""
---
+
 #: ../basic/tour1.py:25
 msgid "0_2_microstep_description"
 msgstr ""
---
+
 #: ../basic/tour1.py:57
 msgid "2_1_microstep_description"
 msgstr ""
---
+
 #: ../basic/tour1.py:42
 msgid "1_1_microstep_description"
 msgstr ""
---
+
 #: ../basic/tour1.py:52
 msgid "You have now created a Folder for your Plone website. Before this folder can be viewed by anonymous site visitors, you must publish it."
 msgstr ""
---
+
 #: ../basic/tour1.py:66
 msgid "You now have a folder on your Plone website. You will use this folder in the remaining tutorials as a place to put sample content. <strong>Do not delete or rename it</strong> until you are finished with all the tutorials!"
 msgstr ""
