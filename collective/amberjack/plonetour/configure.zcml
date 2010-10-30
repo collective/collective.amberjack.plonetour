@@ -9,7 +9,7 @@
   <include package="collective.amberjack.core" file="meta.zcml" />
 
   <collective.amberjack:tour
-      tourlocation="tours.zip"
+      tourlocation="tours"
   />
 
 
