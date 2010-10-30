@@ -1,0 +1,62 @@
+# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+# SOME DESCRIPTIVE TITLE.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: None <none@none.pl>\n"
+"Language-Team: Polish <none@none.pl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: pl\n"
+"Language-Name: Polish\n"
+"Preferred-Encodings: utf-8 latin2\n"
+"Domain: collective.amberjack.plonetour\n"
+
+#: ../basic/tour7.py:7
+msgid "0_add-a-new-image-to-myfolder_title"
+msgstr "Dodaj nowy Obraz do MojegoFolderu"
+--
+#: ../basic/tour7.py:8
+msgid "Before you can place an image on a page in Plone, you must first upload your image to the site. Be sure that you have properly prepared your image for web publishing. In short, this means that you should compress your image file, use only GIF, JPG, or PNG file formats and crop your image to fit well on the page, and resize it to reduce the upload time if needed."
+msgstr "Zanim umieścisz obraz na stronie, musisz wcześniej dodać go. Zawsze pamiętaj o prawidłowym przygotowaniu obrazu zanim zamieścisz go na stronie. W skrócie, zwróć uwagę na prawidłowe rozmiary, stopień kompresji oraz format - używaj GIF, JPG lub PNG."
+--
+#: ../basic/tour7.py:45
+msgid "2_3_microstep_description"
+msgstr "Klink [Zapisz] aby zakończyć ładowanie."
+--
+#: ../basic/tour7.py:17
+msgid "1_0_microstep_description"
+msgstr "Klinij na menu [Dodaj...] i wybierz Obraz."
+--
+#: ../basic/tour7.py:41
+msgid "2_2_microstep_description"
+msgstr "Kliknij na przycisk [Przeglądaj] i wybierz obraz których chcesz załadować z dysku komputera."
+--
+#: ../basic/tour7.py:56
+msgid "Now that you have uploaded an image to Plone, you can insert the image onto a page. The next tutorial will explain how to insert images."
+msgstr "Teraz skoro już załadowałeś obrazek, możesz spróbować dodać go do storny. Następny tutorial opisze to dokładnie."
+--
+#: ../basic/tour7.py:37
+msgid "2_1_microstep_description"
+msgstr "Dodaj [Opis] dla twojego Obrazku."
+--
+#: ../basic/tour7.py:33
+msgid "Provide a [Title] for your Image. It is best if you use the file name of your image as the title, including the file extension (i.e. myphoto.jpg)"
+msgstr "Dodaj [Tytuł] dla twojego Obrazka. Dobrą praktyką jest użycie jako tytułu nazwy pliku wraz z rozszerzeniem (np. obrazek.jpg)."
+--
+#: ../basic/tour7.py:21
+msgid "1_1_microstep_description"
+msgstr "Wybierz [Obrazek] z menu."
+--
+#: ../basic/tour7.py:60
+msgid "amberjack_title"
+msgstr "Załaduj obrazek"
+--
+#: ../basic/tour7.py:40
+msgid "3_4_microstep_description"
+msgstr "opis obrazka"

@@ -1,0 +1,66 @@
+# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+# SOME DESCRIPTIVE TITLE.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: None <none@none.pl>\n"
+"Language-Team: Polish <none@none.pl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: pl\n"
+"Language-Name: Polish\n"
+"Preferred-Encodings: utf-8 latin2\n"
+"Domain: collective.amberjack.plonetour\n"
+
+#: ../basic/tour8.py:45
+msgid "3_1_microstep_description"
+msgstr "Powinno pojawić się dodatkowe okno. Kliknij [Przeglądaj] aby wybrać obraz który chesz dodać. Powinieneś mieć przynajmniej jeden gotowy obraz w MoimFolderze w poprzedniego tutoriala."
+--
+#: ../basic/tour8.py:57
+msgid "Choose [Left] alignment and a [Size] from the size menu. You can leave the [Text Equivalent] field as-is, or change the text if you wish. This is the 'alt' text for the image which aids in site accessibility, search, and indexing."
+msgstr "Wybierz adjustację [Lewo] oraz [Rozmiar] z menu. Możesz zostawić pole [Tekst], lub zmienić jest jeśli chcesz. Jest to atrybut 'alt' obrazka pomocny przy indeksowaniu, wyszukiwaniu oraz dostępności."
+--
+#: ../basic/tour8.py:61
+msgid "Click [OK] to complete the image insert."
+msgstr "Kliknij [OK] aby zakończyć dodawania obrazka."
+--
+#: ../basic/tour8.py:27
+msgid "Edit 'My Page'"
+msgstr "Edytuj 'Moją Stronę'"
+--
+#: ../basic/tour8.py:9
+msgid "In this tutorial, you will revisit a page that you already created and learn how insert an image into that page."
+msgstr "W tym tutorialu odwiedzisz stronę którą utworzyłeś wcześniej oraz dowiesz się jak dodać do niej obrazek."
+--
+#: ../basic/tour8.py:39
+msgid "3_insert-an-image_title"
+msgstr "Dodaj Obrazek"
+--
+#: ../basic/tour8.py:8
+msgid "0_insert-image-on-a-page_title"
+msgstr "Dodaj obrazek do strony"
+--
+#: ../basic/tour8.py:53
+msgid "3_3_microstep_description"
+msgstr "Zwróć uwagę że w prawej kolumnie okienka pojawił się podgląd obrazka który wybrałeś."
+--
+#: ../basic/tour8.py:41
+msgid "3_0_microstep_description"
+msgstr "Teraz kliknij na ikonę [Dodaj Obraz] w edytorze."
+--
+#: ../basic/tour8.py:15
+msgid "Open 'My Page'"
+msgstr "Otwórz 'Moją Stronę'"
+--
+#: ../basic/tour8.py:49
+msgid "3_2_microstep_description"
+msgstr "Wybierz obraz [klikając na przycisk radio] obok niego."
+--
+#: ../basic/tour8.py:77
+msgid "You have now successfully inserted an image onto a page. You can edit the page again and insert more images, move existing images around, or change their alignment."
+msgstr ""

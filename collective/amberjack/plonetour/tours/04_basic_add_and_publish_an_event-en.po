@@ -1,0 +1,82 @@
+# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+# SOME DESCRIPTIVE TITLE.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: collective.amberjack.plonetour\n"
+
+#: ../basic/tour4.py:10
+msgid "0_add-and-publish-an-event_title"
+msgstr ""
+--
+#: ../basic/tour4.py:17
+msgid "1_create-a-event_title"
+msgstr ""
+--
+#: ../basic/tour4.py:18
+msgid "Events are useful for posting announcements about upcoming events. Events function much like a page, with additional fields for adding information about an event."
+msgstr ""
+--
+#: ../basic/tour4.py:74
+msgid "In order for anonymous site visitors to see your event you must publish it first. Publishing also makes your event available in the Upcoming Events portlet and Events folder."
+msgstr ""
+--
+#: ../basic/tour4.py:11
+msgid "In this tutorial, you'll create a new Event and publish it on your Plone-powered website."
+msgstr ""
+--
+#: ../basic/tour4.py:34
+msgid "Now that you selected the Event content type, you need to supply some information about it."
+msgstr ""
+--
+#: ../basic/tour4.py:39
+msgid "2_1_microstep_description"
+msgstr ""
+--
+#: ../basic/tour4.py:35
+msgid "2_0_microstep_description"
+msgstr ""
+--
+#: ../basic/tour4.py:43
+msgid "2_2_microstep_description"
+msgstr ""
+--
+#: ../basic/tour4.py:55
+msgid "2_7_microstep_description"
+msgstr ""
+--
+#: ../basic/tour4.py:59
+msgid "Provide contact information in the remaining fields."
+msgstr ""
+--
+#: ../basic/tour4.py:47
+msgid "2_3_microstep_description"
+msgstr ""
+--
+#: ../basic/tour4.py:73
+msgid "3_publish-the-event_title"
+msgstr ""
+--
+#: ../basic/tour4.py:51
+msgid "2_4_microstep_description"
+msgstr ""
+--
+#: ../basic/tour4.py:23
+msgid "1_1_microstep_description"
+msgstr ""
+--
+#: ../basic/tour4.py:90
+msgid "You now have a published event in your folder."
+msgstr ""
