@@ -1,0 +1,44 @@
+# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+# SOME DESCRIPTIVE TITLE.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2010-10-29 15:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: pl\n"
+"Language-Name: Polish\n"
+"Preferred-Encodings: utf-8 latin2\n"
+"Domain: 01_basic_add_and_publish_a_folder\n"
+
+#. Default: "If you don't want to perform the indicated step yourself, just click the '>>' link and it will be automatically done by your browser."
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
+msgid "0_0_microstep_description"
+msgstr "Jeżeli nie chcesz samemu skończyć tutorialu, kliknij na '>>'."
+
+#. Default: "All done"
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
+msgid "3_all-done_title"
+msgstr "Gotowe!"
+
+#. Default: "Create a new folder"
+#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+msgid "0_create-a-new-folder_title"
+msgstr "Dodaj nowy folder"
+
+#. Default: "Click the [Add new...] drop-down menu."
+#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+msgid "0_1_microstep_description"
+msgstr "Kliknij na [Add new...]."
+
+#. Default: "Select [Folder] from the menu."
+#: collective.amberjack.plonetour/collective/amberjack/plonetour/tours/01_basic_add_and_publish_a_folder.cfg
+msgid "0_2_microstep_description"
+msgstr "Wybierz [Folder] z menu."
+
