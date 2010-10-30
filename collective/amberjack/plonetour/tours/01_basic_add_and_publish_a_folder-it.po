@@ -20,67 +20,67 @@ msgstr ""
 #: ../basic/tour1.py:70
 msgid "amberjack_title"
 msgstr "Aggiungi e pubblica una Cartella"
---
+
 #: ../basic/tour1.py:65
 msgid "3_all-done_title"
 msgstr "Ben fatto!"
---
+
 #: ../basic/tour1.py:21
 msgid "0_1_microstep_description"
 msgstr "Clicca sul menu a tendina [Aggiungi un nuovo...]."
---
+
 #: ../basic/tour1.py:53
 msgid "2_0_microstep_description"
 msgstr "Clicca sul menu a tendina [Stato]."
---
+
 #: ../basic/tour1.py:15
 msgid "0_create-a-new-folder_title"
 msgstr "Crea una nuova cartella"
---
+
 #: ../basic/tour1.py:33
 msgid "1_fill-out-the-fields_title"
 msgstr "Compila tutti i campi"
---
+
 #: ../basic/tour1.py:16
 msgid "Folders are one of the most fundamental content types in Plone. You can use a folder to organize your documents much like you already do on your desktop computer. You can also use folders to create new sections of your website."
 msgstr "Le cartelle sono uno dei tipi di contenuto più importanti di Plone. Puoi usare una cartella per organizzare i tuoi contenuti in maniera simile a come fai già sul tuo computer. Puoi anche usare le cartelle per creare nuove sezioni del tuo sito."
---
+
 #: ../basic/tour1.py:17
 msgid "0_0_microstep_description"
 msgstr "Se non vuoi attivare da solo l'azione indicata, clicca il link '>>' per farla fare automaticamente dal tuo browser."
---
+
 #: ../basic/tour1.py:39
 msgid "1_1_microstep_description"
 msgstr "Nel campo [Descrizione], scrivi 'Questa cartella sarà usata per contenere contenuti di esempio da utilizzare durante ogni corso.'."
---
+
 #: ../basic/tour1.py:35
 msgid "1_0_microstep_description"
 msgstr "Nel campo [Titolo], scrivi 'MyFolder'."
---
+
 #: ../basic/tour1.py:43
 msgid "1_2_microstep_description"
 msgstr "Adesso clicca sul bottone [Conferma le modifiche] in basso nella pagina per salvare la tua nuova cartella."
---
+
 #: ../basic/tour1.py:51
 msgid "2_publish-the-folder_title"
 msgstr "Pubblica la cartella"
---
+
 #: ../basic/tour1.py:25
 msgid "0_2_microstep_description"
 msgstr "Seleziona [Cartella] dal menu."
---
+
 #: ../basic/tour1.py:57
 msgid "2_1_microstep_description"
 msgstr "Seleziona [Pubblica] dal menu."
---
+
 #: ../basic/tour1.py:42
 msgid "1_1_microstep_description"
 msgstr ""
---
+
 #: ../basic/tour1.py:52
 msgid "You have now created a Folder for your Plone website. Before this folder can be viewed by anonymous site visitors, you must publish it."
 msgstr "Hai creato una Cartella per il tuo sito Plone. Prima che questa cartella diventi visibile per gli utenti anonimi, devi pubblicarla."
---
+
 #: ../basic/tour1.py:66
 msgid "You now have a folder on your Plone website. You will use this folder in the remaining tutorials as a place to put sample content. <strong>Do not delete or rename it</strong> until you are finished with all the tutorials!"
 msgstr "Adesso hai una cartella nel tuo sito Plone. Userai questa cartella nei corsi rimanenti come posto dove mettere contenuti di prova. <strong>Non cancellarla o rinominarla</strong> finchè non hai finito tutti i corsi!"

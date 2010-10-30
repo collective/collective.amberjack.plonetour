@@ -20,43 +20,43 @@ msgstr ""
 #: ../basic/tour7.py:7
 msgid "0_add-a-new-image-to-myfolder_title"
 msgstr ""
---
+
 #: ../basic/tour7.py:8
 msgid "Before you can place an image on a page in Plone, you must first upload your image to the site. Be sure that you have properly prepared your image for web publishing. In short, this means that you should compress your image file, use only GIF, JPG, or PNG file formats and crop your image to fit well on the page, and resize it to reduce the upload time if needed."
 msgstr ""
---
+
 #: ../basic/tour7.py:45
 msgid "2_3_microstep_description"
 msgstr ""
---
+
 #: ../basic/tour7.py:17
 msgid "1_0_microstep_description"
 msgstr ""
---
+
 #: ../basic/tour7.py:41
 msgid "2_2_microstep_description"
 msgstr ""
---
+
 #: ../basic/tour7.py:56
 msgid "Now that you have uploaded an image to Plone, you can insert the image onto a page. The next tutorial will explain how to insert images."
 msgstr ""
---
+
 #: ../basic/tour7.py:37
 msgid "2_1_microstep_description"
 msgstr ""
---
+
 #: ../basic/tour7.py:33
 msgid "Provide a [Title] for your Image. It is best if you use the file name of your image as the title, including the file extension (i.e. myphoto.jpg)"
 msgstr ""
---
+
 #: ../basic/tour7.py:21
 msgid "1_1_microstep_description"
 msgstr ""
---
+
 #: ../basic/tour7.py:60
 msgid "amberjack_title"
 msgstr ""
---
+
 #: ../basic/tour7.py:40
 msgid "3_4_microstep_description"
 msgstr ""

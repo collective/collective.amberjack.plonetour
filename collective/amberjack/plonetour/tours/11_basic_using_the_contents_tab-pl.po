@@ -20,63 +20,63 @@ msgstr ""
 #: ../basic/tour11.py:16
 msgid "A folder is a special content type in Plone because it can contain other content items. The way that those contained items will appear on the screen can be changed using the Display drop-down menu."
 msgstr "Folder jest szczególnym typem, ponieważ może zawierać inne elementy. Możesz zmienić sposób w jaki elementy będą widoczne korzystając z menu Widok."
---
+
 #: ../basic/tour11.py:9
 msgid "1_0_microstep_description"
 msgstr "Kliknij na menu [Widok]."
---
+
 #: ../basic/tour11.py:61
 msgid "3_3_microstep_description"
 msgstr "Kliknij na przycisk [Zapisz] aby zakończyć."
---
+
 #: ../basic/tour11.py:72
 msgid "6_0_microstep_description"
 msgstr "W rym tutorialu obejrzałeś różne sposoby prezentacji folderu. Spróbuj samodzielnie widok Miniaturek. W tym celu załaduj obrazy do folderu."
---
+
 #: ../basic/tour11.py:57
 msgid "3_2_microstep_description"
 msgstr "Wybiezr [Moja Strona] jako domyślny widok MojegoFolderu"
---
+
 #: ../basic/tour11.py:24
 msgid "1_1_microstep_description"
 msgstr "Wybierz [Widok sumaryczny]"
---
+
 #: ../basic/tour11.py:36
 msgid "2_1_microstep_description"
 msgstr "Wybierz [Widok tabularyczny]"
---
+
 #: ../basic/tour11.py:47
 msgid "3_1_microstep_description"
 msgstr "Wybierz [element jako widok domyślny]."
---
+
 #: ../basic/tour11.py:55
 msgid "Select default page"
 msgstr "Wybierz domyślną stronę"
---
+
 #: ../basic/tour11.py:56
 msgid "4_0_microstep_description"
 msgstr ""
---
+
 #: ../basic/tour11.py:33
 msgid "1_1_microstep_description"
 msgstr "Widok sumaryczny"
---
+
 #: ../basic/tour11.py:44
 msgid "2_1_microstep_description"
 msgstr "Widok tabularyczny"
---
+
 #: ../basic/tour11.py:45
 msgid "The Tabular view is similar to what you see in the Contents tab, except that you cannot perform administrative tasks such copy, cut, delete or reorder. The tabular view only displays the Title and Item Type to anonymous site visitors."
 msgstr ""
---
+
 #: ../basic/tour11.py:34
 msgid "Up to this point MyFolder has been using the Standard view. Standard view lists each item in the order it happens to be in the folder. 1_1_microstep_description is similar except that each entry is separated by a horizontal line and a Read More... link is automatically generated. If an item has an attached thumbnail image (such as a News Item) the image will also appear in the 1_1_microstep_description."
 msgstr ""
---
+
 #: ../basic/tour11.py:21
 msgid "1_use-summary-view_title"
 msgstr "Skorzystaj z widoku sumarycznego"
---
+
 #: ../basic/tour11.py:15
 msgid "0_using-the-display-menu_title"
 msgstr ""

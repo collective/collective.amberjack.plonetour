@@ -20,67 +20,67 @@ msgstr ""
 #: ../basic/tour1.py:70
 msgid "amberjack_title"
 msgstr "Dodaj i opublikuj Folder."
---
+
 #: ../basic/tour1.py:65
 msgid "3_all-done_title"
 msgstr "Gotowe!"
---
+
 #: ../basic/tour1.py:21
 msgid "0_1_microstep_description"
 msgstr "Kliknij na menu [Dodaj...]"
---
+
 #: ../basic/tour1.py:53
 msgid "2_0_microstep_description"
 msgstr "Kliknij na menu [Status]."
---
+
 #: ../basic/tour1.py:15
 msgid "0_create-a-new-folder_title"
 msgstr "Stwórz nowy folder"
---
+
 #: ../basic/tour1.py:33
 msgid "1_fill-out-the-fields_title"
 msgstr "Wypełnij pola"
---
+
 #: ../basic/tour1.py:16
 msgid "Folders are one of the most fundamental content types in Plone. You can use a folder to organize your documents much like you already do on your desktop computer. You can also use folders to create new sections of your website."
 msgstr "Foldery są jednym z najbardziej podstawowych typów w Plonie. Folder pomoże ci zarządzać dokumentami w podobny sposób w jaki robisz to na swoim komputerze. Folder pomorze ci także stworzyć nowe sekcje na stronie."
---
+
 #: ../basic/tour1.py:17
 msgid "0_0_microstep_description"
 msgstr "Jeśli nie chcesz samemu wykonywać aktualnego kroku, kliknij na link '>>' aby przeglądarka wykonała go za ciebie."
---
+
 #: ../basic/tour1.py:39
 msgid "1_1_microstep_description"
 msgstr "W polu [Opis] wpisz, 'Ten folder będzie zawierał przykładowe elementy dodawane podczas kolejnych tutoriali.'."
---
+
 #: ../basic/tour1.py:35
 msgid "1_0_microstep_description"
 msgstr "W polu [Tytuł] wpisz 'MójFolder'"
---
+
 #: ../basic/tour1.py:43
 msgid "1_2_microstep_description"
 msgstr "Teraz kliknij na przycisk [Zapisz] na dole strony aby zapisać folder."
---
+
 #: ../basic/tour1.py:51
 msgid "2_publish-the-folder_title"
 msgstr "Opublikuj folder"
---
+
 #: ../basic/tour1.py:25
 msgid "0_2_microstep_description"
 msgstr "Wybierz [Folder] z menu."
---
+
 #: ../basic/tour1.py:57
 msgid "2_1_microstep_description"
 msgstr "Wybierz [Opublikuj] z menu"
---
+
 #: ../basic/tour1.py:42
 msgid "1_1_microstep_description"
 msgstr "Ten folder będzie zawierał przykładowe elementy dodawane podczas kolejnych tutoriali."
---
+
 #: ../basic/tour1.py:52
 msgid "You have now created a Folder for your Plone website. Before this folder can be viewed by anonymous site visitors, you must publish it."
 msgstr ""
---
+
 #: ../basic/tour1.py:66
 msgid "You now have a folder on your Plone website. You will use this folder in the remaining tutorials as a place to put sample content. <strong>Do not delete or rename it</strong> until you are finished with all the tutorials!"
 msgstr ""
