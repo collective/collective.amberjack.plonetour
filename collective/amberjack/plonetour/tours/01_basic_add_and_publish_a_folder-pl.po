@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../basic/tour1.py:70
 msgid "amberjack_title"
-msgstr "Dodaj i opublikuj Folder."
+msgstr "Dodaj i opublikuj Folder"
 
 #: ../basic/tour1.py:65
 msgid "3_all-done_title"
