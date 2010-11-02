@@ -7,6 +7,7 @@ Changelog
 - re-added the tours for the admin [mirco]
 - changed some xpath selector [mirco]
 - added condition "doitmanually" [mirco]
+- new translation structure [amleczko]
 
 1.1a (2010-09-21)
 -----------------
