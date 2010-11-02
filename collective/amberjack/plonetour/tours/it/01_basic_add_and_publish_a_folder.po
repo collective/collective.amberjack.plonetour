@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collective.amberjack.plonetour\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
-"PO-Revision-Date: 2009-10-31 10:00+0100\n"
-"Last-Translator: Stefano Marchetti <stefano.marchetti@gmail.com>\n"
+"PO-Revision-Date: 2010-11-02 12:45+0100\n"
+"Last-Translator: \n"
 "Language-Team: Italian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -41,10 +41,6 @@ msgstr "Crea una nuova cartella"
 msgid "1_fill-out-the-fields_title"
 msgstr "Compila tutti i campi"
 
-#: ../basic/tour1.py:16
-msgid "Folders are one of the most fundamental content types in Plone. You can use a folder to organize your documents much like you already do on your desktop computer. You can also use folders to create new sections of your website."
-msgstr "Le cartelle sono uno dei tipi di contenuto più importanti di Plone. Puoi usare una cartella per organizzare i tuoi contenuti in maniera simile a come fai già sul tuo computer. Puoi anche usare le cartelle per creare nuove sezioni del tuo sito."
-
 #: ../basic/tour1.py:17
 msgid "0_0_microstep_description"
 msgstr "Se non vuoi attivare da solo l'azione indicata, clicca il link '>>' per farla fare automaticamente dal tuo browser."
@@ -73,14 +69,3 @@ msgstr "Seleziona [Cartella] dal menu."
 msgid "2_1_microstep_description"
 msgstr "Seleziona [Pubblica] dal menu."
 
-#: ../basic/tour1.py:42
-msgid "1_1_microstep_description"
-msgstr ""
-
-#: ../basic/tour1.py:52
-msgid "You have now created a Folder for your Plone website. Before this folder can be viewed by anonymous site visitors, you must publish it."
-msgstr "Hai creato una Cartella per il tuo sito Plone. Prima che questa cartella diventi visibile per gli utenti anonimi, devi pubblicarla."
-
-#: ../basic/tour1.py:66
-msgid "You now have a folder on your Plone website. You will use this folder in the remaining tutorials as a place to put sample content. <strong>Do not delete or rename it</strong> until you are finished with all the tutorials!"
-msgstr "Adesso hai una cartella nel tuo sito Plone. Userai questa cartella nei corsi rimanenti come posto dove mettere contenuti di prova. <strong>Non cancellarla o rinominarla</strong> finchè non hai finito tutti i corsi!"

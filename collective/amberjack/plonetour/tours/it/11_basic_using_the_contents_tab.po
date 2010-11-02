@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collective.amberjack.plonetour\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
-"PO-Revision-Date: 2009-10-31 10:00+0100\n"
-"Last-Translator: Stefano Marchetti <stefano.marchetti@gmail.com>\n"
+"PO-Revision-Date: 2010-11-02 12:47+0100\n"
+"Last-Translator: \n"
 "Language-Team: Italian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,21 +17,9 @@ msgstr ""
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: collective.amberjack.plonetour\n"
 
-#: ../basic/tour11.py:16
-msgid "A folder is a special content type in Plone because it can contain other content items. The way that those contained items will appear on the screen can be changed using the Display drop-down menu."
-msgstr "Una cartella è un contenuto speciale di Plone perchè può contenere altri contenuti. Il modo in cui questi contenuti vengono visualizzati può essere cambiato usando il menu 'Vista'."
-
 #: ../basic/tour11.py:9
 msgid "1_0_microstep_description"
 msgstr "Clicca sul menu [Vista]."
-
-#: ../basic/tour11.py:61
-msgid "3_3_microstep_description"
-msgstr ""
-
-#: ../basic/tour11.py:72
-msgid "6_0_microstep_description"
-msgstr ""
 
 #: ../basic/tour11.py:57
 msgid "3_2_microstep_description"
@@ -49,29 +37,9 @@ msgstr "Seleziona [Vista tabellare]"
 msgid "3_1_microstep_description"
 msgstr "Seleziona [Scegli un elemento come vista predefinita]"
 
-#: ../basic/tour11.py:55
-msgid "Select default page"
-msgstr "Seleziona il contenuto predefinito"
-
 #: ../basic/tour11.py:56
 msgid "4_0_microstep_description"
 msgstr ""
-
-#: ../basic/tour11.py:33
-msgid "1_1_microstep_description"
-msgstr "Vista riassuntiva"
-
-#: ../basic/tour11.py:44
-msgid "2_1_microstep_description"
-msgstr "Vista tabellare"
-
-#: ../basic/tour11.py:45
-msgid "The Tabular view is similar to what you see in the Contents tab, except that you cannot perform administrative tasks such copy, cut, delete or reorder. The tabular view only displays the Title and Item Type to anonymous site visitors."
-msgstr "La vista tabellare è simile a quello che si vede nella linguetta 'Contenuti', tranne per il fatto che non è possibile fare azioni amministrative come copiare, tagliere, cancellare o riordinare contenuti. La vista tabellare mostra solo il Titolo e il Tipo di Contenuto ai visitatori anonimi."
-
-#: ../basic/tour11.py:34
-msgid "Up to this point MyFolder has been using the Standard view. Standard view lists each item in the order it happens to be in the folder. 1_1_microstep_description is similar except that each entry is separated by a horizontal line and a Read More... link is automatically generated. If an item has an attached thumbnail image (such as a News Item) the image will also appear in the 1_1_microstep_description."
-msgstr "Fino ad ora la cartella MyFolder è stata usata con la vista standard. La vista standard visualizza ogni contenuto nello stesso ordine della cartella. La vista riassuntiva è simile tranne per il fatto che ogni contenuto è separato da una linea orizzontale e il collegamento 'Leggi il resto' è generato automaticamente. Se un contenuto ha una miniatura (come ad esempio una Notizia) l'immagine verrà visualizzata."
 
 #: ../basic/tour11.py:21
 msgid "1_use-summary-view_title"
@@ -80,3 +48,4 @@ msgstr "Usare la vista riassuntiva"
 #: ../basic/tour11.py:15
 msgid "0_using-the-display-menu_title"
 msgstr "Usare il menu 'Vista'"
+
