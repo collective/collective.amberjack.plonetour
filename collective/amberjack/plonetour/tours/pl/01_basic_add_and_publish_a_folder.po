@@ -3,10 +3,10 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: collective.amberjack.plonetour\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
-"Last-Translator: None <none@none.pl>\n"
+"PO-Revision-Date: 2010-11-02 12:40+0100\n"
+"Last-Translator: \n"
 "Language-Team: Polish <none@none.pl>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -49,10 +49,6 @@ msgstr "Foldery są jednym z najbardziej podstawowych typów w Plonie. Folder po
 msgid "0_0_microstep_description"
 msgstr "Jeśli nie chcesz samemu wykonywać aktualnego kroku, kliknij na link '>>' aby przeglądarka wykonała go za ciebie."
 
-#: ../basic/tour1.py:39
-msgid "1_1_microstep_description"
-msgstr "W polu [Opis] wpisz, 'Ten folder będzie zawierał przykładowe elementy dodawane podczas kolejnych tutoriali.'."
-
 #: ../basic/tour1.py:35
 msgid "1_0_microstep_description"
 msgstr "W polu [Tytuł] wpisz 'MójFolder'"
@@ -84,3 +80,4 @@ msgstr ""
 #: ../basic/tour1.py:66
 msgid "You now have a folder on your Plone website. You will use this folder in the remaining tutorials as a place to put sample content. <strong>Do not delete or rename it</strong> until you are finished with all the tutorials!"
 msgstr ""
+
