@@ -3,10 +3,10 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: collective.amberjack.plonetour\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
-"Last-Translator: None <none@none.pl>\n"
+"PO-Revision-Date: 2010-11-02 12:42+0100\n"
+"Last-Translator: \n"
 "Language-Team: Polish <none@none.pl>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -57,18 +57,7 @@ msgstr "Opublikuj stronę"
 msgid "1_1_microstep_description"
 msgstr "Wybierz [Strona] z menu"
 
-#: ../basic/tour2.py:54
-msgid "2_1_microstep_description"
-msgstr "To jest moja pierwsza strona w Plone."
-
-#: ../basic/tour2.py:70
-msgid "You have now created a Page for your Plone website. Before this page can be viewed by anonymous site visitors, you must publish it. Publishing also makes your page available in the Navigation portlet."
-msgstr ""
-
-#: ../basic/tour2.py:86
-msgid "You now have a published page in your folder."
-msgstr ""
-
 #: ../basic/tour2.py:59
 msgid "2_3_microstep_description"
 msgstr "[Zapisz] stronę."
+
