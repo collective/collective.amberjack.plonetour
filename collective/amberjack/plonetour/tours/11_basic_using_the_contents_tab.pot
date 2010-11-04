@@ -64,7 +64,7 @@ msgstr ""
 msgid "2_features-of-the-contents-tab_title"
 msgstr ""
 
-#. Default: "Position your mouse pointer over one of the items in the [Order column]. Notice that your pointer is now a four-way arrow or a little hand."
+#. Default: "Position your mouse pointer over one of the items in the [Order column]. Notice that your pointer’s shape changed."
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "3_0_microstep_description"
 msgstr ""
