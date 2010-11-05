@@ -79,7 +79,7 @@ msgstr ""
 msgid "3_12_microstep_description"
 msgstr ""
 
-#. Default: "you can return to the previous view simply clicking again on screen icon"
+#. Default: "you can return to the previous view simply clicking again on [screen icon]"
 #: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
 msgid "3_13_microstep_description"
 msgstr ""

@@ -83,10 +83,10 @@ msgstr "Geben Sie beliebigen weiteren Text ein und experimentieren Sie mit den v
 msgid "3_12_microstep_description"
 msgstr "Klicken Sie auf das [Vollbild icon]"
 
-#. Default: "you can return to the previous view simply clicking again on screen icon"
+#. Default: "you can return to the previous view simply clicking again on [screen icon]"
 #: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
 msgid "3_13_microstep_description"
-msgstr "Sie kehren zur ursrünglichen Ansicht zurück indem Sie einfach nochmal auf das Vollbild icon klicken."
+msgstr "Sie kehren zur ursrünglichen Ansicht zurück indem Sie einfach nochmal auf das [Vollbild icon] klicken."
 
 #. Default: "When you are all done, click the [Save] button at the bottom of the page."
 #: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
