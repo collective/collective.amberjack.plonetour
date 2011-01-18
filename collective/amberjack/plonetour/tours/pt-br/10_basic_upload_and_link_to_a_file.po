@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: collective.amberjack.plonetour\n"
-"POT-Creation-Date: 2009-10-31 11:51+0000\n"
+"POT-Creation-Date: 2010-10-30 09:58+0000\n"
 "PO-Revision-Date: 2009-11-27 18:17-0300\n"
 "Last-Translator: Davi Lima <davilima6@gmail.com>\n"
 "Language-Team: Portuguese\n"
@@ -17,78 +17,156 @@ msgstr ""
 "Domain: collective.amberjack.plonetour\n"
 "X-Is-Fallback-For: pt\n"
 
-#: ../basic/tour10.py:27
-msgid "All of the items you have been creating for these tutorials so far are listed now in the Contents view. You can see information about each item such as the Title, Size, Date Modified, and Publishing State."
-msgstr "Todos os itens que você criou com estes tutoriais até agora são listados na visão de Conteúdo. Você pode ver informações sobre cada um destes itens, tais como Título, Tamanho, Data de Modificação e Estado de Publicação."
+#. Default: "Navigate to the folder called [MyFolder] that you created in a previous tutorial."
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "0_0_microstep_description"
+msgstr ""
 
-#: ../basic/tour10.py:28
-msgid "2_0_microstep_description"
-msgstr "Observe também os botões ao final da visão de Conteúdo: Copiar, Recortar, Renomear, Apagar e Alterar Estado. Usando os marcadores à esquerda de cada conteúdo, você pode aplicar qualquer destas ações aos itens selecionados."
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "0_1_microstep_description"
+msgstr ""
 
-#: ../basic/tour10.py:16
+#. Default: "Create a file"
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "0_create-a-file_title"
+msgstr ""
+
+#. Default: "Click the [Add New...] drop-down menu and select File from the menu."
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "1_0_microstep_description"
 msgstr "Clique na aba [Conteúdo]."
 
-#: ../basic/tour10.py:59
-msgid "4_1_microstep_description"
-msgstr "Clique no botão [Copiar] na região inferior da página."
+#. Default: "Select [File] from the menu."
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "1_1_microstep_description"
+msgstr ""
 
-#: ../basic/tour10.py:44
-msgid "3_1_microstep_description"
-msgstr "Clique e arraste o item até o topo da listagem de conteúdos. O item já fica reposicionado - você não precisa salvar a mudança."
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "1_2_microstep_description"
+msgstr ""
 
-#: ../basic/tour10.py:53
-msgid "4_copy-content_title"
-msgstr "Copiar contéudo"
+#. Default: "Add a new file to myfolder"
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "1_add-a-new-file-to-myfolder_title"
+msgstr ""
 
-#: ../basic/tour10.py:26
-msgid "2_features-of-the-contents-tab_title"
-msgstr "Características da aba Conteúdo"
+#. Default: "Provide a [Title] (i.e. \"My File.\")"
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "2_0_microstep_description"
+msgstr "Observe também os botões ao final da visão de Conteúdo: Copiar, Recortar, Renomear, Apagar e Alterar Estado. Usando os marcadores à esquerda de cada conteúdo, você pode aplicar qualquer destas ações aos itens selecionados."
 
-#: ../basic/tour10.py:71
-msgid "5_0_microstep_description"
-msgstr "Perceba que um botão de Colar agora aparece. Clique [Colar] para criar uma cópia de Minha Página."
+#. Default: "Provide a [Description]. The description will appear in site searches and in summary listings of files on your site."
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "2_1_microstep_description"
+msgstr ""
 
-#: ../basic/tour10.py:69
-msgid "5_paste-content_title"
-msgstr "Colar conteúdo"
+#. Default: "Click the Browse button of the [File field]."
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "2_2_microstep_description"
+msgstr ""
 
-#: ../basic/tour10.py:40
+#. Default: "Select a file from your desktop computer."
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "2_3_microstep_description"
+msgstr ""
+
+#. Default: "Click [Save] to complete the upload."
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "2_4_microstep_description"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "2_5_microstep_description"
+msgstr ""
+
+#. Default: "Choose a file"
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "2_choose-a-file_title"
+msgstr ""
+
+#. Default: "Navigate to [My Page] that you created from the previous tutorial."
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "3_0_microstep_description"
 msgstr "Posicione o cursor do seu mouse sobre um dos itens da [Coluna de Ordenação]. Perceba que seu cursor se torna uma flecha de quatro direções ou uma pequena mão."
 
-#: ../basic/tour10.py:38
-msgid "3_reordering-content_title"
-msgstr "Reordenando conteúdo"
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "3_1_microstep_description"
+msgstr "Clique e arraste o item até o topo da listagem de conteúdos. O item já fica reposicionado - você não precisa salvar a mudança."
 
-#: ../basic/tour10.py:8
-msgid "So far you've mostly been working with the Edit tab. Now it's time to take a look at the Contents tab and what it can do. 0_the-contents-tab_title lets you browse the filesystem of your website and perform administrative tasks such as: reorder content, delete content, copy, cut, and paste content items."
-msgstr "Até agora você tem trabalhado principalmente com a aba de Edição. Agora é hora de dar uma olhada na aba Conteúdo e no que ela pode fazer. A aba Conteúdo permite a você navegar pelo sistema de arquivos do seu site e executar tarefas administrativas como: reordenar, apagar, copiar, recortar e colar itens de conteúdo."
+#. Default: "Link to the file"
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "3_link-to-the-file_title"
+msgstr ""
 
-#: ../basic/tour10.py:7
-msgid "0_the-contents-tab_title"
-msgstr "A aba Conteúdo"
+#. Default: "Click the [Edit] tab."
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "4_0_microstep_description"
+msgstr "[Marque a caixa] próxima a Minha Página na listagem de conteúdo."
 
-#: ../basic/tour10.py:91
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "4_1_microstep_description"
+msgstr "Clique no botão [Copiar] na região inferior da página."
+
+#. Default: "Edit an existing page"
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "4_edit-an-existing-page_title"
+msgstr ""
+
+#. Default: "Type some link text in the [Body Text] field of the page (i.e. Download this report PDF 1,2 Mb)."
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "5_0_microstep_description"
+msgstr "Perceba que um botão de Colar agora aparece. Clique [Colar] para criar uma cópia de Minha Página."
+
+#. Default: "Now highlight the link text"
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "5_1_microstep_description"
+msgstr ""
+
+#. Default: "click the [Link icon] in the toolbar. A pop-up window should now appear."
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "5_2_microstep_description"
+msgstr ""
+
+#. Default: "Use the [pop-up window] to browse to the location of the file you just uploaded."
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "5_3_microstep_description"
+msgstr ""
+
+#. Default: "Select the file by [clicking the radio button] next to it."
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "5_4_microstep_description"
+msgstr ""
+
+#. Default: "Click [Insert] to create the hyperlink."
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "5_5_microstep_description"
+msgstr ""
+
+#. Default: "Click [Save] to finish."
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "5_6_microstep_description"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "5_7_microstep_description"
+msgstr ""
+
+#. Default: "Insert an internal link"
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "5_insert-an-internal-link_title"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "6_0_microstep_description"
+msgstr ""
+
+#. Default: "All done"
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "6_all-done_title"
+msgstr ""
+
+#. Default: "Upload and link to a File"
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "amberjack_title"
 msgstr "Usando a aba Conteúdo"
 
-#: ../basic/tour10.py:39
-msgid "You may wish to change the order of contents within a folder for various reasons. One of the most common reasons is to change the order that items list in the Navigation portlet or folder summary views."
-msgstr "Você pode desejar mudar a ordem dos contéudos dentro de uma pasta por diversos motivos. Uma das razões mais comuns é mudar a ordem de listagem dos itens no portlet de Navegação ou na exibição resumida da pasta."
-
-#: ../basic/tour10.py:54
-msgid "You may wish to make copies of a content item for various reasons. You can paste a copied item into any location on the site."
-msgstr "Você pode desejar fazer cópias de um item de conteúdo por vários motivos. Você pode colar um item copiado em qualquer local do site."
-
-#: ../basic/tour10.py:84
-msgid "You now have two copies of the same page in your folder."
-msgstr "Você agora tem duas cópias da mesma página em sua pasta."
-
-#: ../basic/tour10.py:82
-msgid "You now have two copies of the same page in your folder.<br />You can cut-and-paste and also delete items in a folder by checking the boxes next to the items you wish to alter."
-msgstr "Você agora tem duas cópias da mesma página em sua pasta. <br />Você pode recortar e colar e também apagar itens em uma pasta marcando as caixas próximas aos itens com que você deseja trabalhar."
-
-#: ../basic/tour10.py:55
-msgid "4_0_microstep_description"
-msgstr "[Marque a caixa] próxima a Minha Página na listagem de conteúdo."

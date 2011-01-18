@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: collective.amberjack.plonetour\n"
-"POT-Creation-Date: 2009-10-31 11:51+0000\n"
+"POT-Creation-Date: 2010-10-30 09:56+0000\n"
 "PO-Revision-Date: 2009-11-27 18:17-0300\n"
 "Last-Translator: Davi Lima <davilima6@gmail.com>\n"
 "Language-Team: Portuguese\n"
@@ -17,66 +17,123 @@ msgstr ""
 "Domain: collective.amberjack.plonetour\n"
 "X-Is-Fallback-For: pt\n"
 
-#: ../basic/tour4.py:10
+#. Default: "Navigate to the folder called [MyFolder] that you created in a previous tutorial."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "0_0_microstep_description"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "0_1_microstep_description"
+msgstr ""
+
+#. Default: "Add and publish an event"
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "0_add-and-publish-an-event_title"
 msgstr "Adicionar e publicar um Evento"
 
-#: ../basic/tour4.py:17
-msgid "1_create-a-event_title"
-msgstr "Criar um Evento"
+#. Default: "Click the [Add new...] drop-down menu."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "1_0_microstep_description"
+msgstr ""
 
-#: ../basic/tour4.py:18
-msgid "Events are useful for posting announcements about upcoming events. Events function much like a page, with additional fields for adding information about an event."
-msgstr "Eventos são úteis para publicar anúncios sobre eventos futuros. Eventos funcionam como uma Página, com campos adicionais para acrescentar informações específicas."
-
-#: ../basic/tour4.py:74
-msgid "In order for anonymous site visitors to see your event you must publish it first. Publishing also makes your event available in the Upcoming Events portlet and Events folder."
-msgstr "Para que visitantes anônimos visualizem seu evento, você deve publicá-lo antes. Ao publicar, você também disponibiliza seu evento no portlet de Eventos Futuros e na pasta de Eventos."
-
-#: ../basic/tour4.py:11
-msgid "In this tutorial, you'll create a new Event and publish it on your Plone-powered website."
-msgstr "Neste tutorial, você irá criar um novo Evento e publicá-lo no seu site Plone."
-
-#: ../basic/tour4.py:34
-msgid "Now that you selected the Event content type, you need to supply some information about it."
-msgstr "Agora que você selecionou o tipo de conteúdo Evento, você precisa fornecer algumas informações sobre ele."
-
-#: ../basic/tour4.py:39
-msgid "2_1_microstep_description"
-msgstr "Forneça uma Descrição para seu Evento. <br />A descrição será exibida nas buscas no site e nas listagens resumidas de eventos."
-
-#: ../basic/tour4.py:35
-msgid "2_0_microstep_description"
-msgstr "Forneça um [Título] (ex: Meu Evento.)"
-
-#: ../basic/tour4.py:43
-msgid "2_2_microstep_description"
-msgstr "Forneça uma [Local do Evento]. O local refere-se à localização física do evento. Você pode descrever o endereço ou fornecer instruções no campo Corpo de Texto."
-
-#: ../basic/tour4.py:55
-msgid "2_7_microstep_description"
-msgstr "Forneça um [Tipo de Evento] preenchendo o campo Novas Categorias. Eventos comuns são: Palestra, Reunião, Apresentação, Concerto, Performance etc."
-
-#: ../basic/tour4.py:59
-msgid "Provide contact information in the remaining fields."
-msgstr "Forneça informações de contato para os campos restantes."
-
-#: ../basic/tour4.py:47
-msgid "2_3_microstep_description"
-msgstr "Forneça as datas de [Início e Fim] do evento."
-
-#: ../basic/tour4.py:73
-msgid "3_publish-the-event_title"
-msgstr "Publique o evento"
-
-#: ../basic/tour4.py:51
-msgid "2_4_microstep_description"
-msgstr "Adicione algum conteúdo ao campo [Corpo de Texto]. Este é o melhor lugar para acrescentar instruções para seu evento, informação sobre o que esperar, imagens etc."
-
-#: ../basic/tour4.py:23
+#. Default: "Select [Event] from the menu."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "1_1_microstep_description"
 msgstr "Selecione [Evento] a partir do menu."
 
-#: ../basic/tour4.py:90
-msgid "You now have a published event in your folder."
-msgstr "Você agora tem um evento publicado em sua pasta."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "1_2_microstep_description"
+msgstr ""
+
+#. Default: "Create a event"
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "1_create-a-event_title"
+msgstr "Criar um Evento"
+
+#. Default: "Provide a [Title]: My Event."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_0_microstep_description"
+msgstr "Forneça um [Título] (ex: Meu Evento.)"
+
+#. Default: "Provide a [Description] for your Event. <br />The description will appear in site searches and in summary listings of events on your site."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_1_microstep_description"
+msgstr "Forneça uma Descrição para seu Evento. <br />A descrição será exibida nas buscas no site e nas listagens resumidas de eventos."
+
+#. Default: "Provide an [Event Location]. The location is the physical location of the event. You can describe the address or provide directions in the Body Text field."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_2_microstep_description"
+msgstr "Forneça uma [Local do Evento]. O local refere-se à localização física do evento. Você pode descrever o endereço ou fornecer instruções no campo Corpo de Texto."
+
+#. Default: "Provide the event [Start and End] dates."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_3_microstep_description"
+msgstr "Forneça as datas de [Início e Fim] do evento."
+
+#. Default: "Put some content in the [Body Text] field. This is the best place to add directions to your event, information about what to expect, images, etc."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_4_microstep_description"
+msgstr "Adicione algum conteúdo ao campo [Corpo de Texto]. Este é o melhor lugar para acrescentar instruções para seu evento, informação sobre o que esperar, imagens etc."
+
+#. Default: "Provide [contact information] in the remaining fields."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_5_microstep_description"
+msgstr ""
+
+#. Default: "Manage the type: open the [Categorization] tab."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_6_microstep_description"
+msgstr ""
+
+#. Default: "then provide an [Event Type] by typing in the New Categories field. Typical event types include: Fundraiser, Auction, Sale, Concert, Performance, etc. Once you have added a new event type, it will appear for selection in the Existing Categories field the next time you create an event."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_7_microstep_description"
+msgstr "Forneça um [Tipo de Evento] preenchendo o campo Novas Categorias. Eventos comuns são: Palestra, Reunião, Apresentação, Concerto, Performance etc."
+
+#. Default: "Click [Save] to finish."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_8_microstep_description"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_9_microstep_description"
+msgstr ""
+
+#. Default: "Fill out the fields"
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_fill-out-the-fields_title"
+msgstr ""
+
+#. Default: "Click the [State] drop-down menu."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "3_0_microstep_description"
+msgstr ""
+
+#. Default: "Select [Publish] from the menu."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "3_1_microstep_description"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "3_2_microstep_description"
+msgstr ""
+
+#. Default: "Publish the event"
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "3_publish-the-event_title"
+msgstr "Publique o evento"
+
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "4_0_microstep_description"
+msgstr ""
+
+#. Default: "All done"
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "4_all-done_title"
+msgstr ""
+
+#. Default: "Add and publish an Event"
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "amberjack_title"
+msgstr ""
+

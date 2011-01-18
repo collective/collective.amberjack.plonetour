@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: collective.amberjack.plonetour\n"
-"POT-Creation-Date: 2009-10-31 11:51+0000\n"
+"POT-Creation-Date: 2010-10-30 09:56+0000\n"
 "PO-Revision-Date: 2009-11-27 18:17-0300\n"
 "Last-Translator: Davi Lima <davilima6@gmail.com>\n"
 "Language-Team: Portuguese\n"
@@ -17,54 +17,103 @@ msgstr ""
 "Domain: collective.amberjack.plonetour\n"
 "X-Is-Fallback-For: pt\n"
 
-#: ../basic/tour3.py:10
+#. Default: "Navigate to the folder called [MyFolder] that you created in a previous tutorial."
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
+msgid "0_0_microstep_description"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
+msgid "0_1_microstep_description"
+msgstr ""
+
+#. Default: "Add and publish a news item"
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
 msgid "0_add-and-publish-a-news-item_title"
 msgstr "Adicionar e publicar uma Notícia"
 
-#: ../basic/tour3.py:17
-msgid "1_create-a-news-item_title"
-msgstr "Criar uma Notícia"
+#. Default: "Click the [Add new...] drop-down menu."
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
+msgid "1_0_microstep_description"
+msgstr ""
 
-#: ../basic/tour3.py:62
-msgid "In order for anonymous site visitors to see your news item you must publish it first. Publishing also makes your news item available in the News portlet and News folder."
-msgstr "Para que visitantes anônimos visualizem sua notícia, você deve publicá-la antes. Ao publicar, você também disponibiliza sua notícia no portlet de Notícias e na pasta de Notícias."
-
-#: ../basic/tour3.py:11
-msgid "In this tutorial, you'll create a new News Item and publish it on your Plone-powered website."
-msgstr "Neste tutorial, você irá criar uma Notícia e publicá-la no seu site Plone."
-
-#: ../basic/tour3.py:47
-msgid "Notice the Image field at the bottom of the page. You can attach an image to a News Item which will appear in summary listings of News Items. You can also caption the image."
-msgstr "Perceba o campo Imagem no final da página. Você pode anexar uma imagem a uma Notícia que aparecerá nas listagens resumidas de Notícias. Você pode também legendar a imagem."
-
-#: ../basic/tour3.py:34
-msgid "Now that you selected the News Item content type, you need to supply some information about it."
-msgstr "Agora que você selecionou o tipo de conteúdo Notícia, você precisa fornecer algumas informações sobre ele."
-
-#: ../basic/tour3.py:39
-msgid "Provide a Description for your News Item. <br />The description will appear in site searches and in summary listings of news on your site."
-msgstr "Forneça uma Descrição para sua Notícia. <br />A descrição será exibida nas buscas no site e nas listagens resumidas de notícias."
-
-#: ../basic/tour3.py:35
-msgid "2_0_microstep_description"
-msgstr "Forneça um [Título] (ex: Minhas Notícias.)"
-
-#: ../basic/tour3.py:61
-msgid "3_publish-the-news-item_title"
-msgstr "Publique a notícia"
-
-#: ../basic/tour3.py:43
-msgid "Put some content in the Body Text field."
-msgstr "Adicione algum conteúdo ao campo Corpo de Texto."
-
-#: ../basic/tour3.py:23
+#. Default: "Select [News Item] from the menu."
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
 msgid "1_1_microstep_description"
 msgstr "Selecione [Notícia] a partir do menu."
 
-#: ../basic/tour3.py:78
-msgid "You now have a published news item in your folder."
-msgstr "Você agora tem uma notícia publicada em sua pasta."
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
+msgid "1_2_microstep_description"
+msgstr ""
 
-#: ../basic/tour3.py:42
-msgid "a description"
-msgstr "uma descrição"
+#. Default: "Create a news item"
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
+msgid "1_create-a-news-item_title"
+msgstr "Criar uma Notícia"
+
+#. Default: "Provide a [Title]: My News."
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
+msgid "2_0_microstep_description"
+msgstr "Forneça um [Título] (ex: Minhas Notícias.)"
+
+#. Default: "Provide a [Description] for your News Item. <br />The description will appear in site searches and in summary listings of news on your site."
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
+msgid "2_1_microstep_description"
+msgstr ""
+
+#. Default: "Put some content in the [Body Text] field."
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
+msgid "2_2_microstep_description"
+msgstr ""
+
+#. Default: "Notice the [Image] field at the bottom of the page. You can attach an image to a News Item which will appear in summary listings of News Items. You can also caption the image."
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
+msgid "2_3_microstep_description"
+msgstr ""
+
+#. Default: "Click [Save] to finish."
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
+msgid "2_4_microstep_description"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
+msgid "2_5_microstep_description"
+msgstr ""
+
+#. Default: "Fill out the fields"
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
+msgid "2_fill-out-the-fields_title"
+msgstr ""
+
+#. Default: "Click the [State] drop-down menu."
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
+msgid "3_0_microstep_description"
+msgstr ""
+
+#. Default: "Select [Publish] from the menu."
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
+msgid "3_1_microstep_description"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
+msgid "3_2_microstep_description"
+msgstr ""
+
+#. Default: "Publish the news item"
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
+msgid "3_publish-the-news-item_title"
+msgstr "Publique a notícia"
+
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
+msgid "4_0_microstep_description"
+msgstr ""
+
+#. Default: "All done"
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
+msgid "4_all-done_title"
+msgstr ""
+
+#. Default: "Add and publish a News Item"
+#: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
+msgid "amberjack_title"
+msgstr ""
+
