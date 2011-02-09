@@ -20,7 +20,7 @@ msgstr ""
 #. Default: "Navigate to the folder called [MyFolder] that you created in a previous tutorial."
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "0_0_microstep_description"
-msgstr ""
+msgstr "Navegue para a pasta chamada [MyFolder] que você criou no tutorial anterior."
 
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "0_1_microstep_description"
@@ -29,31 +29,31 @@ msgstr ""
 #. Default: "The contents tab"
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "0_the-contents-tab_title"
-msgstr ""
+msgstr "A aba conteúdo"
 
 #. Default: "Click on the [Contents] tab."
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "1_0_microstep_description"
-msgstr "Clique no menu drop-down [Exibição]."
+msgstr "Clique na aba [Conteúdo]."
 
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "1_1_microstep_description"
-msgstr "Exibição resumida"
+msgstr ""
 
 #. Default: "The contents tab"
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "1_the-contents-tab_title"
-msgstr ""
+msgstr "A aba conteúdo"
 
 #. Default: "Also notice the buttons along the bottom of the Contents view: Copy, Cut, Rename, Delete, and Change State. By using the checkboxes next to each content item you can apply any of these changes to those checked items."
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "2_0_microstep_description"
-msgstr ""
+msgstr "Observe também os botões ao final da visão de Conteúdo: Copiar, Recortar, Renomear, Apagar e Alterar Estado. Usando os marcadores à esquerda de cada conteúdo, você pode aplicar qualquer destas ações aos itens selecionados."
 
 #. Default: "To move to the next step use the button with the double arrow in the head of this popup."
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "2_1_microstep_description"
-msgstr "Exibição tabular"
+msgstr "Para avançar para o próximo passo, use o botão de flecha no cabeçalho deste <em>pop-up</em>."
 
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "2_2_microstep_description"
@@ -62,41 +62,41 @@ msgstr ""
 #. Default: "Features of the contents tab"
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "2_features-of-the-contents-tab_title"
-msgstr ""
+msgstr "Funcionalidades da aba conteúdo"
 
 #. Default: "Position your mouse pointer over one of the items in the [Order column]. Notice that your pointer’s shape changed."
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "3_0_microstep_description"
-msgstr ""
+msgstr "Posicione o cursor do seu mouse sobre um dos itens da [coluna de Ordenação]. Perceba que o formato do seu cursor mudou."
 
 #. Default: "Click-and-drag the item to the top of the Contents listing. The item is now moved - you do not need to save the change in any way."
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "3_1_microstep_description"
-msgstr "Selecione um [item de conteúdo como exibição padrão]."
+msgstr "Clique e arraste o item até o topo da listagem de conteúdos. O item já foi reposicionado - você não precisa salvar a mudança."
 
 #. Default: "To move to the next step use the button with the double arrow in the head of this popup."
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "3_2_microstep_description"
-msgstr "Selecione [Minha Página] como exibição padrão para MinhaPasta."
+msgstr "Para avançar para o próximo passo, use o botão de flecha no cabeçalho deste <em>pop-up</em>."
 
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "3_3_microstep_description"
-msgstr "Clique no botão [Salvar] para concluir."
+msgstr ""
 
 #. Default: "Reordering content"
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "3_reordering-content_title"
-msgstr ""
+msgstr "Reordenando conteúdos"
 
 #. Default: "[Check the box] next to My Page in the contents listing."
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "4_0_microstep_description"
-msgstr "Até agora você viu as diversas maneiras que uma pasta do Plone pode exibir seus conteúdos. No entanto, em muitos casos você pode desejar escolher um único item como uma Página para funcionar como a 'página de chegada' para a pasta. Isto é comum nos casos em que uma pasta é usada para ser uma subseção do site."
+msgstr "[Marque a caixa] próxima a Minha Página na listagem de conteúdos."
 
 #. Default: "Click the [Copy] button at the bottom of the page."
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "4_1_microstep_description"
-msgstr ""
+msgstr "Clique o botão [Copiar] no fim da página."
 
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "4_2_microstep_description"
@@ -105,12 +105,12 @@ msgstr ""
 #. Default: "Copy content"
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "4_copy-content_title"
-msgstr ""
+msgstr "Copie o conteúdo"
 
 #. Default: "Notice that a Paste button now appears. Click [Paste] to create a copy of My Page."
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "5_0_microstep_description"
-msgstr ""
+msgstr "Observe que agora um botão Colar aparece. Clique em [Colar] para criar uma cópia de My Page."
 
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "5_1_microstep_description"
@@ -119,19 +119,19 @@ msgstr ""
 #. Default: "Paste content"
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "5_paste-content_title"
-msgstr ""
+msgstr "Cole o conteúdo"
 
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "6_0_microstep_description"
-msgstr "Neste tutorial você explorou algumas das maneiras que uma pasta pode exibir seus conteúdos. Tente por você mesmo a exibição de Miniaturas subindo diversas imagens para uma pasta. Esta exibição é usada para criar uma galeria de fotos básica."
+msgstr ""
 
 #. Default: "All done"
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "6_all-done_title"
-msgstr ""
+msgstr "Feito!"
 
 #. Default: "Using the Contents tab"
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "amberjack_title"
-msgstr ""
+msgstr "Usar a aba Conteúdo"
 

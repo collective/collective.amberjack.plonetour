@@ -19,11 +19,11 @@ msgstr ""
 
 #: ../basic/tour2.py:29
 msgid "1_add-a-page_title"
-msgstr "Adicionar uma Página"
+msgstr "Adicione uma Página"
 
 #: ../basic/tour2.py:15
 msgid "0_add-and-publish-a-page_title"
-msgstr "Adicionar e publicar uma Página"
+msgstr "Adicione e publique uma Página"
 
 #: ../basic/tour2.py:55
 msgid "Add some page content (you can come back and edit this later)."
@@ -47,7 +47,7 @@ msgstr "Forneça uma [Descrição]: [Esta é minha primeira página Plone.]."
 
 #: ../basic/tour2.py:47
 msgid "2_0_microstep_description"
-msgstr "Forneça um [Título] (ex: Minha Página.)"
+msgstr "Forneça um [Título] (ex: My page)"
 
 #: ../basic/tour2.py:69
 msgid "3_publish-the-page_title"
@@ -72,3 +72,9 @@ msgstr "Você agora tem uma página publicada em sua pasta."
 #: ../basic/tour2.py:59
 msgid "2_3_microstep_description"
 msgstr "[Salve] a página."
+
+#. Default: "Add and publish a Page"
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "amberjack_title"
+msgstr "Adicionar e publicar uma Página"
+

@@ -35,7 +35,7 @@ msgstr "Clique no menu drop-down [Estado]."
 
 #: ../basic/tour1.py:15
 msgid "0_create-a-new-folder_title"
-msgstr "Criar uma nova pasta"
+msgstr "Crie uma nova pasta"
 
 #: ../basic/tour1.py:33
 msgid "1_fill-out-the-fields_title"
