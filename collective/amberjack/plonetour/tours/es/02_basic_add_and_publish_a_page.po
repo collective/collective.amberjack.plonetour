@@ -1,12 +1,12 @@
 # Spanish translations for collective.amberjack.plonetour package
-# Traducciones al Español del producto collective.amberjack.plonetour.
-# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2009.
+# Traducciones al Espaï¿½ol del producto collective.amberjack.plonetour.
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2009, 2010, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: collective.amberjack.plonetour\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
-"PO-Revision-Date: 2009-11-10 08:45-0400\n"
-"Last-Translator: Leonardo Caballero <leonardocaballero@gmail.com>\n"
+"POT-Creation-Date: 2009-11-10 08:45-0400\n"
+"PO-Revision-Date: 2011-06-01 23:29-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-1\n"
@@ -15,64 +15,101 @@ msgstr ""
 "Language-code: es\n"
 "Language-name: Spanish\n"
 "Preferred-encodings: latin1 utf-8\n"
-"Domain: collective.amberjack.plonetour\n"
+"Domain: 02_basic_add_and_publish_a_page\n"
 "X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
-#: ../basic/tour2.py:29
-msgid "1_add-a-page_title"
-msgstr "Agregar una página"
 
-#: ../basic/tour2.py:15
-msgid "0_add-and-publish-a-page_title"
-msgstr "Agregar y publicar una página"
-
-#: ../basic/tour2.py:55
-msgid "Add some page content (you can come back and edit this later)."
-msgstr "Agregar alguna página de contenido (usted puede volver y editar este más tarde)."
-
-#: ../basic/tour2.py:16
-msgid "In this tutorial, you'll create a new Page and publish it on your Plone-powered website."
-msgstr "En este tutoría, usted creará un nuevo Página y lo publicará en su sitio Web basado en Plone."
-
-#: ../basic/tour2.py:17
+#. Default: "Navigate to the folder called [MyFolder] that you created in a previous tutorial."
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
 msgid "0_0_microstep_description"
-msgstr "Navegar a la carpeta llamada [MiCarpeta] que usted creo en la tutoría previa."
+msgstr "Navegar a la carpeta llamada [MyFolder] que usted creo en la tutorï¿½a previa."
 
-#: ../basic/tour2.py:46
-msgid "Now that you selected the Page content type, you need to supply some information about it."
-msgstr "Ahora que usted selecciono el tipo de contenido Página, usted necesita suministrar alguna información acerca de este."
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "0_1_microstep_description"
+msgstr ""
 
-#: ../basic/tour2.py:51
-msgid "2_1_microstep_description"
-msgstr "Proveer una [Descripción]: [Esta es mi primero página Plone]."
+#. Default: "Add and publish a page"
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "0_add-and-publish-a-page_title"
+msgstr "Agregar y publicar una pï¿½gina"
 
-#: ../basic/tour2.py:47
-msgid "2_0_microstep_description"
-msgstr "Proveer un [Titulo]: [Mi Página]."
+#. Default: "Click the [Add new...] drop-down menu."
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "1_0_microstep_description"
+msgstr "Haga clic al menï¿½ desplegable [Agregar elemento]."
 
-#: ../basic/tour2.py:69
-msgid "3_publish-the-page_title"
-msgstr "Publicar la página"
-
-#: ../basic/tour2.py:35
+#. Default: "Select [Page] from the menu."
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
 msgid "1_1_microstep_description"
-msgstr "Seleccionar [Página] desde el menú."
+msgstr "Seleccionar [Pï¿½gina] desde el menï¿½."
 
-#: ../basic/tour2.py:54
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "1_2_microstep_description"
+msgstr ""
+
+#. Default: "Add a page"
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "1_add-a-page_title"
+msgstr "Agregar una pï¿½gina"
+
+#. Default: "Provide a [Title]: My Page."
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "2_0_microstep_description"
+msgstr "Proveer un [Tï¿½tulo]: [My Page]."
+
+#. Default: "Provide a [Description]: This is my first Plone page."
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
 msgid "2_1_microstep_description"
-msgstr "Este es mi primera página Plone."
+msgstr "Proveer una [Descripciï¿½n]: [Esta es mi primera pï¿½gina Plone.]."
 
-#: ../basic/tour2.py:58
-msgid "This is the text of My Page"
-msgstr "La descripción de mi página"
+#. Default: "Add some page content in the [Body Text] field (you can come back and edit this later)."
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "2_2_microstep_description"
+msgstr "Agregar algï¿½n contenido en el campo [Body Text] (usted puede volver de nuevo a editar esta pï¿½gina luego)"
 
-#: ../basic/tour2.py:70
-msgid "You have now created a Page for your Plone website. Before this page can be viewed by anonymous site visitors, you must publish it. Publishing also makes your page available in the Navigation portlet."
-msgstr "Ahora usted tiene creado una Página en su sitio Web Plone. Esta página puede ser vista por visitantes anónimos del sitio, pero antes usted debe publicarla. Publicándola también hace que su página este disponible en el portlet de Navegación."
-
-#: ../basic/tour2.py:86
-msgid "You now have a published page in your folder."
-msgstr "Usted ahora tiene una página publicada en su carpeta."
-
-#: ../basic/tour2.py:59
+#. Default: "[Save] the page."
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
 msgid "2_3_microstep_description"
-msgstr "[Guardar] la página."
+msgstr "[Guardar] la pï¿½gina."
+
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "2_4_microstep_description"
+msgstr ""
+
+#. Default: "Fill out the fields"
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "2_fill-out-the-fields_title"
+msgstr "Rellene los campos"
+
+#. Default: "Click the [State] drop-down menu."
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "3_0_microstep_description"
+msgstr "Haga clic al menï¿½ desplegable [Estado]."
+
+#. Default: "Select [Publish] from the menu."
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "3_1_microstep_description"
+msgstr "Seleccionar [Publicar] desde el menï¿½."
+
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "3_2_microstep_description"
+msgstr ""
+
+#. Default: "Publish the page"
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "3_publish-the-page_title"
+msgstr "Publicar la pï¿½gina"
+
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "4_0_microstep_description"
+msgstr ""
+
+#. Default: "All done"
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "4_all-done_title"
+msgstr "ï¿½Todos los pasos hechos!"
+
+#. Default: "Add and publish a Page"
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "amberjack_title"
+msgstr "Agregar y publicar una pï¿½gina"
+

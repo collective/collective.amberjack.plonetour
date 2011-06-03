@@ -1,12 +1,12 @@
 # Spanish translations for collective.amberjack.plonetour package
-# Traducciones al Español del producto collective.amberjack.plonetour.
-# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2009.
+# Traducciones al Espaï¿½ol del producto collective.amberjack.plonetour.
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2009, 2010, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: collective.amberjack.plonetour\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
-"PO-Revision-Date: 2009-11-10 08:45-0400\n"
-"Last-Translator: Leonardo Caballero <leonardocaballero@gmail.com>\n"
+"POT-Creation-Date: 2009-11-10 08:45-0400\n"
+"PO-Revision-Date: 2011-06-01 23:30-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-1\n"
@@ -17,78 +17,125 @@ msgstr ""
 "Preferred-encodings: latin1 utf-8\n"
 "Domain: collective.amberjack.plonetour\n"
 "X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
-#: ../basic/tour4.py:10
-msgid "0_add-and-publish-an-event_title"
-msgstr "Agregar y publicar un evento "
+"Domain: 04_basic_add_and_publish_an_event\n"
 
-#: ../basic/tour4.py:17
+#. Default: "Navigate to the folder called [MyFolder] that you created in a previous tutorial."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "0_0_microstep_description"
+msgstr "Navegue hacia la carpeta llamda [MyFolder] que usted crei en el previo tutorial."
+
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "0_1_microstep_description"
+msgstr ""
+
+#. Default: "Add and publish an event"
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "0_add-and-publish-an-event_title"
+msgstr "Agregar y publicar un evento"
+
+#. Default: "Click the [Add new...] drop-down menu."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "1_0_microstep_description"
+msgstr "Haga clic al menï¿½ desplegable [Agregar elemento]."
+
+#. Default: "Select [Event] from the menu."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "1_1_microstep_description"
+msgstr "Seleccione la opciï¿½n [Noticia] desde el menï¿½."
+
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "1_2_microstep_description"
+msgstr ""
+
+#. Default: "Create a event"
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "1_create-a-event_title"
 msgstr "Crear un evento"
 
-#: ../basic/tour4.py:18
-msgid "Events are useful for posting announcements about upcoming events. Events function much like a page, with additional fields for adding information about an event."
-msgstr "Los eventos son útiles para publicar anuncios acerca de próximos eventos. Los eventos funciona como una página con campos adicionales para agregar información acerca de un vento."
-
-#: ../basic/tour4.py:74
-msgid "In order for anonymous site visitors to see your event you must publish it first. Publishing also makes your event available in the Upcoming Events portlet and Events folder."
-msgstr "En orden de ideas los visitantes anónimos del sitio pueden ver su evento pero usted debe publicarlo primero. Publicándolo también hace su evento disponible en el portlet de Próximos eventos y en la carpeta Eventos."
-
-#: ../basic/tour4.py:11
-msgid "In this tutorial, you'll create a new Event and publish it on your Plone-powered website."
-msgstr "En esta tutoría, usted creará un nuevo Evento y lo publicará en su sitio Web basado en Plone."
-
-#: ../basic/tour4.py:54
-msgid "Information about your event."
-msgstr "Información acerca de su evento."
-
-#: ../basic/tour4.py:46
-msgid "Location of Event"
-msgstr "Ubicación del Evento"
-
-#: ../basic/tour4.py:34
-msgid "Now that you selected the Event content type, you need to supply some information about it."
-msgstr "Ahora que usted selecciono el tipo de contenido Evento, usted necesita suministrar alguna información acerca de este."
-
-#: ../basic/tour4.py:39
-msgid "2_1_microstep_description"
-msgstr "Proveer una [Descripción] para su Evento. <br />La descripción aparecerá en las búsquedas del sitio y en la listas de resúmenes de eventos en su sitio."
-
-#: ../basic/tour4.py:35
+#. Default: "Provide a [Title]: My Event."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "2_0_microstep_description"
-msgstr "Proveer un [Titulo]: [Mi Evento]."
+msgstr "Proveer un [Tï¿½tulo]: [My Event]."
 
-#: ../basic/tour4.py:43
+#. Default: "Provide a [Description] for your Event. <br />The description will appear in site searches and in summary listings of events on your site."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_1_microstep_description"
+msgstr "Proveer una [Descripciï¿½n] para su Evento. <br />La descripciï¿½n aparecerï¿½ en las bï¿½squedas del sitio y en la listas de resï¿½menes de eventos en su sitio."
+
+#. Default: "Provide an [Event Location]. The location is the physical location of the event. You can describe the address or provide directions in the Body Text field."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "2_2_microstep_description"
-msgstr "Proveer una [Locación de Evento]. La localización es la ubicación física del evento. Usted puede describir la dirección o proveer las direcciones en el campo del texto del cuerpo."
+msgstr "Proveer una [Locaciï¿½n de Evento]. La localizaciï¿½n es la ubicaciï¿½n fï¿½sica del evento. Usted puede describir la direcciï¿½n o proveer las direcciones en el campo del texto del cuerpo."
 
-#: ../basic/tour4.py:55
-msgid "2_7_microstep_description"
-msgstr "Proveer un [Tipo de evento] introduciendo en el campo Nueva categorías. Típicamente incluyendo tipos de eventos: Recaudador de fondos, Subasta, Venta, Concierto, Actuación, etc. Once que usted agrego a un nuevo tipo de evento, ese aparecerá para seleccionar en el campo de Categorías Existentes la próxima ves que usted cree un evento."
-
-#: ../basic/tour4.py:59
-msgid "Provide contact information in the remaining fields."
-msgstr "Proporcionar información de contacto en los campos restantes."
-
-#: ../basic/tour4.py:47
+#. Default: "Provide the event [Start and End] dates."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "2_3_microstep_description"
 msgstr "Proveer las fechas [Inicio y Fin] del evento."
 
-#: ../basic/tour4.py:73
+#. Default: "Put some content in the [Body Text] field. This is the best place to add directions to your event, information about what to expect, images, etc."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_4_microstep_description"
+msgstr "Coloque algo de contenido en el campo de [texto del cuerpo]. Este es el mejor sitio para agregar direcciones de su evento, informaciï¿½n acerca de las expectativas, imï¿½genes, etc."
+
+#. Default: "Provide [contact information] in the remaining fields."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_5_microstep_description"
+msgstr "Proporcionar la [informaciï¿½n de contacto] en los campos restantes."
+
+#. Default: "Manage the type: open the [Categorization] tab."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_6_microstep_description"
+msgstr "Administra el tipo: abrir la pestaï¿½a [Categorizaciï¿½n]"
+
+#. Default: "then provide an [Event Type] by typing in the New Categories field. Typical event types include: Fundraiser, Auction, Sale, Concert, Performance, etc. Once you have added a new event type, it will appear for selection in the Existing Categories field the next time you create an event."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_7_microstep_description"
+msgstr "Proveer un [Tipo de evento] introduciendo en el campo Nueva categorï¿½as. Tï¿½picamente incluyendo tipos de eventos: Recaudador de fondos, Subasta, Venta, Concierto, Actuaciï¿½n, etc. Once que usted agrego a un nuevo tipo de evento, ese aparecerï¿½ para seleccionar en el campo de Categorï¿½as Existentes la prï¿½xima ves que usted cree un evento."
+
+#. Default: "Click [Save] to finish."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_8_microstep_description"
+msgstr "Haga clic en el botï¿½n [Guardar] para finalizar."
+
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_9_microstep_description"
+msgstr ""
+
+#. Default: "Fill out the fields"
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_fill-out-the-fields_title"
+msgstr "Rellene los campos"
+
+#. Default: "Click the [State] drop-down menu."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "3_0_microstep_description"
+msgstr "Haga clic al menï¿½ desplegable [Estado]."
+
+#. Default: "Select [Publish] from the menu."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "3_1_microstep_description"
+msgstr "Seleccione la opciï¿½n [Publicar] desde el menï¿½."
+
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "3_2_microstep_description"
+msgstr ""
+
+#. Default: "Publish the event"
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "3_publish-the-event_title"
 msgstr "Publicar el evento"
 
-#: ../basic/tour4.py:51
-msgid "2_4_microstep_description"
-msgstr "Coloque algo de contenido en el campo de [texto del cuerpo]. Este es el mejor sitio para agregar direcciones de su evento, información acerca de las expectativas, imágenes, etc."
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "4_0_microstep_description"
+msgstr ""
 
-#: ../basic/tour4.py:23
-msgid "1_1_microstep_description"
-msgstr "Seleccionar [Evento] desde el menú."
+#. Default: "All done"
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "4_all-done_title"
+msgstr "ï¿½Todos los pasos hechos!"
 
-#: ../basic/tour4.py:42
-msgid "The description of My Event"
-msgstr "La descripción de mi evento"
+#. Default: "Add and publish an Event"
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "amberjack_title"
+msgstr "Agregar y publicar un Evento"
 
-#: ../basic/tour4.py:90
-msgid "You now have a published event in your folder."
-msgstr "Usted ahora tiene un evento publicado en su carpeta."

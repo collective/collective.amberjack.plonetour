@@ -1,12 +1,12 @@
 # Spanish translations for collective.amberjack.plonetour package
-# Traducciones al Español del producto collective.amberjack.plonetour.
-# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2009.
+# Traducciones al EspaÃ±ol del producto collective.amberjack.plonetour.
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2009, 2010, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: collective.amberjack.plonetour\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
-"PO-Revision-Date: 2009-11-10 08:45-0400\n"
-"Last-Translator: Leonardo Caballero <leonardocaballero@gmail.com>\n"
+"POT-Creation-Date: 2009-11-10 08:45-0400\n"
+"PO-Revision-Date: 2011-06-01 23:30-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-1\n"
@@ -15,68 +15,124 @@ msgstr ""
 "Language-code: es\n"
 "Language-name: Spanish\n"
 "Preferred-encodings: latin1 utf-8\n"
-"Domain: collective.amberjack.plonetour\n"
+"Domain: 11_basic_using_the_contents_tab\n"
 "X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
-#: ../basic/tour11.py:16
-msgid "A folder is a special content type in Plone because it can contain other content items. The way that those contained items will appear on the screen can be changed using the Display drop-down menu."
-msgstr "Una carpeta es un tipo de contenido especial en Plone, ya que puede contener otros elementos de contenido. La forma en que los elementos contenidos aparecerán en la pantalla se puede cambiar usando el menú desplegable Mostrar."
 
-#: ../basic/tour11.py:9
+#. Default: "Navigate to the folder called [MyFolder] that you created in a previous tutorial."
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "0_0_microstep_description"
+msgstr "Navegar a la carpeta llamada [MyFolder] que usted creo en la tutorÃ­a previa."
+
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "0_1_microstep_description"
+msgstr ""
+
+#. Default: "The contents tab"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "0_the-contents-tab_title"
+msgstr "La pestaÃ±a Contenidos"
+
+#. Default: "Click on the [Contents] tab."
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "1_0_microstep_description"
-msgstr "Haga clic [Mostrar] menú desplegable."
+msgstr "Haga clic en la pestaÃ±a [Contenidos]."
 
-#: ../basic/tour11.py:61
-msgid "3_3_microstep_description"
-msgstr "Haga clic al botón [Guardar] para finalizar."
-
-#: ../basic/tour11.py:72
-msgid "6_0_microstep_description"
-msgstr "En esta tutoría usted ha explorado algunas de las formas en la que una carpeta puede mostrar sus contenidos. En su propia carpeta, trate y cambie a 'vista miniatura' para subir muchas imágenes a una carpeta. Esta vista es usada para crear una simple galería de fotos."
-
-#: ../basic/tour11.py:57
-msgid "3_2_microstep_description"
-msgstr "Seleccionar [Mi Página] como la página por defecto para MiCarpeta."
-
-#: ../basic/tour11.py:24
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "1_1_microstep_description"
-msgstr "Seleccionar [Vista resumen]."
+msgstr ""
 
-#: ../basic/tour11.py:36
+#. Default: "The contents tab"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "1_the-contents-tab_title"
+msgstr "La pestaÃ±a Contenidos"
+
+#. Default: "Also notice the buttons along the bottom of the Contents view: Copy, Cut, Rename, Delete, and Change State. By using the checkboxes next to each content item you can apply any of these changes to those checked items."
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "2_0_microstep_description"
+msgstr "TambiÃ©n observe los botones a lo largo de final de la pÃ¡gina de la pestaÃ±a de Contenidos: Copiar, Cortar, Renombrar, Eliminar y Cambiar estado. Marcando las casillas prÃ³ximos a cada elemento de contenido usted puede aplicar cualquiera de esas operaciones a los que marco con las casillas de los elementos."
+
+#. Default: "To move to the next step use the button with the double arrow in the head of this popup."
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "2_1_microstep_description"
-msgstr "Seleccionar [Vista tabular]."
+msgstr "Para mover al prÃ³ximo paso use el botÃ³n con la doble flechas '>>' en el encabezado de esta ventana emergente."
 
-#: ../basic/tour11.py:47
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "2_2_microstep_description"
+msgstr ""
+
+#. Default: "Features of the contents tab"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "2_features-of-the-contents-tab_title"
+msgstr "CaracterÃ­sticas de la pestaÃ±a Contenidos"
+
+#. Default: "Position your mouse pointer over one of the items in the [Order column]. Notice that your pointerâ€™s shape changed."
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "3_0_microstep_description"
+msgstr "Coloque el curso de ratÃ³n sobre un de los elementos en la [Columna Ordenar]. Observe que la figura del cursor del ratÃ³n cambia."
+
+#. Default: "Click-and-drag the item to the top of the Contents listing. The item is now moved - you do not need to save the change in any way."
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "3_1_microstep_description"
-msgstr "Seleccionar [elemento de contenido como vista por defecto]."
+msgstr "Haga clic y suelte el elemento al tope de la lista de Contenidos. El elemento es movido - usted no necesita salvar los cambios."
 
-#: ../basic/tour11.py:55
-msgid "Select default page"
-msgstr "Seleccionar página por defecto"
+#. Default: "To move to the next step use the button with the double arrow in the head of this popup."
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "3_2_microstep_description"
+msgstr "Para mover al prÃ³ximo paso use el botÃ³n con la doble flechas '>>' en el encabezado de esta ventana emergente."
 
-#: ../basic/tour11.py:56
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "3_3_microstep_description"
+msgstr ""
+
+#. Default: "Reordering content"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "3_reordering-content_title"
+msgstr "Reordenar contenido"
+
+#. Default: "[Check the box] next to My Page in the contents listing."
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "4_0_microstep_description"
-msgstr "Hasta ahora hemos visto las diferentes maneras en que una carpeta en Plone puede mostrar su contenido. Sin embargo, en muchos casos puede que desee elegir un solo elemento, como una página para que actúe como la 'página de destino' de la carpeta. Esto es común en los casos en que la carpeta está destinada a ser una sub-sección de la página."
+msgstr "[Marque la casilla] prÃ³xima a la pÃ¡gina 'My Page' en la lista de contenidos"
 
-#: ../basic/tour11.py:33
-msgid "1_1_microstep_description"
-msgstr "Vista resumen"
+#. Default: "Click the [Copy] button at the bottom of the page."
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "4_1_microstep_description"
+msgstr "Haga clic en el botÃ³n [Copiar] al final de la pÃ¡gina."
 
-#: ../basic/tour11.py:44
-msgid "2_1_microstep_description"
-msgstr "Vista tabular"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "4_2_microstep_description"
+msgstr ""
 
-#: ../basic/tour11.py:45
-msgid "The Tabular view is similar to what you see in the Contents tab, except that you cannot perform administrative tasks such copy, cut, delete or reorder. The tabular view only displays the Title and Item Type to anonymous site visitors."
-msgstr "La vista Tabular es similar a como usted ve los elementos de contenidos en las pestaña 'Contenidos', excepto que usted no puede realizar labores administrativas como copiar, cortar, eliminar o reordenar. La vista Tabular solamente muestra el Titulo del tipo de elemento a los visitantes anónimos del sitio Web."
+#. Default: "Copy content"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "4_copy-content_title"
+msgstr "Copiar contenido"
 
-#: ../basic/tour11.py:34
-msgid "Up to this point MyFolder has been using the Standard view. Standard view lists each item in the order it happens to be in the folder. 1_1_microstep_description is similar except that each entry is separated by a horizontal line and a Read More... link is automatically generated. If an item has an attached thumbnail image (such as a News Item) the image will also appear in the 1_1_microstep_description."
-msgstr "Hasta este punto MiCarpeta ha estado utilizando la vista estándar. La Vista estándar listas de cada elemento en el orden que resulta ser en la carpeta. La vista Resumen \"es similar, excepto que cada entrada está separada por una línea horizontal y un enlace Leer más... se genera automáticamente. Si un elemento tiene una imagen en miniatura adjunta (tales como una noticia) en la imagen también aparecerá en la vista Resumen."
+#. Default: "Notice that a Paste button now appears. Click [Paste] to create a copy of My Page."
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "5_0_microstep_description"
+msgstr "Observe que una botÃ³n Pegar ahora aparece. Haga clic en el botÃ³n [Pegar] para crear una copia de la pÃ¡gina 'My Page'."
 
-#: ../basic/tour11.py:21
-msgid "1_use-summary-view_title"
-msgstr "Usar vista resumen"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "5_1_microstep_description"
+msgstr ""
 
-#: ../basic/tour11.py:15
-msgid "0_using-the-display-menu_title"
-msgstr "Usando el menú Mostrar"
+#. Default: "Paste content"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "5_paste-content_title"
+msgstr "Pegar contenido"
+
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "6_0_microstep_description"
+msgstr ""
+
+#. Default: "All done"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "6_all-done_title"
+msgstr "Â¡Todos los pasos hechos!"
+
+#. Default: "Using the Contents tab"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "amberjack_title"
+msgstr "Usando la pestaÃ±a Contenidos"
+

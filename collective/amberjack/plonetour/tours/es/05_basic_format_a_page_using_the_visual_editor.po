@@ -1,12 +1,12 @@
 # Spanish translations for collective.amberjack.plonetour package
-# Traducciones al Español del producto collective.amberjack.plonetour.
-# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2009.
+# Traducciones al Espaï¿½ol del producto collective.amberjack.plonetour.
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2009, 2010, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: collective.amberjack.plonetour\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
-"PO-Revision-Date: 2009-11-10 08:45-0400\n"
-"Last-Translator: Leonardo Caballero <leonardocaballero@gmail.com>\n"
+"POT-Creation-Date: 2009-11-10 08:45-0400\n"
+"PO-Revision-Date: 2011-06-01 23:29-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-1\n"
@@ -15,68 +15,146 @@ msgstr ""
 "Language-code: es\n"
 "Language-name: Spanish\n"
 "Preferred-encodings: latin1 utf-8\n"
-"Domain: collective.amberjack.plonetour\n"
+"Domain: 05_basic_format_a_page_using_the_visual_editor\n"
 "X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
-#: ../basic/tour5.py:39
-msgid "3_add-and-format-page-content_title"
-msgstr "Agregar y formatear contenido de página"
 
-#: ../basic/tour5.py:28
-msgid "2_0_microstep_description"
-msgstr "Haga clic en la pestaña [Editar] para iniciar la edición."
+#. Default: "Navigate to the folder called [MyFolder] that you created in a previous tutorial."
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "0_0_microstep_description"
+msgstr "Navegue hacia la carpeta llamda [MyFolder] que usted crei en el previo tutorial."
 
-#: ../basic/tour5.py:26
-msgid "2_edit-my-page_title"
-msgstr "Editar Mi Página'"
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "0_1_microstep_description"
+msgstr ""
 
-#: ../basic/tour5.py:14
-msgid "1_edit-an-existing-page_title"
-msgstr "Editar una página existente"
-
-#: ../basic/tour5.py:7
+#. Default: "Format a page using the visual editor"
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
 msgid "0_format-a-page-using-the-visual-editor_title"
-msgstr "De formato a una página usando el editor visual"
+msgstr "De formato a una pï¿½gina usando el editor visual"
 
-#: ../basic/tour5.py:8
-msgid "In this tutorial, you will revisit a page that you already created and learn how to format content on the page."
-msgstr "En esta tutoría, usted visitará de nuevo una página que usted ya creo y aprenderá a como dar formato al contenido en la página."
-
-#: ../basic/tour5.py:16
+#. Default: "Navigate to [My Page] that you created from the previous tutorial."
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
 msgid "1_0_microstep_description"
-msgstr "Navegar hacia [Mi Página] que usted creo en el paso anterior."
+msgstr "Navegar hacia la pï¿½gina [My Page] que usted creo en el paso anterior."
 
-#: ../basic/tour5.py:49
-msgid "Next, highlight the phrase 'lazy dog' with your mouse pointer and select the [Italics icon] from the formatting toolbar."
-msgstr "Lo próximo, es resaltar la frase 'perezoso perro' con el puntero de su ratón y seleccione el [Icono Itálica] desde la barra de herramientas de formato"
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "1_1_microstep_description"
+msgstr ""
 
-#: ../basic/tour5.py:45
-msgid "Now highlight the phrase 'brown fox' with your mouse pointer and select the [Bold icon] from the formatting toolbar."
-msgstr "Ahora resalte la frase 'zorro marrón' con el puntero de su ratón y seleccione el icono [Negrita] en la barra de herramientas de formato."
+#. Default: "Edit an existing page"
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "1_edit-an-existing-page_title"
+msgstr "Edite una pï¿½gina existente"
 
-#: ../basic/tour5.py:57
-msgid "Now type the word 'Introduction' above your sentence. Highlight 'Introduction' and click the text formatting [drop-down menu] and select Subheading. Notice that the text you selected appears larger and bolder than Normal Paragraph text."
-msgstr "Ahora introduzca la palabra 'Introducción' por encima de su oración. Resalte la palabra 'Introducción' y haga clic en el [menú desplegable] de estilos de formatos de texto y seleccione Subheading. Observe que el texto que selecciono aparece de tamaño grande y en negritas a diferencia del estilo de formato texto de Párrafo Normal."
+#. Default: "Click the [Edit] tab to begin editing."
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "2_0_microstep_description"
+msgstr "Haga clic en la pestaï¿½a [Editar] para iniciar la ediciï¿½n."
 
-#: ../basic/tour5.py:44
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "2_1_microstep_description"
+msgstr ""
+
+#. Default: "Edit my page"
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "2_edit-my-page_title"
+msgstr "Editar mi pï¿½gina"
+
+#. Default: "Type the following text into the [Body Text] field: 'The quick brown fox jumps over the lazy dog.'"
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
 msgid "3_0_microstep_description"
-msgstr "El rápido zorro marrón salta sobre el perezoso perro."
+msgstr "Transcriba el siguiente texto dentro del campo [Cuerpo del texto]: 'El rï¿½pido zorro marrï¿½n salta sobre el perezoso perro.'"
 
-#: ../basic/tour5.py:76
-msgid "This tutorial has been a brief introduction into the various ways you can format a page. Subsequent tutorials will teach you how to insert hyperlinks and images."
-msgstr "Esta tutoría tiene una corta introducción dentro de las diversas formas en como usted puede formatear una página. Subsecuentes tutorías les enseñarán a usted como insertar enlaces y imágenes."
+#. Default: "and select Subheading. Notice that the text you selected appears larger and bolder than Normal Paragraph text."
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "3_10_microstep_description"
+msgstr "y haga clic en el [menï¿½ desplegable] de estilos de formatos de texto y seleccione Subtï¿½tulo. Observe que el texto que selecciono aparece de tamaï¿½o grande y en negritas a diferencia del estilo de formato texto de Pï¿½rrafo Normal."
 
-#: ../basic/tour5.py:53
-msgid "To change text alignment, highlight the entire sentence and select any of the three [text alignment icons] (left, center, or right)."
-msgstr "Para cambiar la alineación del texto, resalte por completo la frase y seleccione cualquier de los tres [iconos de alineación de texto] (izquierda, centrado o derecha). "
-
-#: ../basic/tour5.py:61
+#. Default: "Type more text of your own choosing and experiment with the other text styles in the formatting menu."
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
 msgid "3_11_microstep_description"
-msgstr "Transcriba todo el texto que usted considere y experimente con los otros estilos del texto en menú de formatos."
+msgstr "Transcriba todo el texto que usted considere y experimente con los otros estilos del texto en menï¿½ de formatos."
 
-#: ../basic/tour5.py:41
-msgid "Type the following text into the [Body Text] field: '3_0_microstep_description'"
-msgstr "Transcriba el siguiente texto dentro del campo [Texto de cuerpo] 'Este rápido zorro marrón salta sobre el perezoso perro'."
+#. Default: "click on the [screen icon]"
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "3_12_microstep_description"
+msgstr "haga clic en el [icono pantalla]"
 
-#: ../basic/tour5.py:65
+#. Default: "you can return to the previous view simply clicking again on [screen icon]"
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "3_13_microstep_description"
+msgstr "usted puede volver a la vista previa simplemente haciendo clic de nuevo en el [icono pantalla]"
+
+#. Default: "When you are all done, click the [Save] button at the bottom of the page."
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
 msgid "3_14_microstep_description"
-msgstr "Cuando usted termine todo, haga clic en el botón [Guardar] ubicado al final de la página."
+msgstr "Cuando usted termine todo, haga clic en el botï¿½n [Guardar] ubicado al final de la pï¿½gina."
+
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "3_15_microstep_description"
+msgstr ""
+
+#. Default: "Now highlight the phrase 'brown fox' with your mouse pointer"
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "3_1_microstep_description"
+msgstr "Ahora resalte la frase 'zorro marrï¿½n' con el puntero de su ratï¿½n"
+
+#. Default: "select the [Bold icon] from the formatting toolbar."
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "3_2_microstep_description"
+msgstr "seleccione el icono [Negrita] en la barra de herramientas de formato."
+
+#. Default: "Next, highlight the phrase 'lazy dog' with your mouse pointer"
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "3_3_microstep_description"
+msgstr "Lo prï¿½ximo, es resaltar la frase 'perezoso perro' con el puntero de su ratï¿½n"
+
+#. Default: "select the [Italics icon] from the formatting toolbar."
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "3_4_microstep_description"
+msgstr "seleccione el [Icono Itï¿½lica] desde la barra de herramientas de formato."
+
+#. Default: "To change text alignment, highlight the entire sentence"
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "3_5_microstep_description"
+msgstr "Para cambiar la alineaciï¿½n del texto, resalte por completo la frase"
+
+#. Default: "and select any of the three [text alignment icons] (left, center, or right)."
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "3_6_microstep_description"
+msgstr "seleccione cualquier de los tres [iconos de alineaciï¿½n de texto] (izquierda, centrado o derecha)."
+
+#. Default: "Now type the word 'Introduction' above your sentence."
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "3_7_microstep_description"
+msgstr "Ahora introduzca la palabra 'Introducciï¿½n' por encima de su oraciï¿½n."
+
+#. Default: "Highlight 'Introduction'"
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "3_8_microstep_description"
+msgstr "Resalte la palabra 'Introducciï¿½n'"
+
+#. Default: "click the text formatting [drop-down menu]"
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "3_9_microstep_description"
+msgstr "haga clic en el [menï¿½ desplegable] de estilos de formatos de texto"
+
+#. Default: "Add and format page content"
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "3_add-and-format-page-content_title"
+msgstr "agregelo y aplique formato al contenido de la pï¿½gina"
+
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "4_0_microstep_description"
+msgstr ""
+
+#. Default: "All done"
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "4_all-done_title"
+msgstr "ï¿½Todos los pasos hechos!"
+
+#. Default: "Format a page using the visual editor"
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "amberjack_title"
+msgstr "Aplicar formato a una pï¿½gina usando un editor visual"
+

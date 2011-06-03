@@ -1,12 +1,12 @@
 # Spanish translations for collective.amberjack.plonetour package
-# Traducciones al Español del producto collective.amberjack.plonetour.
-# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2009.
+# Traducciones al Espaï¿½ol del producto collective.amberjack.plonetour.
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2009, 2010, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: collective.amberjack.plonetour\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
-"PO-Revision-Date: 2009-11-10 08:45-0400\n"
-"Last-Translator: Leonardo Caballero <leonardocaballero@gmail.com>\n"
+"POT-Creation-Date: 2009-11-10 08:45-0400\n"
+"PO-Revision-Date: 2011-06-01 23:29-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-1\n"
@@ -15,52 +15,82 @@ msgstr ""
 "Language-code: es\n"
 "Language-name: Spanish\n"
 "Preferred-encodings: latin1 utf-8\n"
-"Domain: collective.amberjack.plonetour\n"
+"Domain: 08_basic_upload_an_image\n"
 "X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
-#: ../basic/tour8.py:45
-msgid "3_1_microstep_description"
-msgstr "Una ventana emergente aparecerá. Haga clic en el botón [Navegar] para la ubicar una imagen que le gustaría insertar. Usted debería tener al menos una imagen subida en su carpeta llamada MiCarpeta desde la tutoría anterior."
 
-#: ../basic/tour8.py:57
-msgid "Choose [Left] alignment and a [Size] from the size menu. You can leave the [Text Equivalent] field as-is, or change the text if you wish. This is the 'alt' text for the image which aids in site accessibility, search, and indexing."
-msgstr "Elija la alineación [Izquierda] y un [Tamaño] desde el menú tamaño. Usted puede dejar el campo [Texto Equivalente] como está, o cambiar el texto si usted lo desea. Este es el texto 'alternativo' para la imagen la cual ayuda en la accesibilidad del sitio, para búsqueda y indexación."
+#. Default: "Navigate to the folder called [MyFolder] that you created in a previous tutorial."
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
+msgid "0_0_microstep_description"
+msgstr "Navegar a la carpeta llamada [MyFolder] que usted creo en la tutorï¿½a previa."
 
-#: ../basic/tour8.py:61
-msgid "Click [OK] to complete the image insert."
-msgstr "Haga clic [OK] para completar la inserción de imagen."
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
+msgid "0_1_microstep_description"
+msgstr ""
 
-#: ../basic/tour8.py:27
-msgid "Edit 'My Page'"
-msgstr "Editar 'Mi Página'"
+#. Default: "Add a new image to myfolder"
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
+msgid "0_add-a-new-image-to-myfolder_title"
+msgstr "Agregar una nueva imagen a la carpeta myfolder"
 
-#: ../basic/tour8.py:9
-msgid "In this tutorial, you will revisit a page that you already created and learn how insert an image into that page."
-msgstr "En esta tutoría, usted volverá a visitar una página que usted ya creo y aprenderá a insertar una imagen dentro de esa página."
+#. Default: "Click the [Add New...] drop-down menu and select Image from the menu."
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
+msgid "1_0_microstep_description"
+msgstr "Haga clic al menï¿½ desplegable [Agregar elemento] y seleccione la opciï¿½n Imagen desde el menï¿½."
 
-#: ../basic/tour8.py:39
-msgid "3_insert-an-image_title"
-msgstr "Insertar una Imagen"
+#. Default: "Select [Image] from the menu."
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
+msgid "1_1_microstep_description"
+msgstr "Seleccione la opciï¿½n [Imagen] desde el menï¿½."
 
-#: ../basic/tour8.py:8
-msgid "0_insert-image-on-a-page_title"
-msgstr "Insertar una imagen o una página"
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
+msgid "1_2_microstep_description"
+msgstr ""
 
-#: ../basic/tour8.py:53
-msgid "3_3_microstep_description"
-msgstr "Observe en la columna a mano derecha de la ventana emergente, que una vista preliminar de la imagen que usted selecciono aparece."
+#. Default: "Add an image"
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
+msgid "1_add-an-image_title"
+msgstr "Agregar una imagen"
 
-#: ../basic/tour8.py:41
+#. Default: "Provide a [Title] for your Image: My Photo."
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
+msgid "2_0_microstep_description"
+msgstr "Provea una [Tï¿½tulo] para su Imagen: My Photo."
+
+#. Default: "Provide a [Description] for your Image."
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
+msgid "2_1_microstep_description"
+msgstr "Provea una [Descripciï¿½n] para su Imagen."
+
+#. Default: "Click the [Browse] button and find the image file you want to upload on your computer's filesystem."
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
+msgid "2_2_microstep_description"
+msgstr "Haga clic en el botï¿½n [Examinar] y busque el archivo de imagen que usted quiere carga en su sistema de archivo de su computador."
+
+#. Default: "Click [Save] to complete the upload."
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
+msgid "2_3_microstep_description"
+msgstr "Haga clic en el botï¿½n [Guardar] para completar la subida de la imagen."
+
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
+msgid "2_4_microstep_description"
+msgstr ""
+
+#. Default: "Fill out the fields"
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
+msgid "2_fill-out-the-fields_title"
+msgstr "Rellene los campos"
+
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
 msgid "3_0_microstep_description"
-msgstr "Ahora haga clic en el icono [Insertar Imagen] en la barra de herramientas del editor (la apariencia de este icono es como un árbol)."
+msgstr ""
 
-#: ../basic/tour8.py:15
-msgid "Open 'My Page'"
-msgstr "Abrir 'Mi Página'"
+#. Default: "All done"
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
+msgid "3_all-done_title"
+msgstr "ï¿½Todos los pasos hechos!"
 
-#: ../basic/tour8.py:49
-msgid "3_2_microstep_description"
-msgstr "Seleccionar la imagen [haciendo clic en el botón de radio] próximo a la misma."
+#. Default: "Upload an image"
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
+msgid "amberjack_title"
+msgstr "Subir una imagen"
 
-#: ../basic/tour8.py:77
-msgid "You have now successfully inserted an image onto a page. You can edit the page again and insert more images, move existing images around, or change their alignment."
-msgstr "Usted tiene ahora insertada exitosamente una imagen dentro de una página. Usted puede editar la página a través e insertar más imágenes, mover las imágenes existentes o cambiar sus alineaciones."

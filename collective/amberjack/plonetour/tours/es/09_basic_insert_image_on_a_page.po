@@ -1,12 +1,12 @@
 # Spanish translations for collective.amberjack.plonetour package
-# Traducciones al Español del producto collective.amberjack.plonetour.
-# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2009.
+# Traducciones al Espaï¿½ol del producto collective.amberjack.plonetour.
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2009, 2010, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: collective.amberjack.plonetour\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
-"PO-Revision-Date: 2009-11-10 08:45-0400\n"
-"Last-Translator: Leonardo Caballero <leonardocaballero@gmail.com>\n"
+"POT-Creation-Date: 2009-11-10 08:45-0400\n"
+"PO-Revision-Date: 2011-06-01 23:30-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-1\n"
@@ -17,90 +17,105 @@ msgstr ""
 "Preferred-encodings: latin1 utf-8\n"
 "Domain: collective.amberjack.plonetour\n"
 "X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
-#: ../basic/tour9.py:8
-msgid "A File in Plone is any binary file such as a PDF, DOC, XLS, PPT, RTF, or other file type that you wish to upload to your site. You can also link to a file to allow your site visitors the chance to download the file."
-msgstr "Un archivo en Plone es cualquier fichero binario como un PDF, DOC, XLS, PPT, RTF o otros tipos de fichero que usted quiera subir a su sitio Web. Usted puede también enlazar a un archivo permitiendo así a los visitantes de su sitio descargar el mismo."
+"Domain: 09_basic_insert_image_on_a_page\n"
 
-#: ../basic/tour9.py:41
-msgid "A description for this file"
-msgstr "Una descripción para este archivo"
+#. Default: "Navigate to the folder called [MyFolder] that you created in a previous tutorial."
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "0_0_microstep_description"
+msgstr "Navegar a la carpeta llamada [MyFolder] que usted creo en la tutorï¿½a previa."
 
-#: ../basic/tour9.py:14
-msgid "1_add-a-new-file-to-myfolder_title"
-msgstr "Agregar un nuevo Archivo a MiCarpeta"
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "0_1_microstep_description"
+msgstr ""
 
-#: ../basic/tour9.py:32
-msgid "2_choose-a-file_title"
-msgstr "Elegir un archivo"
+#. Default: "Insert image on a page"
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "0_insert-image-on-a-page_title"
+msgstr "Insetar una imagen en una pï¿½gina"
 
-#: ../basic/tour9.py:16
+#. Default: "Navigate to [My Page] that you created from the previous tutorial."
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
 msgid "1_0_microstep_description"
-msgstr "Haga clic en el menú desplegable [Agregar nuevo...] y seleccione el elemento Archivo desde el menú."
+msgstr "Navegar a la pï¿½gina llamada [My Page] que usted creo en la tutorï¿½a previa."
 
-#: ../basic/tour9.py:42
-msgid "2_2_microstep_description"
-msgstr "Haga clic en el botón [Navegar]."
-
-#: ../basic/tour9.py:74
-msgid "2_0_microstep_description"
-msgstr "Haga clic en la pestaña [Editar]."
-
-#: ../basic/tour9.py:7
-msgid "0_create-a-file_title"
-msgstr "Crear un Archivo"
-
-#: ../basic/tour9.py:60
-msgid "3_link-to-the-file_title"
-msgstr "Enlace a un Archivo"
-
-#: ../basic/tour9.py:62
-msgid "1_0_microstep_description"
-msgstr "Navegar hacia [Mi Página]"
-
-#: ../basic/tour9.py:90
-msgid "Now highlight the link text and click the [Internal Link] icon in the editor toolbar (it looks like a piece of chain link)."
-msgstr "Ahora resalte el texto con el puntero de su ratón y haga clic en la barra de herramientas en el icono [Enlace Interno], (la apariencia de este icono es como un enlace de pequeño trozo de la cadena)"
-
-#: ../basic/tour9.py:38
-msgid "2_1_microstep_description"
-msgstr "Proveer una [Descripción]. La descripción aparecerá en las búsquedas del sitio y en la lista de resúmenes de archivos en su sitio Plone."
-
-#: ../basic/tour9.py:34
-msgid "Provide a [Title] (i.e. \"My File.\")"
-msgstr "Proveer un [Título] (ej. \"Mi Archivo.\")"
-
-#: ../basic/tour9.py:20
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
 msgid "1_1_microstep_description"
-msgstr "Seleccionar [Archivo] desde el menú."
+msgstr ""
 
-#: ../basic/tour9.py:46
-msgid "2_3_microstep_description"
-msgstr "Seleccionar un archivo desde el escritorio de su sistema operativo."
+#. Default: "Open my page"
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "1_open-my-page_title"
+msgstr "Abra la pï¿½gina My Page"
 
-#: ../basic/tour9.py:98
-msgid "5_4_microstep_description"
-msgstr "Seleccionar el archivo [haciendo clic en el botón de radio] próximo a el mismo."
+#. Default: "Click the [Edit] tab to begin editing."
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "2_0_microstep_description"
+msgstr "Haga clic en la pestaï¿½a [Editar] para iniciar la ediciï¿½n"
 
-#: ../basic/tour9.py:86
-msgid "5_0_microstep_description"
-msgstr "Introduzca algún texto de enlace en el campo del [Cuerpo del texto] de la página (ej. Descargar este reporte)."
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "2_1_microstep_description"
+msgstr ""
 
-#: ../basic/tour9.py:121
+#. Default: "Edit my page"
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "2_edit-my-page_title"
+msgstr "Editar la pï¿½gina"
+
+#. Default: "Now click the [Insert Image] icon in the editor toolbar (it looks like a tree)."
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "3_0_microstep_description"
+msgstr "Ahora haga clic en el icono [Insertar una Imagen] de la barra de herramientas del editor, (la apariencia de este icono es como ï¿½rbol)."
+
+#. Default: "A pop-up window should appear. [Browse] to the location of an image you would like to insert. You should have at least one image already in MyFolder from a previous tutorial."
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "3_1_microstep_description"
+msgstr "Una ventana emergente deberï¿½a aparecer. Haga clic en el botï¿½n [Examinar] para ubicar imagen que le gustarï¿½a insertar. Usted podrï¿½a tener al menos una imagen lista en la carpeta MyFolder desde la tutorï¿½a previa."
+
+#. Default: "Select the image by [clicking the radio button] next to it."
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "3_2_microstep_description"
+msgstr "Seleccione la imagen [haciendo clic en el botï¿½n de selecciï¿½n simple] prï¿½ximo a la imagen."
+
+#. Default: "Notice in the right-hand column of the pop-up window that a preview of the image you have selected appears."
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "3_3_microstep_description"
+msgstr "Observe que en la columna a mano derecha de la ventana emergente hay una visualizaciï¿½n previa de la imagen que usted tiene seleccionada."
+
+#. Default: "Choose [Left] alignment and a [Dimension] from the size menu. You can leave the [Image description] field as-is, or change the text if you wish. This is the 'alt' text for the image which aids in site accessibility, search, and indexing."
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "3_4_microstep_description"
+msgstr "Seleccione la alineaciï¿½n [Izquierda] y la [Dimensiï¿½n] de texto desde el menï¿½ de tamaï¿½o. Usted puede dejar el campo de [Descripciï¿½n de Imagen] como tal, o cambiar el texto si usted lo desea. Ese es el texto colocado en el atributo 'alt' HTML para la imï¿½genes el cual hace mï¿½s accesible el sitio web para personas con alguna limitaciones fï¿½sica, como para bï¿½squedas, y indexaciï¿½n."
+
+#. Default: "Click [Insert] to complete the image insert."
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "3_5_microstep_description"
+msgstr "Haga clic en [Insertar] para completar la inserciï¿½n de la imagen."
+
+#. Default: "Click [Save] to finish."
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "3_6_microstep_description"
+msgstr "Haga clic en el botï¿½n [Guardar] para finalizar."
+
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "3_7_microstep_description"
+msgstr ""
+
+#. Default: "Insert an image"
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "3_insert-an-image_title"
+msgstr "Insertar una imagen"
+
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "4_0_microstep_description"
+msgstr ""
+
+#. Default: "All done"
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "4_all-done_title"
+msgstr "ï¿½Todos los pasos hechos!"
+
+#. Default: "Insert image on a page"
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
 msgid "amberjack_title"
-msgstr "Suba y enlace a un archivo"
+msgstr "Insertar una imagen en una pï¿½gina"
 
-#: ../basic/tour9.py:94
-msgid "5_3_microstep_description"
-msgstr "Use la [ventana emergente] para navegar hacia la ubicación de el archivo que acaba de subir."
-
-#: ../basic/tour9.py:85
-msgid "When linking to a file, you should indicate that the link will begin the download of a file and you should indicate the file type and size in the link text as well. For example you might say: Download this report [PDF 1.2 Mb]."
-msgstr "Cuando esta enlazando a un archivo, usted podría indicar el enlace que iniciará la descarga de un archivo y usted podría indicar el tipo de archivo y el peso del mismo en el texto de enlace. Por ejemplo usted podría decir: Descargar este reporte [Formato PDF, Peso 1.2 Mb]."
-
-#: ../basic/tour9.py:61
-msgid "You now have a file on your Plone website. You should now create a link to the file from a page to allow a site visitor to download the file. Otherwise, a site visitor would have to know the web address for the file or happen to search for it."
-msgstr "Usted ahora tiene un archivo en sitio Plone. Usted debería ahora crear un enlace al archivo desde una página, que le permita a un visitante al sitio descargar el archivo. Otra forma, es que el visitante del sitio debería saber la dirección Web del archivo o debe hacer una busqueda del archivo."
-
-#: ../basic/tour9.py:117
-msgid "You now have a linked file on your Plone website. Try clicking the link to see what the download process looks like. Note that the browser settings of each site visitor will determine whether the file opens in an application or if the Save As dialog box appears. You cannot control this behavior from within Plone."
-msgstr "Usted tiene ahora un archivo enlazado en su sitio Web Plone. Trate haciendo clic al enlace el cual mostrará el proceso de descarga. Observe que las configuraciones del navegador de cada visitante al sitio determinará como se abrirán los archivos en un aplicación o si el dialogo 'Guardar como' aparezca. Usted no controla este comportamiento desde Plone."
