@@ -4,6 +4,7 @@ Changelog
 1.1 (2010-11-05)
 ----------------
 
+- updated Spanish translation file [macagua]
 - re-added the tours for the admin [mirco]
 - changed some xpath selector [mirco]
 - added condition "doitmanually" [mirco]
