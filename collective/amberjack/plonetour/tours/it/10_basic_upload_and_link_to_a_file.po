@@ -92,3 +92,7 @@ msgstr "Adesso hai due copie della stessa pagina nella tua cartella. <br /> Puoi
 #: ../basic/tour10.py:55
 msgid "4_0_microstep_description"
 msgstr "[Seleziona] vicino alla pagina 'My Page' nella lista dei contenuti."
+
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "amberjack_title"
+msgstr "Inserisci e crea un collegamento ad un File"

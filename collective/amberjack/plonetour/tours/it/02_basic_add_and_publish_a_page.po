@@ -82,7 +82,7 @@ msgstr "Compila il campo [Descrizione]: [Questa è la mia prima pagina in Plone.
 #. Default: "Fill out the fields"
 #: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
 msgid "2_fill-out-the-fields_title"
-msgstr ""
+msgstr "Ora che hai selezionato il tipo di contenuto Pagina, inserisci alcune informazioni descrittive su di esso."
 
 #. Default: "Click the [State] drop-down menu."
 #: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
@@ -114,10 +114,10 @@ msgstr "Naviga nella cartella [MyFolder] che hai creato nel corso precedente."
 #. Default: "All done"
 #: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
 msgid "4_all-done_title"
-msgstr ""
+msgstr "Ora hai pubblicato una pagina nella tua cartella"
 
 #. Default: "Add and publish a Page"
 #: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
 msgid "amberjack_title"
-msgstr ""
+msgstr "Aggiungi e pubblica una Pagina"
 

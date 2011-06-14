@@ -80,3 +80,7 @@ msgstr "Scrivi il testo nel campo [Testo del documento]: 'Cantami o diva del pel
 #: ../basic/tour5.py:65
 msgid "3_14_microstep_description"
 msgstr "Quando hai finito, clicca sul bottone [Conferma le modifiche] in fondo alla pagina."
+
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "amberjack_title"
+msgstr "Aggiungi e imposta la formattazione del contenuto di una pagina"

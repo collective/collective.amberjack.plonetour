@@ -142,12 +142,12 @@ msgstr "Compila il campo [Titolo]: [My Event]."
 #. Default: "All done"
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "4_all-done_title"
-msgstr ""
+msgstr "Ben fatto. Hai pubblicato un nuovo evento nella tua cartella."
 
 #. Default: "Add and publish an Event"
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "amberjack_title"
-msgstr ""
+msgstr "Aggiungi e pubblica un Evento"
 
 #~ msgid ""
 #~ "Events are useful for posting announcements about upcoming events. Events "

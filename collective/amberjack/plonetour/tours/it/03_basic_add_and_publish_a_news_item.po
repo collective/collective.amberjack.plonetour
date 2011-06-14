@@ -123,12 +123,12 @@ msgstr "Compila il campo [Titolo]: [My News]."
 #. Default: "All done"
 #: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
 msgid "4_all-done_title"
-msgstr ""
+msgstr "Ottimo lavoro. Ora hai una notizia pubblicata nella tua cartella."
 
 #. Default: "Add and publish a News Item"
 #: /home/zope/virtualenv/i18ndude/tours/03_basic_add_and_publish_a_news_item.cfg
 msgid "amberjack_title"
-msgstr ""
+msgstr "Aggiungi e pubblica una Notizia."
 
 #~ msgid ""
 #~ "In order for anonymous site visitors to see your news item you must "
