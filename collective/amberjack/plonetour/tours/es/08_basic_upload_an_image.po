@@ -1,49 +1,58 @@
 # Spanish translations for collective.amberjack.plonetour package
-# Traducciones al Espa�ol del producto collective.amberjack.plonetour.
+# Traducciones al Español del producto collective.amberjack.plonetour.
 # Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2009, 2010, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: collective.amberjack.plonetour\n"
-"POT-Creation-Date: 2009-11-10 08:45-0400\n"
-"PO-Revision-Date: 2011-06-01 23:29-0400\n"
+"POT-Creation-Date: 2010-10-30 09:57+0000\n"
+"PO-Revision-Date: 2011-06-16 16:54-0400\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 "Language-code: es\n"
 "Language-name: Spanish\n"
-"Preferred-encodings: latin1 utf-8\n"
+"Preferred-Encodings: utf-8 latin1\n"
 "Domain: 08_basic_upload_an_image\n"
 "X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
 
 #. Default: "Navigate to the folder called [MyFolder] that you created in a previous tutorial."
 #: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
 msgid "0_0_microstep_description"
-msgstr "Navegar a la carpeta llamada [MyFolder] que usted creo en la tutor�a previa."
+msgstr "Navegar a la carpeta llamada [MyFolder] que usted creo en la tutoría previa."
 
 #: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
 msgid "0_1_microstep_description"
 msgstr ""
 
+#. Default: "<p>Before you can place an image on a page in Plone, you must first upload your image to the site. Be sure that you have properly prepared your image for web publishing. In short, this means that you should compress your image file, use only GIF, JPG, or PNG file formats and crop your image to fit well on the page, and resize it to reduce the upload time if needed.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
+msgid "0_add-a-new-image-to-myfolder_text"
+msgstr "<p>Antes de colocar una imagen en una página en Plone, primero debe cargar la imagen en el sitio. Asegúrese de que ha preparado su imagen para la publicación Web. En pocas palabras, esto significa que usted debe comprimir el archivo de imagen, utilice solamente formatos como GIF, JPG o PNG y recortar la imagen para encajar bien en la página, y cambiar su tamaño para reducir el tiempo de carga si es necesario.</p>"
+
 #. Default: "Add a new image to myfolder"
 #: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
 msgid "0_add-a-new-image-to-myfolder_title"
-msgstr "Agregar una nueva imagen a la carpeta myfolder"
+msgstr "Agregar una nueva imagen a la carpeta MyFolder"
 
 #. Default: "Click the [Add New...] drop-down menu and select Image from the menu."
 #: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
 msgid "1_0_microstep_description"
-msgstr "Haga clic al men� desplegable [Agregar elemento] y seleccione la opci�n Imagen desde el men�."
+msgstr "Haga clic al menú desplegable [Agregar elemento] y seleccione la opción Imagen desde el menú."
 
 #. Default: "Select [Image] from the menu."
 #: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
 msgid "1_1_microstep_description"
-msgstr "Seleccione la opci�n [Imagen] desde el men�."
+msgstr "Seleccione la opción [Imagen] desde el menú."
 
 #: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
 msgid "1_2_microstep_description"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
+msgid "1_add-an-image_text"
 msgstr ""
 
 #. Default: "Add an image"
@@ -54,25 +63,29 @@ msgstr "Agregar una imagen"
 #. Default: "Provide a [Title] for your Image: My Photo."
 #: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
 msgid "2_0_microstep_description"
-msgstr "Provea una [T�tulo] para su Imagen: My Photo."
+msgstr "Provea una [Título] para su Imagen: My Photo."
 
 #. Default: "Provide a [Description] for your Image."
 #: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
 msgid "2_1_microstep_description"
-msgstr "Provea una [Descripci�n] para su Imagen."
+msgstr "Provea una [Descripción] para su Imagen."
 
 #. Default: "Click the [Browse] button and find the image file you want to upload on your computer's filesystem."
 #: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
 msgid "2_2_microstep_description"
-msgstr "Haga clic en el bot�n [Examinar] y busque el archivo de imagen que usted quiere carga en su sistema de archivo de su computador."
+msgstr "Haga clic en el botón [Examinar] y busque el archivo de imagen que usted quiere carga en su sistema de archivo de su computador."
 
 #. Default: "Click [Save] to complete the upload."
 #: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
 msgid "2_3_microstep_description"
-msgstr "Haga clic en el bot�n [Guardar] para completar la subida de la imagen."
+msgstr "Haga clic en el botón [Guardar] para completar la subida de la imagen."
 
 #: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
 msgid "2_4_microstep_description"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
+msgid "2_fill-out-the-fields_text"
 msgstr ""
 
 #. Default: "Fill out the fields"
@@ -84,10 +97,15 @@ msgstr "Rellene los campos"
 msgid "3_0_microstep_description"
 msgstr ""
 
+#. Default: "<p>Images have three fields you need to fill out. Title, Description, and Browse to choose the file itself.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
+msgid "3_all-done_text"
+msgstr "<p>Las imágenes tienen tres campos que deberá llenar. Título, descripción, y en Examinar para seleccionar el archivo en sí.</p>"
+
 #. Default: "All done"
 #: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg
 msgid "3_all-done_title"
-msgstr "�Todos los pasos hechos!"
+msgstr "¡Todos los pasos hechos!"
 
 #. Default: "Upload an image"
 #: /home/zope/virtualenv/i18ndude/tours/08_basic_upload_an_image.cfg

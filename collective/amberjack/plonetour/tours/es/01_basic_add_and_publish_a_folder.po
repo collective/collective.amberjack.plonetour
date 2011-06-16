@@ -1,37 +1,37 @@
 # Spanish translations for collective.amberjack.plonetour package
-# Traducciones al Espa�ol del producto collective.amberjack.plonetour.
+# Traducciones al Español del producto collective.amberjack.plonetour.
 # Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2009, 2010, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: collective.amberjack.plonetour\n"
-"POT-Creation-Date: 2009-11-10 08:45-0400\n"
-"PO-Revision-Date: 2011-06-01 23:30-0400\n"
+"POT-Creation-Date: 2010-10-30 09:43+0000\n"
+"PO-Revision-Date: 2011-06-16 16:53-0400\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 "Language-code: es\n"
 "Language-name: Spanish\n"
-"Preferred-encodings: latin1 utf-8\n"
+"Preferred-Encodings: utf-8 latin1\n"
 "Domain: 01_basic_add_and_publish_a_folder\n"
 "X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
 
 #. Default: "If you don't want to perform the indicated step yourself, just click the '>>' link and it will be automatically done by your browser."
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "0_0_microstep_description"
-msgstr "Si usted no desea realizar el paso indicado a usted mismo, haz clic en el enlace '>>' y se dar� por hecho o realiza autom�ticamente por su navegador."
+msgstr "Si usted no desea realizar el paso indicado a usted mismo, haz clic en el enlace '>>' y se dará por hecho o realiza automáticamente por su navegador."
 
 #. Default: "Click the [Add new...] drop-down menu."
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "0_1_microstep_description"
-msgstr "Haga clic al men� desplegable [Agregar elemento]."
+msgstr "Haga clic al menú desplegable [Agregar elemento]."
 
 #. Default: "Select [Folder] from the menu."
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "0_2_microstep_description"
-msgstr "Seleccionar [Carpeta] desde el men�."
+msgstr "Seleccionar [Carpeta] desde el menú."
 
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "0_3_microstep_description"
@@ -50,12 +50,12 @@ msgstr "En el campo [Titulo], tipo 'MyFolder'."
 #. Default: "In the [Description] field, type 'This folder will be used to contain sample content as I work through each tutorial.'."
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "1_1_microstep_description"
-msgstr "En la campo [Descripci�n], transcriba 'Esta carpeta ser� usada para contener ejemplos de contenidos que yo trabajo a trav�s de cada tutor�a.'."
+msgstr "En la campo [Descripción], transcriba 'Esta carpeta será usada para contener ejemplos de contenidos que yo trabajo a través de cada tutoría.'."
 
 #. Default: "Now click the [Save] button at the bottom of the page to save your new folder."
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "1_2_microstep_description"
-msgstr "Ahora haga clic en el bot�n [Guardar] al final de la p�gina para guardar su nueva carpeta."
+msgstr "Ahora haga clic en el botón [Guardar] al final de la página para guardar su nueva carpeta."
 
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "1_3_microstep_description"
@@ -69,16 +69,21 @@ msgstr "Rellene los campos"
 #. Default: "Click the [State] drop-down menu."
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "2_0_microstep_description"
-msgstr "Haga clic al men� desplegable [Estado]."
+msgstr "Haga clic al menú desplegable [Estado]."
 
 #. Default: "Select [Publish] from the menu."
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "2_1_microstep_description"
-msgstr "Seleccionar [Publicar] desde el men�."
+msgstr "Seleccionar [Publicar] desde el menú."
 
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "2_2_microstep_description"
 msgstr ""
+
+#. Default: "<p>You have now created a Folder for your Plone website. Before this folder can be viewed by anonymous site visitors, you must publish it.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
+msgid "2_publish-the-folder_text"
+msgstr "<p>Ahora ha creado una Carpeta para su sitio web Plone. Antes de que esta carpeta pueden ser vista por los visitantes anónimos, usted debe publicarla.</p>"
 
 #. Default: "Publish the folder"
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
@@ -89,10 +94,15 @@ msgstr "Publicar la carpeta"
 msgid "3_0_microstep_description"
 msgstr ""
 
+#. Default: "<p>You now have a folder on your Plone website. You will use this folder in the remaining tutorials as a place to put sample content. <strong>Do not delete or rename it</strong> until you are finished with all the tutorials!</p>"
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
+msgid "3_all-done_text"
+msgstr "<p>Ahora tiene una carpeta en su sitio web Plone. Usted utilizará esta carpeta en el resto de tutorías como un lugar para poner el contenido de ejemplos. ¡<strong>No elimine o cambie el nombre de esta</strong> hasta que haya terminado con todas las tutorías!</p>"
+
 #. Default: "All done"
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "3_all-done_title"
-msgstr "�Todos los pasos hechos!"
+msgstr "¡Todos los pasos hechos!"
 
 #. Default: "Add and publish a folder"
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg

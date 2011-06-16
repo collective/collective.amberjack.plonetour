@@ -4,17 +4,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: collective.amberjack.plonetour\n"
-"POT-Creation-Date: 2009-11-10 08:45-0400\n"
-"PO-Revision-Date: 2011-06-01 23:30-0400\n"
+"POT-Creation-Date: 2010-10-30 09:58+0000\n"
+"PO-Revision-Date: 2011-06-16 16:53-0400\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 "Language-code: es\n"
 "Language-name: Spanish\n"
-"Preferred-encodings: latin1 utf-8\n"
+"Preferred-Encodings: utf-8 latin1\n"
 "Domain: 11_basic_using_the_contents_tab\n"
 "X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
 
@@ -26,6 +26,11 @@ msgstr "Navegar a la carpeta llamada [MyFolder] que usted creo en la tutoría pr
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "0_1_microstep_description"
 msgstr ""
+
+#. Default: "<p>So far you've mostly been working with the Edit tab. Now it's time to take a look at the Contents tab and what it can do. The Contents tab lets you browse the filesystem of your website and perform administrative tasks such as: reorder content, delete content, copy, cut, and paste content items.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "0_the-contents-tab_text"
+msgstr "<p>Hasta ahora hemos estado trabajando con la mayoría de la pestaña Editar. Ahora es el momento de echar un vistazo a la pestaña Contenido y qué puede hacer. En la pestaña Contenido le permite navegar por el sistema de archivos de su sitio web y realizar tareas administrativas tales como: reordenar el contenido, borrar los contenidos, copiar, cortar y pegar elementos de contenido.</p>"
 
 #. Default: "The contents tab"
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
@@ -39,6 +44,10 @@ msgstr "Haga clic en la pestaña [Contenidos]."
 
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "1_1_microstep_description"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "1_the-contents-tab_text"
 msgstr ""
 
 #. Default: "The contents tab"
@@ -58,6 +67,10 @@ msgstr "Para mover al próximo paso use el botón con la doble flechas '>>' en e
 
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "2_2_microstep_description"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "2_features-of-the-contents-tab_text"
 msgstr ""
 
 #. Default: "Features of the contents tab"
@@ -84,6 +97,11 @@ msgstr "Para mover al próximo paso use el botón con la doble flechas '>>' en e
 msgid "3_3_microstep_description"
 msgstr ""
 
+#. Default: "<p>All of the items you have been creating for these tutorials so far are listed now in the Contents view. You can see information about each item such as the Title, Size, Date Modified, and Publishing State.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "3_reordering-content_text"
+msgstr "<p>Todos los elementos que han ido creando para estas tutorías hasta el momento figuran ahora en el punto de vista de contenidos. Se puede ver información sobre cada elemento, como el título, tamaño, fecha de modificación, y el estado de publicación.</p>"
+
 #. Default: "Reordering content"
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "3_reordering-content_title"
@@ -103,6 +121,11 @@ msgstr "Haga clic en el botón [Copiar] al final de la página."
 msgid "4_2_microstep_description"
 msgstr ""
 
+#. Default: "<p>You may wish to change the order of contents within a folder for various reasons. One of the most common reasons is to change the order that items list in the Navigation portlet or folder summary views.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "4_copy-content_text"
+msgstr "<p>Es posible que desee cambiar el orden de los contenidos de una carpeta, por diversas razones. Una de las razones más comunes es cambiar el orden en que los elementos de lista en el portlet de navegación o las vistas de resumen de carpeta.</p>"
+
 #. Default: "Copy content"
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "4_copy-content_title"
@@ -117,6 +140,11 @@ msgstr "Observe que una botón Pegar ahora aparece. Haga clic en el botón [Pega
 msgid "5_1_microstep_description"
 msgstr ""
 
+#. Default: "<p>You may wish to make copies of a content item for various reasons. You can paste a copied item into any location on the site.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "5_paste-content_text"
+msgstr "<p>Es posible que desee hacer copias de un elemento de contenido por varias razones. Usted puede pegar un elemento copiado en cualquier lugar en el sitio.</p>"
+
 #. Default: "Paste content"
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "5_paste-content_title"
@@ -125,6 +153,11 @@ msgstr "Pegar contenido"
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "6_0_microstep_description"
 msgstr ""
+
+#. Default: "<p>You may wish to make copies of a content item for various reasons. You can paste a copied item into any location on the site.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "6_all-done_text"
+msgstr "<p>Es posible que desee hacer copias de un elemento de contenido por varias razones. Usted puede pegar un elemento copiado en cualquier lugar en el sitio.</p>"
 
 #. Default: "All done"
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
