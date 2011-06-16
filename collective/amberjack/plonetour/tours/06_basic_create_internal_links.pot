@@ -31,6 +31,11 @@ msgstr ""
 msgid "0_create-internal-links_title"
 msgstr ""
 
+#. Default: "<p>In this tutorial, you will revisit a page that you already created and learn how insert hyperlinks into the page.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
+msgid "0_create-internal-links_text"
+msgstr ""
+
 #. Default: "Navigate to [My Page] that you created from the previous tutorial."
 #: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
 msgid "1_0_microstep_description"
@@ -45,6 +50,10 @@ msgstr ""
 msgid "1_edit-an-existing-page_title"
 msgstr ""
 
+#: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
+msgid "1_edit-an-existing-page_text"
+msgstr ""
+
 #. Default: "Click the [Edit] tab to begin editing."
 #: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
 msgid "2_0_microstep_description"
@@ -57,6 +66,10 @@ msgstr ""
 #. Default: "Edit my page"
 #: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
 msgid "2_edit-my-page_title"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
+msgid "2_edit-my-page_text"
 msgstr ""
 
 #. Default: "Type the following text in the [Body Text] field 'Visit the Homepage'."
@@ -103,6 +116,11 @@ msgstr ""
 msgid "3_insert-an-internal-link_title"
 msgstr ""
 
+#. Default: "<p>An internal link is for linking to any page, news item, event, image, file or other content type within your Plone site. Look for the icon in the editing toolbar. It should look like a small piece of chain.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
+msgid "3_insert-an-internal-link_text"
+msgstr ""
+
 #. Default: "[Click] your new link. You should be taken directly to the defined page."
 #: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
 msgid "4_0_microstep_description"
@@ -117,6 +135,11 @@ msgstr ""
 msgid "4_test-your-link_title"
 msgstr ""
 
+#. Default: "<p>Now that you have created the internal link and saved the page, try clicking on the link. You should arrive at the default 'Welcome to Plone' homepage.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
+msgid "4_test-your-link_text"
+msgstr ""
+
 #: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
 msgid "5_0_microstep_description"
 msgstr ""
@@ -124,6 +147,11 @@ msgstr ""
 #. Default: "All done"
 #: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
 msgid "5_all-done_title"
+msgstr ""
+
+#. Default: "<p>You have now learned how to create a type of hyperlink in Plone: Internal for linking to items within you site.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
+msgid "5_all-done_text"
 msgstr ""
 
 #. Default: "Create internal links"

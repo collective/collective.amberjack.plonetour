@@ -31,6 +31,11 @@ msgstr ""
 msgid "0_create-a-file_title"
 msgstr ""
 
+#. Default: "<p>A File in Plone is any binary file such as a PDF, DOC, XLS, PPT, RTF, or other file type that you wish to upload to your site. You can also link to a file to allow your site visitors the chance to download the file.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "0_create-a-file_text"
+msgstr ""
+
 #. Default: "Click the [Add New...] drop-down menu and select File from the menu."
 #: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "1_0_microstep_description"
@@ -48,6 +53,10 @@ msgstr ""
 #. Default: "Add a new file to myfolder"
 #: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "1_add-a-new-file-to-myfolder_title"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "1_add-a-new-file-to-myfolder_text"
 msgstr ""
 
 #. Default: "Provide a [Title] (i.e. \"My File.\")"
@@ -84,6 +93,11 @@ msgstr ""
 msgid "2_choose-a-file_title"
 msgstr ""
 
+#. Default: "<p>Simply provide a title, description, and select the file you wish to upload.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "2_choose-a-file_text"
+msgstr ""
+
 #. Default: "Navigate to [My Page] that you created from the previous tutorial."
 #: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "3_0_microstep_description"
@@ -98,6 +112,11 @@ msgstr ""
 msgid "3_link-to-the-file_title"
 msgstr ""
 
+#. Default: "<p>You now have a file on your Plone website. You should now create a link to the file from a page to allow a site visitor to download the file. Otherwise, a site visitor would have to know the web address for the file or happen to search for it.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "3_link-to-the-file_text"
+msgstr ""
+
 #. Default: "Click the [Edit] tab."
 #: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "4_0_microstep_description"
@@ -110,6 +129,10 @@ msgstr ""
 #. Default: "Edit an existing page"
 #: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "4_edit-an-existing-page_title"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "4_edit-an-existing-page_text"
 msgstr ""
 
 #. Default: "Type some link text in the [Body Text] field of the page (i.e. Download this report PDF 1,2 Mb)."
@@ -156,6 +179,11 @@ msgstr ""
 msgid "5_insert-an-internal-link_title"
 msgstr ""
 
+#. Default: "<p>When linking to a file, you should indicate that the link will begin the download of a file and you should indicate the file type and size in the link text as well. For example you might say: Download this report [PDF 1.2 Mb].</p>"
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "5_insert-an-internal-link_text"
+msgstr ""
+
 #: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "6_0_microstep_description"
 msgstr ""
@@ -163,6 +191,11 @@ msgstr ""
 #. Default: "All done"
 #: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "6_all-done_title"
+msgstr ""
+
+#. Default: "<p>You now have a linked file on your Plone website. Try clicking the link to see what the download process looks like. Note that the browser settings of each site visitor will determine whether the file opens in an application or if the Save As dialog box appears. You cannot control this behavior from within Plone.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
+msgid "6_all-done_text"
 msgstr ""
 
 #. Default: "Upload and link to a File"

@@ -31,6 +31,11 @@ msgstr ""
 msgid "0_format-a-page-using-the-visual-editor_title"
 msgstr ""
 
+#. Default: "<p>In this tutorial, you will revisit a page that you already created and learn how to format content on the page.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "0_format-a-page-using-the-visual-editor_text"
+msgstr ""
+
 #. Default: "Navigate to [My Page] that you created from the previous tutorial."
 #: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
 msgid "1_0_microstep_description"
@@ -45,6 +50,10 @@ msgstr ""
 msgid "1_edit-an-existing-page_title"
 msgstr ""
 
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "1_edit-an-existing-page_text"
+msgstr ""
+
 #. Default: "Click the [Edit] tab to begin editing."
 #: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
 msgid "2_0_microstep_description"
@@ -57,6 +66,10 @@ msgstr ""
 #. Default: "Edit my page"
 #: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
 msgid "2_edit-my-page_title"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "2_edit-my-page_text"
 msgstr ""
 
 #. Default: "Type the following text into the [Body Text] field: 'The quick brown fox jumps over the lazy dog.'"
@@ -143,6 +156,11 @@ msgstr ""
 msgid "3_add-and-format-page-content_title"
 msgstr ""
 
+#. Default: "<p>Now that you are editing your page, you can add content and formatting to it. You will learn how to apply bold, italics, text alignment, and paragraph styles to the page.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "3_add-and-format-page-content_text"
+msgstr ""
+
 #: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
 msgid "4_0_microstep_description"
 msgstr ""
@@ -150,6 +168,11 @@ msgstr ""
 #. Default: "All done"
 #: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
 msgid "4_all-done_title"
+msgstr ""
+
+#. Default: "<p>This tutorial has been a brief introduction into the various ways you can format a page. Subsequent tutorials will teach you how to insert hyperlinks and images.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/05_basic_format_a_page_using_the_visual_editor.cfg
+msgid "4_all-done_text"
 msgstr ""
 
 #. Default: "Format a page using the visual editor"

@@ -31,6 +31,11 @@ msgstr ""
 msgid "0_add-and-publish-an-event_title"
 msgstr ""
 
+#. Default: "<p>In this tutorial, you'll create a new Event and publish it on your Plone-powered website.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "0_add-and-publish-an-event_text"
+msgstr ""
+
 #. Default: "Click the [Add new...] drop-down menu."
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "1_0_microstep_description"
@@ -48,6 +53,11 @@ msgstr ""
 #. Default: "Create a event"
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "1_create-a-event_title"
+msgstr ""
+
+#. Default: "<p>Events are useful for posting announcements about upcoming events. Events function much like a page, with additional fields for adding information about an event.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "1_create-a-event_text"
 msgstr ""
 
 #. Default: "Provide a [Title]: My Event."
@@ -104,6 +114,11 @@ msgstr ""
 msgid "2_fill-out-the-fields_title"
 msgstr ""
 
+#. Default: "<p>Now that you selected the Event content type, you need to supply some information about it.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "2_fill-out-the-fields_text"
+msgstr ""
+
 #. Default: "Click the [State] drop-down menu."
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "3_0_microstep_description"
@@ -123,6 +138,11 @@ msgstr ""
 msgid "3_publish-the-event_title"
 msgstr ""
 
+#. Default: "<p>In order for anonymous site visitors to see your event you must publish it first. Publishing also makes your event available in the Upcoming Events portlet and Events folder.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "3_publish-the-event_text"
+msgstr ""
+
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "4_0_microstep_description"
 msgstr ""
@@ -130,6 +150,11 @@ msgstr ""
 #. Default: "All done"
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "4_all-done_title"
+msgstr ""
+
+#. Default: "<p>You now have a published event in your folder.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
+msgid "4_all-done_text"
 msgstr ""
 
 #. Default: "Add and publish an Event"

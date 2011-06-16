@@ -31,6 +31,11 @@ msgstr ""
 msgid "0_insert-image-on-a-page_title"
 msgstr ""
 
+#. Default: "<p>In this tutorial, you will revisit a page that you already created and learn how insert an image into that page.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "0_insert-image-on-a-page_text"
+msgstr ""
+
 #. Default: "Navigate to [My Page] that you created from the previous tutorial."
 #: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
 msgid "1_0_microstep_description"
@@ -45,6 +50,10 @@ msgstr ""
 msgid "1_open-my-page_title"
 msgstr ""
 
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "1_open-my-page_text"
+msgstr ""
+
 #. Default: "Click the [Edit] tab to begin editing."
 #: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
 msgid "2_0_microstep_description"
@@ -57,6 +66,10 @@ msgstr ""
 #. Default: "Edit my page"
 #: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
 msgid "2_edit-my-page_title"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "2_edit-my-page_text"
 msgstr ""
 
 #. Default: "Now click the [Insert Image] icon in the editor toolbar (it looks like a tree)."
@@ -103,6 +116,11 @@ msgstr ""
 msgid "3_insert-an-image_title"
 msgstr ""
 
+#. Default: "<p>Position your cursor in the [Body Text] field where you'd like to insert the image. Find or write a paragraph of text and place the cursor to the left of the first character in the paragraph.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "3_insert-an-image_text"
+msgstr ""
+
 #: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
 msgid "4_0_microstep_description"
 msgstr ""
@@ -110,6 +128,11 @@ msgstr ""
 #. Default: "All done"
 #: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
 msgid "4_all-done_title"
+msgstr ""
+
+#. Default: "<p>You have now successfully inserted an image onto a page. You can edit the page again and insert more images, move existing images around, or change their alignment.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/09_basic_insert_image_on_a_page.cfg
+msgid "4_all-done_text"
 msgstr ""
 
 #. Default: "Insert image on a page"

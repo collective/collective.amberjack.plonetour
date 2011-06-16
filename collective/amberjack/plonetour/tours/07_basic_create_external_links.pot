@@ -31,6 +31,11 @@ msgstr ""
 msgid "0_create-external-links_title"
 msgstr ""
 
+#. Default: "<p>In this tutorial, you will revisit a page that you already created and learn how insert hyperlinks into the page.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
+msgid "0_create-external-links_text"
+msgstr ""
+
 #. Default: "Navigate to [My Page] that you created from the previous tutorial."
 #: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
 msgid "1_0_microstep_description"
@@ -45,6 +50,10 @@ msgstr ""
 msgid "1_edit-an-existing-page_title"
 msgstr ""
 
+#: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
+msgid "1_edit-an-existing-page_text"
+msgstr ""
+
 #. Default: "Click the [Edit] tab to begin editing."
 #: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
 msgid "2_0_microstep_description"
@@ -57,6 +66,10 @@ msgstr ""
 #. Default: "Edit my page"
 #: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
 msgid "2_edit-my-page_title"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
+msgid "2_edit-my-page_text"
 msgstr ""
 
 #. Default: "Type the following text into the [Body Text] field: 'Visit Plone.Org'."
@@ -109,12 +122,21 @@ msgid "3_insert-an-external-link_title"
 msgstr ""
 
 #: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
+msgid "3_insert-an-external-link_text"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
 msgid "4_0_microstep_description"
 msgstr ""
 
 #. Default: "All done"
 #: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
 msgid "4_all-done_title"
+msgstr ""
+
+#. Default: "<p>An external link is used to link to other webpages, documents or resources online. Find the external link icon in the toolbar before we continue (it looks like a tiny Earth).</p>"
+#: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
+msgid "4_all-done_text"
 msgstr ""
 
 #. Default: "Create external links"

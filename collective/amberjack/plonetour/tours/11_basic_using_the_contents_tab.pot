@@ -31,6 +31,11 @@ msgstr ""
 msgid "0_the-contents-tab_title"
 msgstr ""
 
+#. Default: "<p>So far you've mostly been working with the Edit tab. Now it's time to take a look at the Contents tab and what it can do. The Contents tab lets you browse the filesystem of your website and perform administrative tasks such as: reorder content, delete content, copy, cut, and paste content items.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "0_the-contents-tab_text"
+msgstr ""
+
 #. Default: "Click on the [Contents] tab."
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "1_0_microstep_description"
@@ -43,6 +48,10 @@ msgstr ""
 #. Default: "The contents tab"
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "1_the-contents-tab_title"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "1_the-contents-tab_text"
 msgstr ""
 
 #. Default: "Also notice the buttons along the bottom of the Contents view: Copy, Cut, Rename, Delete, and Change State. By using the checkboxes next to each content item you can apply any of these changes to those checked items."
@@ -62,6 +71,10 @@ msgstr ""
 #. Default: "Features of the contents tab"
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "2_features-of-the-contents-tab_title"
+msgstr ""
+
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "2_features-of-the-contents-tab_text"
 msgstr ""
 
 #. Default: "Position your mouse pointer over one of the items in the [Order column]. Notice that your pointer’s shape changed."
@@ -88,6 +101,11 @@ msgstr ""
 msgid "3_reordering-content_title"
 msgstr ""
 
+#. Default: "<p>All of the items you have been creating for these tutorials so far are listed now in the Contents view. You can see information about each item such as the Title, Size, Date Modified, and Publishing State.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "3_reordering-content_text"
+msgstr ""
+
 #. Default: "[Check the box] next to My Page in the contents listing."
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "4_0_microstep_description"
@@ -107,6 +125,11 @@ msgstr ""
 msgid "4_copy-content_title"
 msgstr ""
 
+#. Default: "<p>You may wish to change the order of contents within a folder for various reasons. One of the most common reasons is to change the order that items list in the Navigation portlet or folder summary views.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "4_copy-content_text"
+msgstr ""
+
 #. Default: "Notice that a Paste button now appears. Click [Paste] to create a copy of My Page."
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "5_0_microstep_description"
@@ -121,6 +144,11 @@ msgstr ""
 msgid "5_paste-content_title"
 msgstr ""
 
+#. Default: "<p>You may wish to make copies of a content item for various reasons. You can paste a copied item into any location on the site.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "5_paste-content_text"
+msgstr ""
+
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "6_0_microstep_description"
 msgstr ""
@@ -128,6 +156,11 @@ msgstr ""
 #. Default: "All done"
 #: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
 msgid "6_all-done_title"
+msgstr ""
+
+#. Default: "<p>You may wish to make copies of a content item for various reasons. You can paste a copied item into any location on the site.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/11_basic_using_the_contents_tab.cfg
+msgid "6_all-done_text"
 msgstr ""
 
 #. Default: "Using the Contents tab"

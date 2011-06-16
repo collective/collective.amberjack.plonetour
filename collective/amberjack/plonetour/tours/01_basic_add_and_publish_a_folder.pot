@@ -79,6 +79,11 @@ msgstr ""
 msgid "2_2_microstep_description"
 msgstr ""
 
+#. Default: "<p>You have now created a Folder for your Plone website. Before this folder can be viewed by anonymous site visitors, you must publish it.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
+msgid "2_publish-the-folder_text"
+msgstr ""
+
 #. Default: "Publish the folder"
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "2_publish-the-folder_title"
@@ -86,6 +91,11 @@ msgstr ""
 
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "3_0_microstep_description"
+msgstr ""
+
+#. Default: "<p>You now have a folder on your Plone website. You will use this folder in the remaining tutorials as a place to put sample content. <strong>Do not delete or rename it</strong> until you are finished with all the tutorials!</p>"
+#: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
+msgid "3_all-done_text"
 msgstr ""
 
 #. Default: "All done"

@@ -98,6 +98,11 @@ msgstr ""
 msgid "3_publish-the-page_title"
 msgstr ""
 
+#. Default: "<p>You have now created a Page for your Plone website. Before this page can be viewed by anonymous site visitors, you must publish it. Publishing also makes your page available in the Navigation portlet.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "3_publish-the-page_text"
+msgstr ""
+
 #: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
 msgid "4_0_microstep_description"
 msgstr ""
@@ -105,6 +110,11 @@ msgstr ""
 #. Default: "All done"
 #: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
 msgid "4_all-done_title"
+msgstr ""
+
+#. Default: "<p>You now have a published page in your folder.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "4_all-done_text"
 msgstr ""
 
 #. Default: "Add and publish a Page"
