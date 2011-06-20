@@ -21,7 +21,7 @@ msgstr ""
 #. Default: "Navigate to the folder called [MyFolder] that you created in a previous tutorial."
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "0_0_microstep_description"
-msgstr "Navegue hacia la carpeta llamada [MyFolder] que usted creo en la tutoría previa."
+msgstr "Navegue hacia la carpeta llamada [MyFolder] que usted creo en la previa tutoría."
 
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "0_1_microstep_description"
@@ -40,12 +40,12 @@ msgstr "Agregar y publicar un evento"
 #. Default: "Click the [Add new...] drop-down menu."
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "1_0_microstep_description"
-msgstr "Haga clic al menú desplegable [Agregar elemento]."
+msgstr "Haga clic al menú desplegable [Agregar nuevo...]"
 
 #. Default: "Select [Event] from the menu."
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "1_1_microstep_description"
-msgstr "Seleccione la opción [Evento] desde el menú."
+msgstr "Seleccione la opción [Evento] desde el menú desplegable."
 
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "1_2_microstep_description"
@@ -54,7 +54,7 @@ msgstr ""
 #. Default: "<p>Events are useful for posting announcements about upcoming events. Events function much like a page, with additional fields for adding information about an event.</p>"
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "1_create-a-event_text"
-msgstr "<p>Los eventos son útiles para publicar anuncios sobre futuros eventos. Los eventos funcionan como una página, con campos adicionales para añadir información sobre un evento.</p>"
+msgstr "<p>Los eventos son útiles para publicar anuncios sobre futuros eventos. Estos funcionan como una página, con campos adicionales para añadir información sobre un evento.</p>"
 
 #. Default: "Create a event"
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
@@ -69,27 +69,27 @@ msgstr "Proporcione un [Título]: My Event."
 #. Default: "Provide a [Description] for your Event. <br />The description will appear in site searches and in summary listings of events on your site."
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "2_1_microstep_description"
-msgstr "Proporcionar una [Descripción] para su evento. <br /> La descripción aparecerá en las búsquedas del sitio y en los listados de resumen de los eventos en su sitio."
+msgstr "Proporcione una [Descripción] para su evento. <br /> La descripción aparecerá en las búsquedas del sitio y en los listados de resumen de los eventos en su sitio."
 
 #. Default: "Provide an [Event Location]. The location is the physical location of the event. You can describe the address or provide directions in the Body Text field."
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "2_2_microstep_description"
-msgstr "Proveer una [Locación de Evento]. La localización es la ubicación física del evento. Usted puede describir la dirección o proveer las direcciones en el campo del texto del cuerpo."
+msgstr "Proporcione una [Locación de Evento]. La localización es la ubicación física del evento. Usted puede describir la dirección o proporcione las direcciones en el campo de Cuerpo del texto."
 
 #. Default: "Provide the event [Start and End] dates."
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "2_3_microstep_description"
-msgstr "Proveer las fechas [Inicio y Fin] del evento."
+msgstr "Proporcione las fechas [Inicio y Fin] del evento."
 
 #. Default: "Put some content in the [Body Text] field. This is the best place to add directions to your event, information about what to expect, images, etc."
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "2_4_microstep_description"
-msgstr "Coloque algo de contenido en el campo de [texto del cuerpo]. Este es el mejor sitio para agregar direcciones de su evento, información acerca de las expectativas, imágenes, etc."
+msgstr "Coloque algo de contenido en el campo de [Cuerpo del texto del evento]. Este es el mejor sitio para agregar direcciones de su evento, información acerca de las expectativas, imágenes, etc."
 
 #. Default: "Provide [contact information] in the remaining fields."
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "2_5_microstep_description"
-msgstr "Proporcionar la [información de contacto] en los campos restantes."
+msgstr "Proporcione la [información de contacto] en los campos restantes."
 
 #. Default: "Manage the type: open the [Categorization] tab."
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
@@ -99,7 +99,7 @@ msgstr "Administra el tipo: abrir la pestaña [Categorización]"
 #. Default: "then provide an [Event Type] by typing in the New Categories field. Typical event types include: Fundraiser, Auction, Sale, Concert, Performance, etc. Once you have added a new event type, it will appear for selection in the Existing Categories field the next time you create an event."
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "2_7_microstep_description"
-msgstr "Proveer un [Tipo de evento] introduciendo en el campo Nueva categorías. Típicamente incluyendo tipos de eventos: Recaudador de fondos, Subasta, Venta, Concierto, Actuación, etc. Once que usted agrego a un nuevo tipo de evento, ese aparecerá para seleccionar en el campo de Categorías Existentes la próxima ves que usted cree un evento."
+msgstr "Proporcione un [Tipo de evento] introduciendo en el campo Nueva categorías. Típicamente incluyendo tipos de eventos: Recaudador de fondos, Subasta, Venta, Concierto, Actuación, etc. Una vez que usted agrego a un nuevo tipo de evento, ese aparecerá para seleccionar en el campo de Categorías Existentes la próxima ves que usted cree un evento."
 
 #. Default: "Click [Save] to finish."
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
@@ -128,7 +128,7 @@ msgstr "Haga clic al menú desplegable [Estado]."
 #. Default: "Select [Publish] from the menu."
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "3_1_microstep_description"
-msgstr "Seleccione la opción [Publicar] desde el menú."
+msgstr "Seleccione la opción [Publicar] desde el menú desplegable."
 
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "3_2_microstep_description"
@@ -137,7 +137,7 @@ msgstr ""
 #. Default: "<p>In order for anonymous site visitors to see your event you must publish it first. Publishing also makes your event available in the Upcoming Events portlet and Events folder.</p>"
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg
 msgid "3_publish-the-event_text"
-msgstr "<p>Para que los visitantes anónimo del sitio puedan ver su evento debe publicarlo primero. La publicación también hace su evento disponible en el portlet de Eventos próximos y en la carpeta Eventos.</p>"
+msgstr "<p>Para que los visitantes anónimos del sitio puedan ver su evento debe publicarlo primero. La publicación también hace a su evento disponible en el portlet de Eventos próximos y en la carpeta Eventos.</p>"
 
 #. Default: "Publish the event"
 #: /home/zope/virtualenv/i18ndude/tours/04_basic_add_and_publish_an_event.cfg

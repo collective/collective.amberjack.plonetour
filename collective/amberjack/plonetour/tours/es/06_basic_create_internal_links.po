@@ -21,7 +21,7 @@ msgstr ""
 #. Default: "Navigate to the folder called [MyFolder] that you created in a previous tutorial."
 #: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
 msgid "0_0_microstep_description"
-msgstr "Navegar a la carpeta llamada [MyFolder] que usted creo en la tutoría previa."
+msgstr "Navegue hacia la carpeta llamada [MyFolder] que usted creo en la previa tutoría."
 
 #: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
 msgid "0_1_microstep_description"
@@ -30,7 +30,7 @@ msgstr ""
 #. Default: "<p>In this tutorial, you will revisit a page that you already created and learn how insert hyperlinks into the page.</p>"
 #: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
 msgid "0_create-internal-links_text"
-msgstr "<p>En esta tutoría, va a visitar una página que ya ha creado y aprender a cómo insertar hiper-vínculos en la página.</p>"
+msgstr "<p>En esta tutoría, va a visitar una página que ya ha creado y va aprender a cómo insertar hiper-vínculos en la página.</p>"
 
 #. Default: "Create internal links"
 #: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
@@ -40,7 +40,7 @@ msgstr "Crear enlaces internos"
 #. Default: "Navigate to [My Page] that you created from the previous tutorial."
 #: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
 msgid "1_0_microstep_description"
-msgstr "Navegue al [My Page] que usted creo en la tutoría previa."
+msgstr "Navegue hacia el elemento [My Page] que usted creo en la previa tutoría."
 
 #: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
 msgid "1_1_microstep_description"
@@ -71,12 +71,12 @@ msgstr ""
 #. Default: "Edit my page"
 #: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
 msgid "2_edit-my-page_title"
-msgstr "Edite mi página"
+msgstr "Editar el elemento 'My Page'"
 
 #. Default: "Type the following text in the [Body Text] field 'Visit the Homepage'."
 #: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
 msgid "3_0_microstep_description"
-msgstr "Ingrese el siguiente texto en el campo [Texto del cuerpo] 'Visite la página de inicio'."
+msgstr "Ingrese el siguiente texto 'Visit the Homepage' en el campo [Cuerpo del Texto]."
 
 #. Default: "Now highlight that text with your mouse pointer and"
 #: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
@@ -91,7 +91,7 @@ msgstr "haga clic al [Icono de Enlace] en la barra de herramienta. Una ventana e
 #. Default: "This pop-up window allows you to browse the content of your site. Notice the links in the left-hand column. Click on [Home] to browse to the root directory of your site."
 #: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
 msgid "3_3_microstep_description"
-msgstr "Esta ventana emergente le permite acceder al contenido de su sitio. Note los enlaces en la columna a mano izquierda. Haga clic en [Inicio] para buscar en el directorio raíz de tu sitio."
+msgstr "Esta ventana emergente le permite acceder al contenido de su sitio. Observe los enlaces en la columna a mano izquierda. Haga clic en [Inicio] para buscar en el directorio raíz de tu sitio."
 
 #. Default: "Find the page titled 'Welcome to Plone' and select the [radio button] next to it."
 #: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
@@ -139,7 +139,7 @@ msgstr "<p>Ahora que ha creado el enlace interno y se guarda la página, intente
 #. Default: "Test your link"
 #: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
 msgid "4_test-your-link_title"
-msgstr "Probar su enlace"
+msgstr "Probe su enlace"
 
 #: /home/zope/virtualenv/i18ndude/tours/06_basic_create_internal_links.cfg
 msgid "5_0_microstep_description"

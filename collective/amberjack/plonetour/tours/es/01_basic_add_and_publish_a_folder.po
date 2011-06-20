@@ -26,12 +26,12 @@ msgstr "Si usted no desea realizar el paso indicado a usted mismo, haz clic en e
 #. Default: "Click the [Add new...] drop-down menu."
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "0_1_microstep_description"
-msgstr "Haga clic al menú desplegable [Agregar elemento]."
+msgstr "Haga clic al menú desplegable [Agregar nuevo...]"
 
 #. Default: "Select [Folder] from the menu."
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "0_2_microstep_description"
-msgstr "Seleccionar [Carpeta] desde el menú."
+msgstr "Seleccione la opción [Carpeta] desde el menú desplegable."
 
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "0_3_microstep_description"
@@ -45,12 +45,12 @@ msgstr "Crear una nueva carpeta"
 #. Default: "In the [Title] field, type 'MyFolder'."
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "1_0_microstep_description"
-msgstr "En el campo [Titulo], tipo 'MyFolder'."
+msgstr "En el campo [Título], transcriba el siguiente título 'MyFolder'."
 
 #. Default: "In the [Description] field, type 'This folder will be used to contain sample content as I work through each tutorial.'."
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "1_1_microstep_description"
-msgstr "En la campo [Descripción], transcriba 'Esta carpeta será usada para contener ejemplos de contenidos que yo trabajo a través de cada tutoría.'."
+msgstr "En la campo [Descripción], transcriba el siguiente texto 'This folder will be used to contain sample content as I work through each tutorial.'."
 
 #. Default: "Now click the [Save] button at the bottom of the page to save your new folder."
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
@@ -74,7 +74,7 @@ msgstr "Haga clic al menú desplegable [Estado]."
 #. Default: "Select [Publish] from the menu."
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "2_1_microstep_description"
-msgstr "Seleccionar [Publicar] desde el menú."
+msgstr "Seleccione la opción [Publicar] desde el menú desplegable."
 
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "2_2_microstep_description"
@@ -83,7 +83,7 @@ msgstr ""
 #. Default: "<p>You have now created a Folder for your Plone website. Before this folder can be viewed by anonymous site visitors, you must publish it.</p>"
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "2_publish-the-folder_text"
-msgstr "<p>Ahora ha creado una Carpeta para su sitio web Plone. Antes de que esta carpeta pueden ser vista por los visitantes anónimos, usted debe publicarla.</p>"
+msgstr "<p>Ahora ha creado una Carpeta para su sitio web Plone. Antes de que esta carpeta pueda ser vista por los visitantes anónimos, usted debe publicarla.</p>"
 
 #. Default: "Publish the folder"
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
@@ -97,7 +97,7 @@ msgstr ""
 #. Default: "<p>You now have a folder on your Plone website. You will use this folder in the remaining tutorials as a place to put sample content. <strong>Do not delete or rename it</strong> until you are finished with all the tutorials!</p>"
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "3_all-done_text"
-msgstr "<p>Ahora tiene una carpeta en su sitio web Plone. Usted utilizará esta carpeta en el resto de tutorías como un lugar para poner el contenido de ejemplos. ¡<strong>No elimine o cambie el nombre de esta</strong> hasta que haya terminado con todas las tutorías!</p>"
+msgstr "<p>Ahora usted tiene una carpeta en su sitio web Plone. Usted utilizará esta carpeta en el resto de las tutorías como un lugar para colocar los contenido de ejemplos. ¡<strong>No elimine o cambie el nombre de esta carpeta</strong> hasta que haya terminado con todas las tutorías!</p>"
 
 #. Default: "All done"
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
@@ -107,5 +107,5 @@ msgstr "¡Todos los pasos hechos!"
 #. Default: "Add and publish a folder"
 #: /home/zope/virtualenv/i18ndude/tours/01_basic_add_and_publish_a_folder.cfg
 msgid "amberjack_title"
-msgstr "Agregar y publicar una carpeta"
+msgstr "Agregar y publicar una Carpeta"
 

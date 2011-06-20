@@ -21,7 +21,7 @@ msgstr ""
 #. Default: "Navigate to the folder called [MyFolder] that you created in a previous tutorial."
 #: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
 msgid "0_0_microstep_description"
-msgstr "Navegar a la carpeta llamada [MyFolder] que usted creo en la tutoría previa."
+msgstr "Navegue hacia la carpeta llamada [MyFolder] que usted creo en la previa tutoría."
 
 #: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
 msgid "0_1_microstep_description"
@@ -30,7 +30,7 @@ msgstr ""
 #. Default: "<p>In this tutorial, you will revisit a page that you already created and learn how insert hyperlinks into the page.</p>"
 #: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
 msgid "0_create-external-links_text"
-msgstr "<p>En esta tutoría, va ha visitar una página que ya ha creado y aprender cómo insertar hiper-vínculos en la página.</p>"
+msgstr "<p>En esta tutoría, va ha visitar una página que ya ha creado y va aprender cómo insertar hiper-vínculos en la página.</p>"
 
 #. Default: "Create external links"
 #: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
@@ -40,7 +40,7 @@ msgstr "Crear enlaces externos"
 #. Default: "Navigate to [My Page] that you created from the previous tutorial."
 #: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
 msgid "1_0_microstep_description"
-msgstr "Navegue al [My Page] que usted creo en la tutoría previa."
+msgstr "Navegue al [My Page] que usted creo en la previa tutoría."
 
 #: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
 msgid "1_1_microstep_description"
@@ -76,7 +76,7 @@ msgstr "Editar mi página"
 #. Default: "Type the following text into the [Body Text] field: 'Visit Plone.Org'."
 #: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
 msgid "3_0_microstep_description"
-msgstr "Ingrese el siguiente texto en el campo [Texto del cuerpo] 'Visite la página de inicio'."
+msgstr "Ingrese el siguiente texto en el campo [Cuerpo de texto] 'Visite la página de inicio'."
 
 #. Default: "Now highlight that text with your mouse pointer"
 #: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
@@ -86,7 +86,7 @@ msgstr "Ahora sobre el texto con el curso de su ratón"
 #. Default: "click the [Link icon] in the toolbar. A pop-up window should now appear."
 #: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
 msgid "3_2_microstep_description"
-msgstr "haga clic en el [icono Enlace] en la barra. Una ventana emergente deberá aparecer."
+msgstr "Haga clic en el icono [Enlace] en la barra. Una ventana emergente deberá aparecer."
 
 #. Default: "This pop-up window allows you to browse the content of your site. Notice the links in the left-hand column. Click on [External] to insert a web address."
 #: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
@@ -101,7 +101,7 @@ msgstr "Observe que la casilla de seleccionar contenga el prefijo familiar http:
 #. Default: "Now click the [Preview button] to check the link. Preview lets you confirm that you have the correct webpage before you commit the link."
 #: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg
 msgid "3_5_microstep_description"
-msgstr "Ahora haga clic en el [botón Vista Previa] para verificar el enlace. La acción Vista Previa le permite confirmar si tiene correcta la página Web anteriormente comentada en el enlace."
+msgstr "Ahora haga clic en el botón [Previsualizar] para verificar el enlace. La acción Previsualizar le permite confirmar si tiene correcta la página Web anteriormente comentada en el enlace."
 
 #. Default: "Click [Insert] to create the hyperlink."
 #: /home/zope/virtualenv/i18ndude/tours/07_basic_create_external_links.cfg

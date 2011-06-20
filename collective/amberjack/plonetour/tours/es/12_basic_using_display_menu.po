@@ -21,7 +21,7 @@ msgstr ""
 #. Default: "Navigate to the folder called [MyFolder] that you created in a previous tutorial."
 #: /home/zope/virtualenv/i18ndude/tours/12_basic_using_display_menu.cfg
 msgid "0_0_microstep_description"
-msgstr "Navegar a la carpeta llamada [MyFolder] que usted creo en la tutoría previa."
+msgstr "Navegue hacia la carpeta llamada [MyFolder] que usted creo en la previa tutoría."
 
 #: /home/zope/virtualenv/i18ndude/tours/12_basic_using_display_menu.cfg
 msgid "0_1_microstep_description"
@@ -77,7 +77,7 @@ msgstr ""
 #. Default: "<p>Up to this point MyFolder has been using the Standard view. Standard view lists each item in the order it happens to be in the folder. Summary view is similar except that each entry is separated by a horizontal line and a Read More... link is automatically generated. If an item has an attached thumbnail image (such as a News Item) the image will also appear in the Summary view.</p>"
 #: /home/zope/virtualenv/i18ndude/tours/12_basic_using_display_menu.cfg
 msgid "2_summary-view_text"
-msgstr "<p>Hasta este punto MyFolder ha estado utilizando la vista estándar. La vista Estándar es para ver los listados de cada elemento en el orden en que pasa a estar en la carpeta. La vista de resumen es similar, excepto que cada entrada está separada por una línea horizontal y por un enlace 'Leer más...' es generado automáticamente. Si un elemento tiene una imagen en miniatura adjuntado (como una noticia), la imagen también aparecerá en la vista de resumen.</p>"
+msgstr "<p>Hasta este punto la carpeta 'MyFolder' se ha estado utilizando con la vista estándar. La vista Estándar es para ver los listados de cada elemento en el orden en que pasa a estar en la carpeta. La vista de resumen es similar, excepto que cada entrada está separada por una línea horizontal y por un enlace 'Leer más...' es generado automáticamente. Si un elemento tiene una imagen en miniatura adjuntado (como una noticia), la imagen también aparecerá en la vista de resumen.</p>"
 
 #. Default: "Summary view"
 #: /home/zope/virtualenv/i18ndude/tours/12_basic_using_display_menu.cfg
@@ -97,7 +97,7 @@ msgstr "Seleccionar [elemento de contenido como vista predeterminada]."
 #. Default: "Select [My Page] as the default page for MyFolder."
 #: /home/zope/virtualenv/i18ndude/tours/12_basic_using_display_menu.cfg
 msgid "3_2_microstep_description"
-msgstr "Seleccione la página [My Page] como página predeterminada para la carpeta MyFolder."
+msgstr "Seleccione la página [My Page] como página predeterminada para la carpeta 'MyFolder'."
 
 #. Default: "Click the [Save] button to finish."
 #: /home/zope/virtualenv/i18ndude/tours/12_basic_using_display_menu.cfg

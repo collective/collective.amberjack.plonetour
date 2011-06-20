@@ -21,7 +21,7 @@ msgstr ""
 #. Default: "Navigate to the folder called [MyFolder] that you created in a previous tutorial."
 #: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "0_0_microstep_description"
-msgstr "Navegar a la carpeta llamada [MyFolder] que usted creo en la tutoría previa."
+msgstr "Navegue hacia la carpeta llamada [MyFolder] que usted creo en la previa tutoría."
 
 #: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "0_1_microstep_description"
@@ -40,12 +40,12 @@ msgstr "Crear un archivo"
 #. Default: "Click the [Add New...] drop-down menu and select File from the menu."
 #: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "1_0_microstep_description"
-msgstr "Haga clic al menú desplegable [Agregar elemento] y seleccione la opción Archivo desde el menú."
+msgstr "Haga clic al menú desplegable [Agregar nuevo...] y seleccione la opción Archivo desde el menú."
 
 #. Default: "Select [File] from the menu."
 #: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "1_1_microstep_description"
-msgstr "Seleccionar la opción [Archivo] desde el menú."
+msgstr "Seleccione la opción [Archivo] desde el menú desplegable."
 
 #: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "1_2_microstep_description"
@@ -58,22 +58,22 @@ msgstr ""
 #. Default: "Add a new file to myfolder"
 #: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "1_add-a-new-file-to-myfolder_title"
-msgstr "Agregar un archivo nuevo en la carpeta MyFolder"
+msgstr "Agregar un nuevo archivo en la carpeta 'MyFolder'"
 
 #. Default: "Provide a [Title] (i.e. \"My File.\")"
 #: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "2_0_microstep_description"
-msgstr "Provea una [Título] (ej. 'My File')."
+msgstr "Proporcione un [Título] (ej. 'My File')."
 
 #. Default: "Provide a [Description]. The description will appear in site searches and in summary listings of files on your site."
 #: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "2_1_microstep_description"
-msgstr "Provea una [Descripción]. La descripción aparecerá en las búsquedas del sitio y en los resúmenes al listar los archivos en su sitio."
+msgstr "Proporcione una [Descripción]. La descripción aparecerá en las búsquedas del sitio y en los resúmenes al listar los archivos en su sitio."
 
 #. Default: "Click the Browse button of the [File field]."
 #: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "2_2_microstep_description"
-msgstr "Haga clic en el botón Examinar del [Campo Archivo]"
+msgstr "Haga clic en el botón Examinar del campo [Archivo]"
 
 #. Default: "Select a file from your desktop computer."
 #: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
@@ -102,7 +102,7 @@ msgstr "Seleccionar un archivo"
 #. Default: "Navigate to [My Page] that you created from the previous tutorial."
 #: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "3_0_microstep_description"
-msgstr "Navegar a la página llamada [My Page] que usted creo en la tutoría previa."
+msgstr "Navegue hacia la página llamada [My Page] que usted creo en la previa tutoría."
 
 #: /home/zope/virtualenv/i18ndude/tours/10_basic_upload_and_link_to_a_file.cfg
 msgid "3_1_microstep_description"
