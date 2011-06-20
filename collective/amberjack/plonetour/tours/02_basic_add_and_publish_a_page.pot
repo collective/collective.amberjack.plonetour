@@ -79,6 +79,11 @@ msgstr ""
 msgid "2_fill-out-the-fields_title"
 msgstr ""
 
+#. Default: "<p>Now that you selected the Page content type, you need to supply some information about it.</p>"
+#: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
+msgid "2_fill-out-the-fields_text"
+msgstr ""
+
 #. Default: "Click the [State] drop-down menu."
 #: /home/zope/virtualenv/i18ndude/tours/02_basic_add_and_publish_a_page.cfg
 msgid "3_0_microstep_description"
