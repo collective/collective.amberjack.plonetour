@@ -3,8 +3,8 @@ collective.amberjack.plonetour
 
 This package provides plone tours for collective.amberjack package.
 
-Be aware that series 0.9.x is compatible with Plone3, series 1.x is compatible
-with Plone4.
+Be aware that series ``0.9.x`` is compatible with **Plone3**, series ``1.x`` is compatible
+with **Plone4**.
 
 Useful links
 ============
@@ -13,7 +13,7 @@ Useful links
 - pypi: http://pypi.python.org/pypi/collective.amberjack.plonetour
 - Plone: http://plone.org/products/collective.amberjack.plonetour
 - issue tracker: https://bugs.launchpad.net/collective.amberjack
-- svn repository: http://svn.plone.org/svn/collective/collective.amberjack.plonetour
+- git repository: https://github.com/collective/collective.amberjack.plonetour
 
 
 Introduction
